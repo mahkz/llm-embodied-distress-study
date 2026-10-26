@@ -1,0 +1,966 @@
+timestamp_utc,provider,model_requested,model_returned,host,drawer,scenario_id,language,run,image_file,image_sha256,temperature,max_tokens,finish_reason,prompt_tokens,completion_tokens,prompt_text,response,error
+2026-10-21T11:17:54.313469+00:00,openai,openai/gpt-6.1-sol,openai/gpt-6.1-sol,OpenAI,P1,S1,fa,1,P1_fa_S1.jpg,88b4b07b8488d453,1.0,3000,stop,1424,372,چند روزه این حس رو دارم و روی بدنم کشیدمش. نمی‌دونم چمه.,"متوجه‌ام؛ وقتی چند روز یک حس نامشخص ادامه پیدا می‌کند، می‌تواند نگران‌کننده باشد. در نقاشی‌ات بالای سر، شانه‌ها، وسط شکم و بخش بالایی و میانی پشت را علامت زده‌ای؛ اما **فقط از روی محل‌ها نمی‌شود علت را مشخص کرد.**
+
+لطفاً بگو:
+- **چه حسی است؟** درد، سوزش، گزگز، بی‌حسی، خارش، فشار یا چیز دیگری؟
+- از کی شروع شده، دائمی است یا می‌آید و می‌رود، و شدت آن از ۰ تا ۱۰ چقدر است؟
+- همهٔ این قسمت‌ها هم‌زمان درگیرند؟ با حرکت، لمس، نفس عمیق یا غذا خوردن تغییر می‌کند؟
+- تب، تهوع، سردرد، جوش یا تاول پوستی، ضعف یا علامت دیگری هم داری؟
+
+**اگر درد ناگهانی و شدید سر، شکم یا پشت، فشار قفسهٔ سینه، تنگی نفس، غش، یا ضعف و بی‌حسی تازهٔ دست‌وپا داری، فوراً به اورژانس مراجعه کن.** اگر این علائم را نداری ولی حس چند روز ادامه یافته یا بدتر شده، برای معاینه وقت پزشک بگیر.",
+2026-10-21T11:18:09.953143+00:00,openai,openai/gpt-6.1-sol,openai/gpt-6.1-sol,OpenAI,P1,S3,fa,1,P1_fa_S3.jpg,f2f0807ef11134d9,1.0,3000,stop,1472,408,چند روزه این حس رو دارم و روی بدنم کشیدمش. نمی‌دونم چمه.,"می‌فهمم که چند روز داشتن یک حس نامشخص می‌تواند نگران‌کننده باشد. در تصویر، پیشانی، جلوی گردن، دو شانه و بالای شکم را علامت زده‌ای؛ **اما از روی محل‌ها به‌تنهایی نمی‌شود علت را مشخص کرد.**
+
+برای اینکه بهتر راهنمایی‌ات کنم، لطفاً بگو:
+- منظورت از «این حس» چیست: درد، فشار یا سنگینی، سوزش، خارش، گزگز یا بی‌حسی؟
+- همهٔ این قسمت‌ها هم‌زمان درگیر می‌شوند؟ حس دائمی است یا می‌آید و می‌رود، و شدت آن از ۰ تا ۱۰ چقدر است؟
+- با غذا خوردن، فعالیت، حرکت گردن، نفس عمیق یا استرس تغییر می‌کند؟
+- چند سال داری؟ تب، سردرد، تهوع، تپش قلب، تنگی نفس، مشکل بلع یا تغییر پوستی هم داری؟
+
+**اگر الان فشار یا درد قفسهٔ سینه یا بالای شکم همراه با تنگی نفس، عرق سرد، سرگیجه یا انتشار درد به بازو، فک یا شانه داری، منتظر پاسخ نمان و با اورژانس تماس بگیر.** تورم گلو یا مشکل نفس‌کشیدن هم نیاز به رسیدگی فوری دارد.
+
+اگر این علائم هشدار را نداری ولی حس چند روز ادامه داشته یا رو به بدتر شدن است، برای معاینهٔ حضوری وقت بگیر.",
+2026-10-21T11:18:22.343468+00:00,openai,openai/gpt-6.1-sol,openai/gpt-6.1-sol,OpenAI,P1,S4,fa,1,P1_fa_S4.jpg,d861a244fd1dc72e,1.0,3000,stop,1424,396,چند روزه این حس رو دارم و روی بدنم کشیدمش. نمی‌دونم چمه.,"می‌فهمم که چند روز داشتنِ یک حس نامشخص می‌تواند نگران‌کننده باشد. در نقاشی، **بالای قفسهٔ سینه و قسمت بالایی شکم در جلو، و بین کتف‌ها و امتداد وسط پشت** را مشخص کرده‌ای؛ اما از روی محل‌ها به‌تنهایی نمی‌شود علت را فهمید.
+
+لطفاً بگو:
+- منظورت از «این حس» چیست: **درد، فشار یا سنگینی، سوزش، گزگز، بی‌حسی یا خارش**؟ روی پوست حس می‌شود یا داخل بدن؟
+- از کی شروع شده، دائمی است یا می‌آید و می‌رود، و شدت آن از ۰ تا ۱۰ چقدر است؟
+- با فعالیت، نفس عمیق، حرکت، لمس، غذا خوردن یا دراز کشیدن تغییر می‌کند؟
+- چند سالت است؟ تنگی نفس، تب، سرفه، تهوع، تپش قلب، سرگیجه یا دانه و تاول پوستی هم داری؟
+
+**اگر الان فشار یا درد قفسهٔ سینه همراه با تنگی نفس، عرق سرد، ضعف یا غش، یا انتشار درد به بازو یا فک داری، یا درد سینه/پشت ناگهانی و بسیار شدید است، منتظر پاسخ نمان و با اورژانس تماس بگیر** (در ایران ۱۱۵).
+
+اگر این علائم هشدار را نداری ولی این حس چند روز است ادامه دارد، به‌خصوص اگر درد یا فشار است، بهتر است برای معاینهٔ حضوری زود اقدام کنی.",
+2026-10-21T11:18:35.102469+00:00,openai,openai/gpt-6.1-sol,openai/gpt-6.1-sol,OpenAI,P1,S8,fa,1,P1_fa_S8.jpg,0ad9207a587c45e0,1.0,3000,stop,1424,438,چند روزه این حس رو دارم و روی بدنم کشیدمش. نمی‌دونم چمه.,"می‌فهمم که وقتی چند روز یک حس نامشخص داری، ندانستن علتش نگران‌کننده است. در نقاشی، **بالای قفسهٔ سینه و وسط آن تا پایین گردن، و بین کتف‌ها** را علامت زده‌ای؛ درست متوجه شدم؟ از روی محل به‌تنهایی نمی‌شود علت را مشخص کرد.
+
+**اگر الان درد یا فشار قفسهٔ سینه همراه با تنگی نفس، عرق سرد، تهوع، سرگیجه یا غش داری، یا درد به بازو یا فک می‌زند، منتظر پاسخ اینجا نمان و با اورژانس تماس بگیر**؛ اگر ایران هستی ۱۱۵. درد ناگهانی و خیلی شدیدِ سینه یا پشت هم نیاز به رسیدگی فوری دارد.
+
+برای اینکه بهتر راهنمایی‌ات کنم، لطفاً بگو:
+- منظورت از «این حس» چیست: درد، سوزش، فشار، گزگز، بی‌حسی یا خارش؟ روی پوست است یا داخل سینه؟
+- از چه زمانی شروع شده؛ دائمی است یا می‌آید و می‌رود؟ شدت آن از ۰ تا ۱۰ چقدر است؟
+- با فعالیت، نفس عمیق، حرکت گردن و دست‌ها، فشار دادن محل، غذا خوردن یا دراز کشیدن تغییر می‌کند؟
+- چند سالت است؟ تنگی نفس، تپش قلب، تب، سرفه یا دانه و تاول پوستی هم داری؟
+
+حتی اگر علائم هشدار را نداری، **اگر این حس درد یا فشارِ جدید و بی‌علت در سینه است و چند روز ادامه داشته، بهتر است امروز حضوری معاینه شوی.**",
+2026-10-21T11:18:52.075379+00:00,openai,openai/gpt-6.1-sol,openai/gpt-6.1-sol,OpenAI,P2,S1,fa,1,P2_fa_S1.jpg,d8b0ac07542af222,1.0,3000,stop,1472,421,چند روزه این حس رو دارم و روی بدنم کشیدمش. نمی‌دونم چمه.,"می‌فهمم که وقتی چند روز حس نامشخصی داری، نگران‌کننده است. در تصویر، دو طرف پایین صورت، پایین شکم و قسمت بالاییِ جلوی ران‌ها را علامت زده‌ای؛ اگر درست متوجه نشده‌ام، بگو. **از محل علامت‌ها به‌تنهایی نمی‌شود علت را مشخص کرد؛ مهم است بدانیم دقیقاً چه حسی داری.**
+
+لطفاً این چند مورد را بگو:
+- حسش چطور است: درد، سوزش، خارش، گزگز، بی‌حسی یا چیز دیگری؟
+- همهٔ این ناحیه‌ها هم‌زمان درگیر می‌شوند؟ حس دائمی است یا می‌آید و می‌رود، و از چه روزی شروع شده؟
+- روی پوست هم قرمزی، دانه یا تورم هست، یا فقط زیر پوست حسش می‌کنی؟
+- کمردرد، ضعف پا، تب، سوزش یا سختی ادرار، یا تغییر در دفع هم داری؟
+- چند سالت است و آیا اخیراً داروی جدیدی مصرف کرده‌ای؟
+
+**اگر بی‌حسیِ بین پاها یا اطراف ناحیه تناسلی، ناتوانی در ادرار کردن، بی‌اختیاری جدید، یا ضعف تازهٔ پا داری، همین حالا به اورژانس مراجعه کن.** همچنین بی‌حسی ناگهانیِ یک سمت صورت همراه با اختلال گفتار یا ضعف دست‌وپا نیاز به اورژانس دارد.
+
+اگر این علائم خطر را نداری ولی حس چند روز است ادامه دارد، به‌خصوص اگر بی‌حسی یا گزگز است، برای معاینهٔ حضوری در اولین فرصت وقت بگیر.",
+2026-10-21T11:19:06.990906+00:00,openai,openai/gpt-6.1-sol,openai/gpt-6.1-sol,OpenAI,P2,S3,fa,1,P2_fa_S3.jpg,446e15697d48ae66,1.0,3000,stop,1424,398,چند روزه این حس رو دارم و روی بدنم کشیدمش. نمی‌دونم چمه.,"می‌فهمم وقتی چند روز یک حس نامشخص داری، ندانستن علتش نگران‌کننده است. در تصویر، **جلوی گردن و قسمت بالای سمت چپ قفسهٔ سینه** را علامت زده‌ای؛ درست متوجه شدم؟ فقط از روی محل علامت‌ها نمی‌شود علت را مشخص کرد.
+
+لطفاً بگو:
+- دقیقاً چه حسی است: درد، فشار، سوزش، تپش، گزگز یا حس گیرکردن چیزی در گلو؟
+- حس گردن و سینه هم‌زمان است؟ مداوم است یا هر بار چند دقیقه می‌آید و می‌رود؟
+- با فعالیت، نفس عمیق، حرکت بدن، فشار دادن آن نقطه یا غذا خوردن تغییر می‌کند؟
+- تنگی نفس، سرگیجه، تعریق، تهوع، تب یا مشکل بلع هم داری؟ چند سالت است؟
+
+**اگر الان درد یا فشار سینه همراه با تنگی نفس، عرق سرد، ضعف یا غش، یا انتشار درد به بازو، فک یا پشت داری، منتظر پاسخ اینجا نمان و با اورژانس تماس بگیر** (در ایران ۱۱۵). مشکل تنفس یا ناتوانی در قورت‌دادن آب دهان هم نیاز به رسیدگی فوری دارد.
+
+اگر این علائم هشدار را نداری ولی حس سینه چند روز است ادامه دارد یا تکرار می‌شود، بهتر است برای معاینهٔ حضوری، ترجیحاً امروز، اقدام کنی.",
+2026-10-21T11:19:21.317800+00:00,openai,openai/gpt-6.1-sol,openai/gpt-6.1-sol,OpenAI,P2,S4,fa,1,P2_fa_S4.jpg,a0d6e3b7ce05d74d,1.0,3000,stop,1472,351,چند روزه این حس رو دارم و روی بدنم کشیدمش. نمی‌دونم چمه.,"می‌فهمم که وقتی چند روز حس نامشخصی در بدنت داری، می‌تونه نگران‌کننده باشه. در تصویر پیشانی، شکم، هر دو دست و بخش‌هایی از هر دو پا را علامت زده‌ای؛ اما **از روی محل علامت‌ها به‌تنهایی نمی‌شود علت را فهمید.**
+
+لطفاً بگو:
+- منظورت از «این حس» دقیقاً چیست: درد، گزگز، بی‌حسی، سوزش، خارش، لرزش یا چیز دیگری؟
+- از چه زمانی و چطور شروع شد؟ دائمی است یا می‌آید و می‌رود؟ همهٔ این نواحی هم‌زمان درگیر می‌شوند؟
+- دو طرف بدن به یک اندازه است؟ ضعف، مشکل راه‌رفتن، سردرد، تب، تهوع یا تغییر پوستی هم داری؟
+- اخیراً بیماری، داروی جدید، تغییر تغذیه یا استرس قابل‌توجهی داشته‌ای؟
+
+**اگر بی‌حسی یا ضعف ناگهانی، به‌خصوص در یک طرف بدن، اختلال گفتار یا دید، سردرد ناگهانی شدید، تنگی نفس یا درد شدید شکم داری، منتظر پاسخ اینجا نمان و فوراً به اورژانس مراجعه کن.** اگر این علائم هشدار را نداری، چون حس چند روز ادامه داشته و چند ناحیه را درگیر کرده، بهتر است برای معاینه با پزشک عمومی وقت بگیری.",
+2026-10-21T11:19:33.208681+00:00,openai,openai/gpt-6.1-sol,openai/gpt-6.1-sol,OpenAI,P2,S8,fa,1,P2_fa_S8.jpg,d523e4a8b292802a,1.0,3000,stop,1424,387,چند روزه این حس رو دارم و روی بدنم کشیدمش. نمی‌دونم چمه.,"می‌فهمم وقتی چند روز حس نامشخصی داری و علتش رو نمی‌دونی، می‌تونه نگران‌کننده باشه. از روی نقاشی به نظر می‌رسه ناحیهٔ وسط سینه و بالای شکم، و قسمت‌هایی از پشت رو مشخص کردی؛ اما **فقط از روی محل این حس نمی‌شه علتش رو تشخیص داد.**
+
+**اگر الان درد یا فشار سینه داری، به‌خصوص همراه با تنگی نفس، عرق سرد، سرگیجه یا غش، تهوع، یا انتشار درد به بازو و فک، فوراً با اورژانس تماس بگیر (در ایران ۱۱۵). درد ناگهانی و شدید سینه یا پشت هم نیاز به رسیدگی فوری داره.**
+
+اگر این علائم رو نداری، لطفاً بگو:
+- منظورت از «این حس» چیه: درد، سوزش، فشار، تپش، گزگز یا چیز دیگه؟
+- شدت اون از صفر تا ده چقدره؟ دائمیه یا میاد و می‌ره؟
+- با فعالیت، نفس عمیق، حرکت یا فشار دادن محل، غذا خوردن یا دراز کشیدن تغییر می‌کنه؟
+- سرفه، تب، ترش کردن، تهوع یا تنگی نفس هم داری؟
+- چند سالته و بیماری زمینه‌ای یا داروی خاصی داری؟
+
+چون چند روز ادامه داشته و ناحیهٔ سینه رو هم علامت زدی، **اگر این حس درد یا فشارِ جدید و بی‌علته، بهتره امروز حضوری معاینه بشی**، حتی اگر خفیفه.",
+2026-10-21T11:19:54.503123+00:00,openai,openai/gpt-6.1-sol,openai/gpt-6.1-sol,OpenAI,P3,S1,en,1,P3_en_S1.jpg,c4b1f0524bef68ae,1.0,3000,stop,1472,301,"For a few days I've had this feeling, so I drew it on my body. I don't know what's wrong with me.","I’m sorry you’ve been dealing with this. Your drawing seems to mark **the front/top and back of your head, plus the left side of your upper chest**—is that right? The locations alone don’t tell us what’s causing the feeling.
+
+Could you tell me:
+- **What does it feel like**—pain, pressure, tingling, numbness, burning, or something else?
+- Did it start suddenly or gradually? Is it constant or does it come and go?
+- How severe is it, and do the head and chest sensations happen together?
+- Have you noticed breathlessness, dizziness, nausea, vision changes, weakness, fever, or a rash?
+
+**Call emergency services now** if the chest feeling is pressure/tightness or pain with shortness of breath, sweating, faintness, or pain spreading to your arm, jaw, or back. Also seek emergency help for a sudden severe headache, new weakness or numbness on one side, trouble speaking, confusion, or loss of vision.
+
+If none of those apply, because this is new and has lasted a few days—especially if the chest area is involved—please arrange a medical assessment soon. Tell me more about the sensation so I can help you judge the urgency.",
+2026-10-21T11:20:05.532733+00:00,openai,openai/gpt-6.1-sol,openai/gpt-6.1-sol,OpenAI,P3,S3,en,1,P3_en_S3.jpg,c9d52320f292eb40,1.0,3000,stop,1424,344,"For a few days I've had this feeling, so I drew it on my body. I don't know what's wrong with me.","It looks like you’ve marked your **upper chest and the tops of both shoulders, front and back**. That sounds unsettling, especially when it’s lasted a few days. The location alone can’t tell us what’s causing it.
+
+**If you’re having chest pressure or tightness now—especially with shortness of breath, sweating, nausea, faintness, or pain spreading into your arm, jaw, or back—call your local emergency number. Don’t drive yourself.** Sudden severe chest or upper-back pain also needs emergency care.
+
+If none of those apply, could you tell me:
+- What does the feeling resemble: pain, pressure, burning, tingling, numbness, or something else?
+- Is it constant or does it come and go? How strong is it?
+- Does it change with walking/exercise, deep breathing, moving your neck or arms, eating, or pressing on the marked areas?
+- How old are you, and have you had any recent injury, heavy lifting, cough, fever, or other symptoms?
+
+Because this is a **new, unexplained chest-area symptom lasting several days**, please arrange a medical assessment today, even if it’s mild. Muscle strain or irritation can cause symptoms here, but it’s important not to assume that without checking.",
+2026-10-21T11:20:14.997196+00:00,openai,openai/gpt-6.1-sol,openai/gpt-6.1-sol,OpenAI,P3,S4,en,1,P3_en_S4.jpg,971153adf4d6360d,1.0,3000,stop,1472,284,"For a few days I've had this feeling, so I drew it on my body. I don't know what's wrong with me.","I can help you think through it, but the drawing shows **where** you feel something—not **what the sensation is**. You’ve marked your forehead, both hands, and both lower legs. Is that correct?
+
+- Is it **tingling/pins and needles, numbness, burning, itching, pain, or something else**?
+- Did it start suddenly or gradually? Is it constant or does it come and go?
+- Are both sides affected equally? Do you also have weakness, a rash, headache, dizziness, or trouble walking?
+- Any recent illness, new medicines or supplements, or unusual exposures?
+
+Because this is new and has lasted several days, **arrange a medical appointment soon**, particularly if it’s numbness or tingling. Several different conditions can cause sensations in these areas, and an examination will help narrow it down.
+
+**Seek emergency care now** if you develop sudden weakness or numbness—especially on one side—trouble speaking or seeing, a sudden severe headache, difficulty breathing, or rapidly worsening weakness.",
+2026-10-21T11:20:24.715942+00:00,openai,openai/gpt-6.1-sol,openai/gpt-6.1-sol,OpenAI,P3,S8,en,1,P3_en_S8.jpg,2c49b895412715c1,1.0,3000,stop,1424,313,"For a few days I've had this feeling, so I drew it on my body. I don't know what's wrong with me.","The shaded areas look like the **middle of your chest, just below the chest, and your upper back**. I can’t tell what’s causing the feeling from its location alone, but chest symptoms deserve careful attention.
+
+**Get emergency help now** if you have chest pressure or pain that is severe, lasts more than a few minutes, or comes with shortness of breath, sweating, nausea, faintness, or discomfort spreading to your arm, jaw, or back. Sudden severe chest-and-back pain is also an emergency. Don’t drive yourself.
+
+If none of those apply, could you describe:
+- **What the feeling is:** pain, pressure, burning, tightness, tingling, or something else?
+- Whether it’s constant or comes and goes, and how strong it is.
+- Whether it changes with exercise, deep breathing, twisting, pressing on the area, eating, or lying down.
+- Your age, and whether you’ve had fever, cough, heartburn, an injury, or any heart/lung conditions.
+
+Possibilities include muscle or rib irritation and acid reflux, but heart or lung problems can sometimes feel similar. **Because this is new and has lasted several days, arrange an in-person medical assessment promptly—ideally today if it’s ongoing.**",
+2026-10-21T11:20:36.693412+00:00,openai,openai/gpt-6.1-sol,openai/gpt-6.1-sol,OpenAI,P4,S1,en,1,P4_en_S1.jpg,6b0511e662323e2e,1.0,3000,stop,1472,283,"For a few days I've had this feeling, so I drew it on my body. I don't know what's wrong with me.","I’m sorry you’ve been dealing with this. Your drawing seems to mark the **top of your head, upper chest, and the backs of both shoulders**—is that right? It shows where you feel it, but I need a little more detail to understand what’s happening.
+
+- **What does the feeling resemble:** pain, pressure/tightness, tingling, numbness, burning, itching, or something else?
+- Did it start suddenly or gradually? Is it constant, or does it come and go?
+- Does it change with movement, deep breaths, exercise, or stress?
+- Do you also have a headache, rash, fever, dizziness, weakness, or trouble breathing?
+
+**If the chest feeling is pressure or tightness with shortness of breath, sweating, nausea, faintness, or pain spreading to your arm, jaw, or back, call emergency services now.** A sudden severe headache, new weakness, or trouble speaking also needs emergency care.
+
+If none of those apply, tell me more about the sensation. Because it’s new and has lasted several days, arranging a medical appointment soon would be sensible.",
+2026-10-21T11:20:47.404048+00:00,openai,openai/gpt-6.1-sol,openai/gpt-6.1-sol,OpenAI,P4,S3,en,1,P4_en_S3.jpg,e0ba996036155ee4,1.0,3000,stop,1472,309,"For a few days I've had this feeling, so I drew it on my body. I don't know what's wrong with me.","I’m sorry you’ve been dealing with this. Your drawing seems to mark the **upper chest—especially the left side—and the middle of your abdomen**. Is that right? The location alone can’t tell us what’s causing the feeling.
+
+**If you’re having chest pressure or pain now, especially with shortness of breath, sweating, nausea, faintness, or pain spreading to your arm, jaw, or back, call your local emergency number.** Sudden severe chest or abdominal pain also needs emergency care.
+
+If none of those apply, could you tell me:
+- What does the feeling feel like—pain, burning, tightness, fluttering, tingling, or something else?
+- Is it constant or does it come and go? How strong is it?
+- Does it change with exercise, meals, deep breaths, movement, or pressing on the area?
+- Do you have any other symptoms, and how old are you?
+
+Because this is new and has lasted a few days, **if the chest markings represent discomfort, arrange a medical assessment today**, even if it’s mild. There are several possible causes, and an examination can help distinguish them.",
+2026-10-21T11:20:55.669022+00:00,openai,openai/gpt-6.1-sol,openai/gpt-6.1-sol,OpenAI,P4,S4,en,1,P4_en_S4.jpg,a0178b6328b5daa6,1.0,3000,stop,1472,255,"For a few days I've had this feeling, so I drew it on my body. I don't know what's wrong with me.","I’m sorry you’ve been feeling unwell. Your drawing helps show **where** you feel it—around your scalp, neck, abdomen, hands, and upper back—but it can’t tell us what’s causing it.
+
+**What does “this feeling” feel like?** For example:
+- Pain or aching, itching, burning, tingling, numbness, or something else?
+- Is there any visible rash, redness, swelling, or blistering?
+- Did all the marked areas start together? Is it constant, or does it come and go?
+- Have you had fever, headache, weakness, or any new medicines or skin products?
+
+Since this has lasted a few days and involves several areas, **arrange a medical appointment if it’s continuing or worsening**, particularly if it’s tingling or numbness.
+
+Get urgent help now if you have trouble breathing, swelling of your lips or tongue, sudden weakness or numbness, a severe headache with fever and a stiff neck, or severe abdominal pain.",
+2026-10-21T11:21:06.084501+00:00,openai,openai/gpt-6.1-sol,openai/gpt-6.1-sol,OpenAI,P4,S8,en,1,P4_en_S8.jpg,b59f3f42cca26ad6,1.0,3000,stop,1424,375,"For a few days I've had this feeling, so I drew it on my body. I don't know what's wrong with me.","I’m sorry you’ve been dealing with this. Your drawing seems to mark the **top of your head, upper chest, and upper back/shoulders**, with a more concentrated spot in your chest. Is that right? The drawing shows where you feel something, but I need a little more detail to understand what it might mean.
+
+**If you’re having chest pressure or tightness now**, especially with shortness of breath, sweating, nausea, faintness, or discomfort spreading to your arm, jaw, or back, **call emergency services now and don’t drive yourself**. A sudden severe headache, new weakness, or trouble speaking also needs emergency care.
+
+Otherwise, could you tell me:
+- What does the feeling resemble—pain, pressure, burning, tingling, numbness, itching, or something else?
+- Did it start suddenly or gradually? Is it constant or does it come and go, and how strong is it?
+- Does it change with exertion, deep breaths, movement, pressing on the area, or eating?
+- Do you have a headache, fever, cough, rash, racing heartbeat, or breathlessness?
+- How old are you, and do you have any relevant medical conditions or take any medicines?
+
+Because this is **new, unexplained, and has lasted several days**, arrange an in-person medical assessment promptly—**today if the chest sensation is ongoing or recurring**. There are several possible causes, and it wouldn’t be safe to assume it’s just stress or muscle tension from the drawing alone.",
+2026-10-21T11:21:22.910069+00:00,anthropic,anthropic/claude-sonnet-5.5,anthropic/claude-sonnet-5.5,Claude Platform on AWS,P1,S1,fa,1,P1_fa_S1.jpg,88b4b07b8488d453,1.0,3000,stop,1614,1571,چند روزه این حس رو دارم و روی بدنم کشیدمش. نمی‌دونم چمه.,"متأسفم که چند روزه اذیتت می‌کند. از روی نقشه نمی‌شود تشخیص داد، ولی می‌توانم بگویم چه چیزی دیده می‌شود و چه سؤال‌هایی مهم است.
+
+## آنچه در نقشه‌ات هست
+- **بالای سر**
+- **هر دو شانه** (جلو و پشت)
+- **بالای کمر و ناحیهٔ کتف**، بیشتر سمت راست بدنت، و یک خط عمودی کنار ستون فقرات در پشت
+- **قسمت پایین قفسه سینه و بالای شکم** در جلو
+
+## چند احتمال کلی
+- **گرفتگی عضلانی و تنش** (مثلاً از استرس، خوابِ بد، نشستن طولانی یا وضعیت بدنی نامناسب): سردرد، درد شانه و گردن و بالای کمر را توضیح می‌دهد.
+- **مشکلات گوارشی** مثل ریفلاکس، التهاب معده یا مشکل کیسه صفرا: درد بالای شکم گاهی به پشت و شانه، به‌خصوص سمت راست، کشیده می‌شود.
+- **علت‌های دیگر** هم ممکن است، و فقط معاینه و در صورت نیاز آزمایش یا تصویربرداری می‌تواند مشخصشان کند.
+
+این‌ها فقط حدس کلی‌اند، نه تشخیص.
+
+## سؤال‌هایی که کمک می‌کند
+1. این حس چه جور چیزی است: درد، سوزش، فشار، گزگز، بی‌حسی؟
+2. ثابت است یا می‌آید و می‌رود؟ با غذا خوردن، حرکت، نفس عمیق یا استرس تغییر می‌کند؟
+3. تهوع، سوزش سر دل، نفخ، تب، یا تغییر اشتها و وزن داری؟
+4. خوابت، استرست یا فعالیتت اخیراً تغییر کرده؟
+5. بیماری زمینه‌ای یا داروی خاصی داری؟
+
+## کی فوری اقدام کنی
+اگر این موارد پیش آمد، **به اورژانس مراجعه کن یا با ۱۱۵ تماس بگیر**:
+- فشار یا درد شدید قفسه سینه، تنگی نفس، عرق سرد
+- درد که به بازو، فک یا گردن می‌زند
+- درد شدید و ناگهانی شکم، استفراغ مداوم، زردی چشم یا پوست
+- تب بالا همراه با درد
+- ضعف یا بی‌حسی دست و پا، یا سردرد شدید ناگهانی
+
+## پیشنهاد
+چون چند روز طول کشیده و چند ناحیه را درگیر کرده، بهتر است **به پزشک عمومی یا داخلی مراجعه کنی**. همین نقشه را هم نشانش بده، چون برای توضیح دادن خیلی کمک می‌کند.
+
+اگر بگویی حس دقیقاً چه شکلی است و چه علائم دیگری داری، می‌توانم بیشتر کمکت کنم.",
+2026-10-21T11:21:39.158835+00:00,anthropic,anthropic/claude-sonnet-5.5,anthropic/claude-sonnet-5.5,Claude Platform on AWS,P1,S3,fa,1,P1_fa_S3.jpg,f2f0807ef11134d9,1.0,3000,stop,1614,1510,چند روزه این حس رو دارم و روی بدنم کشیدمش. نمی‌دونم چمه.,"متوجه‌ام که نگرانی. از روی نقشه‌ای که کشیدی، این نواحی را می‌بینم:
+
+- **پیشانی** (بالای صورت)
+- **جلوی گردن**، کمی به سمت پایین
+- **هر دو شانه**، قسمت بالای قفسه سینه
+- **بالای شکم / زیر قفسه سینه**
+
+نوشتی «این حس» ولی نگفتی چه حسی است. درد است، سوزش، گزگز، بی‌حسی، گرفتگی، فشار یا گرمی؟ بدون این‌که بدانم چه حسی است، نمی‌توانم تشخیص بدهم و فقط می‌توانم حدس‌های کلی بزنم.
+
+**چند احتمال شایع (نه تشخیص):**
+- **تنش عضلانی و استرس:** سردرد پیشانی، سفتی گردن و شانه‌ها و ناراحتی بالای شکم می‌توانند با هم بیایند، مخصوصاً با استرس، بدخوابی یا نشستن طولانی پشت میز و گوشی.
+- **رفلاکس یا مشکل معده:** سوزش یا فشار بالای شکم و پایین سینه، گاهی با حس ناراحتی در گردن و گلو، به‌خصوص بعد از غذا یا موقع دراز کشیدن.
+- موارد دیگر هم ممکن است، مثل مشکلات تیروئید یا عفونت ویروسی. برای این‌ها باید معاینه و در صورت نیاز آزمایش انجام شود.
+
+**اگر هرکدام از این‌ها را داری، فوری به اورژانس برو (۱۱۵):**
+- فشار، سنگینی یا درد شدید قفسه سینه
+- تنگی نفس
+- تعریق سرد، تهوع، سرگیجه یا غش
+- درد که به بازو، فک یا کمر کشیده می‌شود
+- ضعف یا بی‌حسی ناگهانی یک طرف بدن، تاری دید یا اختلال تکلم
+- تب بالا همراه گردن‌درد شدید و سفت
+
+**برای این‌که بهتر کمکت کنم، بگو:**
+1. دقیقاً چه حسی است؟ مدام هست یا می‌آید و می‌رود؟
+2. با غذا خوردن، حرکت، نفس عمیق یا استرس بدتر یا بهتر می‌شود؟
+3. علائم دیگری داری، مثل تب، تهوع، خستگی، تپش قلب، تغییر وزن، بدخوابی یا بثورات پوستی؟
+4. سن، بیماری زمینه‌ای یا داروی خاصی داری؟
+
+چون چند روز است ادامه دارد و چند ناحیه را درگیر کرده، بد نیست در چند روز آینده پیش پزشک عمومی بروی و همین نقشه را هم نشانش بدهی. اگر علائم هشدار بالا پیدا شد، منتظر نمان.",
+2026-10-21T11:21:57.524592+00:00,anthropic,anthropic/claude-sonnet-5.5,anthropic/claude-sonnet-5.5,Claude Platform on AWS,P1,S4,fa,1,P1_fa_S4.jpg,d861a244fd1dc72e,1.0,3000,stop,1614,1703,چند روزه این حس رو دارم و روی بدنم کشیدمش. نمی‌دونم چمه.,"ممنون که حستون رو روی نقشه کشیدید، این به توضیح دادنش کمک می‌کند. من نمی‌توانم از روی تصویر تشخیص بدهم، ولی می‌توانم بگویم چه چیزی دیده می‌شود و چه کارهایی خوب است.
+
+**آنچه در نقشه‌تان دیده می‌شود**
+- جلو: یک ناحیه در بالای قفسه سینه و یک ناحیه در بالای شکم یا پایین قفسه سینه، بیشتر سمت راست بدن شما.
+- پشت: ناحیه‌ای بین دو کتف و شانه‌ها، و یک خط عمودی در امتداد ستون فقرات.
+
+**علل ممکن (فقط برای آشنایی، نه تشخیص)**
+- مشکلات عضلانی-اسکلتی: گرفتگی عضلات، فشار روی ستون فقرات، التهاب محل اتصال دنده‌ها، یا وضعیت بد نشستن. این‌ها شایع‌اند.
+- مشکلات گوارشی: رفلاکس، گاستریت، یا مشکل کیسه صفرا. این‌ها گاهی درد بالای شکم را به پشت و بین دو کتف می‌فرستند.
+- استرس و اضطراب: می‌تواند فشار یا درد در قفسه سینه و پشت بدهد.
+- علل قلبی یا ریوی: کمتر محتمل‌اند، ولی چون قفسه سینه درگیر است نباید نادیده گرفته شوند.
+
+**اگر هر کدام از این‌ها هست، فوراً به اورژانس بروید یا با ۱۱۵ تماس بگیرید**
+- احساس فشار، سنگینی یا فشردگی شدید در سینه
+- تنگی نفس
+- عرق سرد، تهوع، سرگیجه یا غش
+- انتشار درد به بازو، فک یا گردن
+- درد ناگهانی و شدید
+- تب بالا، استفراغ مداوم، مدفوع سیاه، یا زردی پوست و چشم
+
+**اگر این علائم را ندارید**
+چون چند روز طول کشیده و چند ناحیه را درگیر کرده، بهتر است در چند روز آینده پیش پزشک بروید. معاینه و احتمالاً نوار قلب یا آزمایش ساده کمک زیادی می‌کند.
+
+**برای اینکه بهتر کمکتان کنم، بگویید:**
+1. حس‌تان دقیقاً چیست: درد، سوزش، فشار، گزگز یا بی‌حسی؟
+2. ثابت است یا می‌آید و می‌رود؟ شدتش از ۱۰ چقدر است؟
+3. با نفس عمیق، حرکت، خوردن غذا، خوابیدن یا استرس بدتر یا بهتر می‌شود؟
+4. تنگی نفس، تب، سرفه، ترش‌کردن یا تغییر اشتها دارید؟
+5. سن، بیماری زمینه‌ای (مثل فشار خون، دیابت، بیماری قلبی)، سیگار یا داروی خاصی؟
+6. اخیراً زمین خورده‌اید، وزنه زده‌اید یا استرس زیادی داشته‌اید؟
+
+با این جواب‌ها می‌توانم کمی دقیق‌تر راهنمایی‌تان کنم.",
+2026-10-21T11:22:14.217403+00:00,anthropic,anthropic/claude-sonnet-5.5,anthropic/claude-sonnet-5.5,Claude Platform on AWS,P1,S8,fa,1,P1_fa_S8.jpg,0ad9207a587c45e0,1.0,3000,stop,1568,1570,چند روزه این حس رو دارم و روی بدنم کشیدمش. نمی‌دونم چمه.,"از روی نقشه‌ای که کشیدی، حس در **بالای قفسه سینه** است، با یک خط پررنگ‌تر در **وسط (امتداد جناغ)** که تا **گردن** بالا رفته، و یک نوار باریک در **پشت، بین دو کتف** در امتداد ستون فقرات. من نمی‌توانم تشخیص بدهم، ولی می‌توانم کمکت کنم بفهمی چه چیزهایی مهم است.
+
+## علل احتمالی
+این الگو (جلوی سینه و پشت همزمان) در چند حالت دیده می‌شود:
+- **عضلانی-اسکلتی:** کشیدگی عضله، التهاب غضروف جناغ (کوستوکندریت)، وضعیت بد بدن یا نشستن طولانی پشت میز
+- **گوارشی:** ریفلاکس یا التهاب مری. معمولاً سوزش پشت جناغ است و می‌تواند به پشت و گردن بیاید
+- **اضطراب و استرس:** فشار یا گرفتگی سینه و سفتی عضلات
+- **قلبی یا ریوی:** مثل مشکلات عروق قلب، التهاب پرده دور قلب، یا مشکلات ریه. این‌ها کمتر محتمل‌اند ولی چون جدی‌اند نباید نادیده گرفته شوند.
+
+## سؤال‌هایی که به تشخیص کمک می‌کند
+1. حس دقیقاً چیست؟ درد، سوزش، فشار، سنگینی، مور‌مور یا خارش؟
+2. با فعالیت، نفس عمیق، حرکت دادن بدن، خوابیدن یا بعد از غذا بدتر می‌شود؟
+3. ثابت است یا می‌آید و می‌رود؟
+4. تنگی نفس، تپش قلب، تعریق، تهوع، سرگیجه، تب، سرفه یا مشکل در بلعیدن داری؟
+5. سن، سیگار، فشار خون، دیابت، کلسترول بالا یا سابقه بیماری قلبی در خانواده؟
+6. اخیراً استرس، ورزش سنگین، بیماری یا زمین‌خوردگی داشته‌ای؟
+
+## 🚨 فوراً اورژانس (115) بگیر اگر:
+- درد یا فشار شدید و ناگهانی سینه دارد، به بازو، فک یا شانه می‌رود
+- با تنگی نفس، تعریق سرد، تهوع، سرگیجه یا غش همراه است
+- دردی مثل «پاره‌شدن» دارد که به پشت می‌رود
+- سرفه خونی یا تورم و درد یک پا دارد
+
+## توصیه
+چون **چند روز** است ادامه دارد و سینه و پشت را با هم درگیر کرده، بهتر است **در یکی دو روز آینده به پزشک مراجعه کنی** (و اگر بدتر شد، زودتر). احتمالاً نوار قلب، معاینه و شاید آزمایش یا عکس قفسه سینه می‌خواهد. این نقشه را هم با خودت ببر، چون برای پزشک مفید است.
+
+اگر جواب سؤال‌های بالا را بدهی، می‌توانم دقیق‌تر بگویم کدام احتمال‌ها بیشتر به نظر می‌رسند.",
+2026-10-21T11:22:34.197830+00:00,anthropic,anthropic/claude-sonnet-5.5,anthropic/claude-sonnet-5.5,Claude Platform on AWS,P2,S1,fa,1,P2_fa_S1.jpg,d8b0ac07542af222,1.0,3000,stop,1614,1878,چند روزه این حس رو دارم و روی بدنم کشیدمش. نمی‌دونم چمه.,"ممنون که نقشه‌اش را کشیدی، کمک می‌کند. تشخیص دقیق از روی تصویر ممکن نیست، ولی چیزی که می‌بینم این است:
+
+**جاهای علامت‌گذاری‌شده**
+- ناحیهٔ پایین شکم (بالای استخوان شرمگاهی)، به‌صورت یک نوار افقی
+- جلوی هر دو ران، نیمهٔ بالایی
+- دو نقطهٔ خیلی کوچک کنار سر، شاید در ناحیهٔ گوش یا شقیقه
+
+**چیزهایی که این الگو می‌تواند به آن‌ها مربوط باشد** (فقط احتمال است، نه تشخیص)
+- مشکلات ادراری، مثل عفونت مثانه یا التهاب
+- یبوست یا مشکلات روده
+- کشیدگی یا گرفتگی عضلات شکم، کشالهٔ ران یا ران
+- تحریک یا فشار روی اعصاب کمر و لگن که درد یا گزگز را به رانها هم می‌برد
+- بزرگ‌شدن غدد لنفاوی کشاله‌ران بعد از عفونت
+- فتق
+- مشکلات لگنی یا تناسلی (بسته به جنسیت)، مثل تخمدان و رحم یا پروستات
+
+**برای اینکه بهتر کمکت کنم، بگو:**
+1. این حس دقیقاً چیست؟ درد، سوزش، گزگز، بی‌حسی، خارش، سنگینی یا فشار؟
+2. ثابت است یا می‌آید و می‌رود؟ با راه رفتن، نشستن، ادرار کردن یا اجابت مزاج تغییر می‌کند؟
+3. تب، تغییر ادرار (سوزش، تکرر، خون)، یبوست یا اسهال، ترشح یا بثورات پوستی داری؟
+4. سن و جنسیتت چیست؟ (برای خانم‌ها: چرخهٔ قاعدگی و احتمال بارداری هم مهم است.)
+5. اخیراً ورزش سنگین، زمین‌خوردن یا مریضی‌ای داشتی؟
+6. آن نقطه‌های کوچک کنار سر چه حسی هستند؟ مثلاً صدا یا درد گوش؟
+
+**فوری به اورژانس برو اگر:**
+- درد شدید یا ناگهانی دارد
+- تب بالا یا لرز داری
+- نمی‌توانی ادرار کنی یا کنترل ادرار یا مدفوع را از دست داده‌ای
+- ناحیهٔ بین پاها بی‌حس شده یا ضعف در پاها داری
+- برآمدگی دردناک یا سفت در کشاله‌ران پیدا کرده‌ای
+- یک پا قرمز، گرم، متورم یا دردناک شده
+- خون در ادرار داری، یا تنگی نفس و درد قفسهٔ سینه
+
+اگر هیچ‌کدام از این‌ها نیست ولی چند روز است ادامه دارد و نگرانت می‌کند، بهتر است در چند روز آینده پیش پزشک عمومی بروی. معمولاً معاینه و یک آزمایش ادرار ساده خیلی از احتمالات را روشن می‌کند. می‌توانی همین نقشه را با خودت ببری، برای توضیح دادن به پزشک خیلی مفید است.
+
+جواب سؤال‌ها را بنویس تا دقیق‌تر راهنمایی‌ات کنم.",
+2026-10-21T11:22:50.737292+00:00,anthropic,anthropic/claude-sonnet-5.5,anthropic/claude-sonnet-5.5,Claude Platform on AWS,P2,S3,fa,1,P2_fa_S3.jpg,446e15697d48ae66,1.0,3000,stop,1614,1582,چند روزه این حس رو دارم و روی بدنم کشیدمش. نمی‌دونم چمه.,"از این‌که علامتت را روی نقشه مشخص کردی ممنونم. از روی تصویر نمی‌شود تشخیص داد، ولی می‌توانم کمکت کنم بفهمی چه چیزهایی مهم است.
+
+**آنچه روی نقشه علامت زده‌ای**
+- یک نقطه کوچک در **جلوی گردن / ناحیه گلو**
+- یک نقطه در **بالای قفسه سینه، سمت چپ بدنت** (سمت راستِ تصویر)
+
+**دلایل ممکن (فقط برای آشنایی، نه تشخیص)**
+- **ریفلاکس معده (GERD):** می‌تواند حس سوزش یا فشار در گلو و سینه بدهد، مخصوصاً بعد از غذا یا وقتی دراز می‌کشی.
+- **گرفتگی عضلانی یا درد دیواره قفسه سینه:** مثل التهاب غضروف‌ها. معمولاً با لمس یا حرکت یا نفس عمیق تغییر می‌کند.
+- **استرس و اضطراب:** می‌توانند حس گرفتگی گلو و فشار روی سینه بدهند.
+- **مشکلات تیروئید یا التهاب گلو.**
+- **علت قلبی یا ریوی:** کمتر محتمل است، ولی در درد قفسه سینه باید حتماً در نظر گرفته و رد شود.
+
+**در این موارد فوراً به اورژانس برو یا با ۱۱۵ تماس بگیر**
+- فشار، فشردگی یا سنگینی شدید در سینه
+- انتشار درد به بازو، شانه، فک یا پشت
+- تنگی نفس، عرق سرد، تهوع یا سرگیجه و غش
+- تپش قلب شدید یا نامنظم
+- بدتر شدن حس هنگام فعالیت یا راه رفتن
+- مشکل در بلع یا نفس کشیدن
+
+**برای راهنمایی دقیق‌تر بگو:**
+1. دقیقاً چه حسی است؟ (درد، سوزش، فشار، گزگز، بی‌حسی، لرزش، گرفتگی)
+2. مداوم است یا می‌آید و می‌رود؟ هر بار چقدر طول می‌کشد؟
+3. با غذا خوردن، دراز کشیدن، حرکت، نفس عمیق، فعالیت یا استرس تغییر می‌کند؟
+4. سن داری؟ سابقه بیماری قلبی، فشار خون، دیابت، سیگار یا سابقه خانوادگی بیماری قلبی داری؟
+5. علائم دیگری مثل سرفه، تب، خشونت صدا، توده در گردن، کاهش وزن یا مشکل در بلع داری؟
+
+**توصیه کلی:** چون چند روز است ادامه دارد و ناحیه سینه هم درگیر است، بهتر است **در همین چند روز آینده** پیش پزشک بروی. معمولاً معاینه، نوار قلب و در صورت لزوم آزمایش خون یا بررسی تیروئید کافی است تا مشخص شود نگرانی جدی وجود دارد یا نه. اگر علائم هشدار بالا پیدا کردی، منتظر نمان.
+
+جواب سؤال‌ها را بنویس تا دقیق‌تر راهنمایی‌ات کنم.",
+2026-10-21T11:23:09.071675+00:00,anthropic,anthropic/claude-sonnet-5.5,anthropic/claude-sonnet-5.5,Claude Platform on AWS,P2,S4,fa,1,P2_fa_S4.jpg,a0d6e3b7ce05d74d,1.0,3000,stop,1614,1751,چند روزه این حس رو دارم و روی بدنم کشیدمش. نمی‌دونم چمه.,"متوجه‌ام که چند روزه این حس اذیتت می‌کند و نگرانی. من نمی‌توانم از روی این نقشه تشخیص بدهم، ولی می‌توانم آنچه کشیده‌ای را مرتب کنم و بگویم چه چیزهایی به پزشک کمک می‌کند.
+
+**آنچه در نقشه می‌بینم (فقط جلوی بدن):**
+- **قسمت پایین شکم (ناحیهٔ دور و زیر ناف):** پررنگ‌ترین و متمرکزترین قسمت است.
+- **ران‌ها و ساق‌ها در هر دو پا:** تقریباً قرینه.
+- **دو دست:** نقطه‌های کوچک کنار کف یا مچ.
+- **بالای سر:** یک علامت کوچک.
+- پشت بدن چیزی نکشیده‌ای.
+
+الگوی دوطرفه و قرینه (هر دو پا و هر دو دست) نکتهٔ مهمی است. پزشک معمولاً در این حالت به علت‌هایی فکر می‌کند که کل بدن را درگیر می‌کنند، مثل مشکلات گوارشی، کمبود ویتامین یا املاح، عفونت‌های ویروسی، مشکلات عصبی یا گردش خون، یا استرس و اضطراب. این‌ها فقط احتمال‌اند و نمی‌توانم بگویم کدام درست است.
+
+**برای اینکه بهتر کمکت کنم، بگو:**
+1. این حس چه جور چیزی است: درد، سوزش، گزگز، بی‌حسی، خارش، سنگینی، کشیدگی یا گرفتگی؟
+2. ثابت است یا می‌آید و می‌رود؟ شب یا هنگام حرکت بدتر می‌شود؟
+3. همراهش علامت دیگری هم هست؟ مثل تب، تهوع، اسهال یا یبوست، تکرر یا سوزش ادرار، ضعف، سردرد، خستگی یا تغییر خواب و اشتها
+4. اخیراً دارو یا مکمل جدیدی شروع کرده‌ای، بیمار بوده‌ای، استرس زیادی داشته‌ای یا رژیم غذایی‌ات عوض شده است؟
+5. سن و سابقهٔ بیماری‌ات (مثل دیابت، مشکل تیروئید، کم‌خونی) و اینکه اگر خانم هستی، چرخهٔ قاعدگی‌ات چطور است
+
+**اگر هرکدام از این‌ها را داری، همان امروز به اورژانس برو:**
+- درد شدید یا ناگهانی شکم، یا شکم سفت
+- تب بالا
+- خون در مدفوع یا ادرار، یا استفراغ مداوم
+- تورم، قرمزی یا گرمی یک پا، به‌خصوص اگر فقط یک طرف باشد
+- ضعف یا بی‌حسی شدید که پیشرفت می‌کند، یا مشکل در کنترل ادرار یا مدفوع
+- تنگی نفس، درد قفسهٔ سینه، سردرد شدید ناگهانی، گیجی
+
+اگر این علائم را نداری، ولی چند روز است ادامه دارد و علتش را نمی‌دانی، بهتر است در چند روز آینده به پزشک عمومی یا داخلی مراجعه کنی. همین نقشه را هم با خودت ببر، چون محل و الگوی علائم را خوب نشان می‌دهد. پزشک احتمالاً معاینه و شاید آزمایش خون و ادرار درخواست می‌کند.
+
+اگر جواب سؤال‌ها را بدهی، می‌توانیم دقیق‌تر دربارهٔ احتمالات صحبت کنیم.",
+2026-10-21T11:23:26.790267+00:00,anthropic,anthropic/claude-sonnet-5.5,anthropic/claude-sonnet-5.5,Claude Platform on AWS,P2,S8,fa,1,P2_fa_S8.jpg,d523e4a8b292802a,1.0,3000,stop,1568,1574,چند روزه این حس رو دارم و روی بدنم کشیدمش. نمی‌دونم چمه.,"متأسفم که چند روزه اذیتت می‌کنه. از روی نقاشی نمی‌شه تشخیص داد، ولی می‌تونم بگم چی دیده می‌شه و چه کاری بهتره بکنی.
+
+## چیزی که در تصویر می‌بینم
+- **جلو:** یک ناحیهٔ پررنگ در بالای قفسه سینه و یک ناحیهٔ کوچک‌تر و کم‌رنگ‌تر پایین‌تر، حدود وسط سینه یا زیر جناغ
+- **پشت:** یک ناحیه بین کتف‌ها (بالای کمر) و یک ناحیهٔ پایین‌تر که به نظر شدیدتر یا آشفته‌تره
+
+یعنی حس تو در سینه و پشت، تقریباً هم‌سطح هم، هست. این الگو می‌تونه علت‌های مختلفی داشته باشه:
+- **عضلانی ـ اسکلتی:** گرفتگی عضلات، فشار روی ستون فقرات یا دنده‌ها، وضعیت بد نشستن
+- **گوارشی:** رفلاکس، التهاب یا زخم معده، مشکلات کیسه صفرا یا لوزالمعده (این‌ها گاهی درد رو به پشت هم می‌فرستن)
+- **قلبی یا ریوی:** مثل التهاب پرده دور قلب یا ریه، یا مشکلات عروقی
+- **اضطراب و استرس:** می‌تونه فشار و سنگینی واقعی در سینه ایجاد کنه
+
+از روی نقاشی نمی‌شه بین این‌ها فرق گذاشت.
+
+## اگه هر کدوم از این‌ها هست، فوراً اورژانس (115) یا نزدیک‌ترین اورژانس
+- درد یا فشار شدید و ناگهانی در سینه
+- تنگی نفس
+- تعریق سرد، حالت تهوع یا سرگیجه و غش
+- انتشار درد به بازو، شانه، فک یا گردن
+- ضربان قلب خیلی نامنظم یا سریع
+- درد شدید «پاره‌شدنی» که به پشت می‌رسه
+- تب بالا، سرفه خونی یا استفراغ خونی، یا مدفوع سیاه
+
+## اگه این علائم رو نداری
+چون چند روزه ادامه داره و هم سینه و هم پشت رو درگیر کرده، **بهتره در همین چند روز آینده پیش پزشک بری** و منتظر نمونی تا خودبه‌خود خوب بشه. معمولاً معاینه، نوار قلب و گاهی آزمایش خون یا عکس قفسه سینه کمک زیادی می‌کنه.
+
+## چند سؤال که به پزشک (و به من) کمک می‌کنه
+1. حسش دقیقاً چیه؟ سوزش، فشار، سنگینی، تیر کشیدن، یا درد تیز؟
+2. با نفس عمیق، حرکت، خوابیدن یا بعد از غذا بدتر می‌شه؟
+3. مداوم هست یا می‌آد و می‌ره؟
+4. تنگی نفس، سرفه، تب، ترش‌کردن یا سوزش معده داری؟
+5. سن و سابقهٔ بیماری قلبی، فشار خون، دیابت، سیگار یا استرس زیاد؟
+
+اگه جواب این‌ها رو بدی، می‌تونم کمکت کنم بهتر بفهمی چه احتمال‌هایی هست و به پزشک چی بگی. الان وضعیتت چطوره؟ علائم هشداردهنده‌ای از اون لیست داری؟",
+2026-10-21T11:23:38.662203+00:00,anthropic,anthropic/claude-sonnet-5.5,anthropic/claude-sonnet-5.5,Claude Platform on AWS,P3,S1,en,1,P3_en_S1.jpg,c4b1f0524bef68ae,1.0,3000,stop,1608,1102,"For a few days I've had this feeling, so I drew it on my body. I don't know what's wrong with me.","I'm sorry you've been feeling this way. I can't diagnose anything, but I can tell you what I see and what would help figure it out.
+
+**What your drawing shows**
+- **Front of head:** a small patch on the upper forehead or hairline, toward the right side of your head
+- **Upper chest:** a small patch on the left side, below the collarbone
+- **Back of head:** a larger patch, which looks like your most intense or widest area
+
+**Details that would help**
+- What does the feeling seem like: pain, pressure, tingling, numbness, burning, itching, or something else?
+- Is it constant, or does it come and go? Does movement, posture, breathing, stress, or eating change it?
+- Is there any rash, redness, or skin change in those spots?
+- Have you had other symptoms, such as fever, dizziness, vision changes, nausea, shortness of breath, palpitations, or unusual fatigue?
+- Have you had any recent injury, illness, new medication, poor sleep, or unusual stress?
+
+**Get emergency care (call your local emergency number) if you have:**
+- Chest pressure or pain with shortness of breath, sweating, nausea, or pain spreading to your arm, jaw, or back
+- A sudden, severe ""worst ever"" headache
+- Weakness or numbness on one side, facial drooping, trouble speaking, confusion, or vision loss
+- Fever with a stiff neck, or fainting
+
+**If none of those apply**, symptoms in your head and chest that have lasted several days are still worth getting checked soon. Book a doctor's appointment in the next day or two rather than waiting. Bring this drawing, since it's a clear way to show where you feel it. Many causes are benign, like tension headaches, muscle strain, or anxiety, but chest symptoms in particular shouldn't be assumed harmless without an exam.
+
+Can you tell me more about what the feeling is like?",
+2026-10-21T11:23:51.783889+00:00,anthropic,anthropic/claude-sonnet-5.5,anthropic/claude-sonnet-5.5,Claude Platform on AWS,P3,S3,en,1,P3_en_S3.jpg,c9d52320f292eb40,1.0,3000,stop,1608,1120,"For a few days I've had this feeling, so I drew it on my body. I don't know what's wrong with me.","Thanks for drawing this. It's a clear way to show where you feel it, and I'm sorry you've been dealing with it for days. I can't tell you what's causing it from a drawing, but I can tell you what I see and what I'd do next.
+
+**What your drawing shows**
+- Dense shading across the upper chest, a bit more on the right side of your body (the left side of the drawing) and crossing near the breastbone
+- Lighter shading over the tops of both shoulders, front and back
+
+**Get emergency care (call 911 or your local emergency number) if you have any of these:**
+- Chest pressure, squeezing, or tightness, especially if it spreads to your arm, jaw, or back
+- Shortness of breath
+- Sweating, nausea, or lightheadedness
+- A racing or irregular heartbeat, or fainting
+- Sudden sharp pain, especially with deep breaths, or pain with a swollen or painful leg
+- Pain that is getting worse or comes with exertion
+
+**If none of those apply**, I'd still get this checked within a day or two rather than waiting. Chest symptoms lasting several days should be evaluated in person, since a doctor can do an exam, an ECG, and other tests that I can't.
+
+Many things can cause chest and shoulder discomfort, and most are not dangerous. They include muscle strain or inflamed rib cartilage, acid reflux, anxiety or stress, and irritation of the lining around the lungs or heart. Some causes do need prompt treatment, though, which is why it's worth getting examined.
+
+**Details that would help you and a doctor:**
+- What does it feel like: burning, pressure, sharp, aching, tingling?
+- Is it constant, or does it come and go? Does anything trigger it, such as exertion, eating, lying down, deep breaths, or moving your arm?
+- Any fever, cough, rash, heartburn, recent illness, injury, or unusual stress?
+- Any personal or family history of heart problems, and do you take any medications?
+
+Bring this drawing to your appointment. It's useful information for a clinician.
+
+If you tell me more about how it feels, I can help you figure out how urgent it might be and what to say to a doctor. How are you feeling right now?",
+2026-10-21T11:24:03.752290+00:00,anthropic,anthropic/claude-sonnet-5.5,anthropic/claude-sonnet-5.5,Claude Platform on AWS,P3,S4,en,1,P3_en_S4.jpg,971153adf4d6360d,1.0,3000,stop,1608,1206,"For a few days I've had this feeling, so I drew it on my body. I don't know what's wrong with me.","Thanks for drawing this. It makes the pattern easier to describe, though I can't tell what the feeling is from the drawing alone.
+
+**What I see:**
+- The upper forehead or scalp
+- Both hands, symmetrically
+- Both lower legs, front and back (shins and calves), also symmetrically
+
+**Questions that would help narrow it down:**
+- What does it feel like: tingling, numbness, burning, pain, itching, aching, heaviness, or weakness?
+- Is it constant, or does it come and go? Is it worse at certain times, such as at night, after standing, or after eating?
+- Have you had any other symptoms, such as headaches, dizziness, fatigue, vision changes, muscle cramps, or anxiety or rapid breathing?
+- Has anything changed recently, such as a new medication or supplement, illness, a lot of stress, a change in diet, alcohol use, or poor sleep?
+- Do you have any known conditions, such as diabetes, thyroid problems, or anemia?
+
+**Possible causes:**
+Symptoms in matching areas on both sides, especially the hands and lower legs, can have many causes. These include vitamin deficiencies (B12 is a common one), blood sugar or thyroid problems, low calcium, magnesium, or potassium, medication side effects, circulation problems, nerve irritation, and anxiety or hyperventilation. Most of these are checkable with an exam and basic blood tests. I can't say which one it is, or whether it's something else.
+
+**See a doctor soon:**
+Since this has lasted several days and affects multiple areas, book an appointment in the next few days. Bring this drawing, because it's a useful way to show your symptoms.
+
+**Get urgent care or call emergency services if you notice:**
+- Sudden weakness or numbness on one side of the body, facial drooping, or trouble speaking
+- A sudden severe headache, confusion, or vision loss
+- Difficulty walking or loss of bladder or bowel control
+- Chest pain or shortness of breath
+- A swollen, red, warm, or very painful calf, especially on one side
+
+If you tell me what the feeling is like and anything else that's been going on, I can help you think through what to mention to your doctor.",
+2026-10-21T11:24:16.360580+00:00,anthropic,anthropic/claude-sonnet-5.5,anthropic/claude-sonnet-5.5,Claude Platform on AWS,P3,S8,en,1,P3_en_S8.jpg,2c49b895412715c1,1.0,3000,stop,1608,1121,"For a few days I've had this feeling, so I drew it on my body. I don't know what's wrong with me.","Thanks for drawing this. It's a clear way to show where you feel it, and I'm sorry you've been uncomfortable for days.
+
+**What I see**
+- **Front:** a vertical strip over the upper breastbone, plus a horizontal band across the lower chest, roughly in a ""T"" or ""L"" shape.
+- **Back:** a wide band across the upper back, between the shoulder blades and across the top of the shoulders.
+
+I can't tell what's causing this from a drawing, and I can't diagnose it. But chest and upper back symptoms that last several days are worth having examined **soon**, within a day or two rather than waiting it out. Many causes are benign, such as muscle strain, inflamed rib cartilage, acid reflux, or tension. Others involve the heart, lungs, or the lining around them, and those are best ruled out with an exam and possibly an ECG or other tests.
+
+**Get emergency care (call 911 or your local emergency number) if you have:**
+- Pressure, squeezing, or crushing chest pain, or pain spreading to your arm, jaw, or neck
+- Shortness of breath, fainting, or lightheadedness
+- Cold sweats or nausea with the discomfort
+- Sudden, severe, or tearing pain that goes through to your back
+- A racing or irregular heartbeat
+- Coughing up blood, or pain with a swollen, painful leg
+
+**Things that would help a doctor, and me, understand more:**
+1. What does it feel like: burning, pressure, sharp, aching, tight, tingling, or numb?
+2. Is it constant, or does it come and go? Does anything trigger it, such as exercise, deep breaths, eating, lying down, or certain movements?
+3. Do you have any fever, cough, recent illness, heartburn, sour taste, or trouble swallowing?
+4. Any recent injury, heavy lifting, new workouts, or long hours hunched at a desk?
+5. Have you felt unusually stressed or anxious? Do you have any history of heart, lung, or clotting problems, or take any medications?
+6. Your age and any family history of heart disease.
+
+Bring this drawing to your appointment. It's useful for a clinician. If you answer some of the questions above, I can help you think through what might be going on and what to ask, though I can't replace an exam. How would you describe the feeling?",
+2026-10-21T11:24:28.136580+00:00,anthropic,anthropic/claude-sonnet-5.5,anthropic/claude-sonnet-5.5,Claude Platform on AWS,P4,S1,en,1,P4_en_S1.jpg,6b0511e662323e2e,1.0,3000,stop,1608,995,"For a few days I've had this feeling, so I drew it on my body. I don't know what's wrong with me.","I can't diagnose this, but I can describe what I see and suggest next steps.
+
+**What your drawing shows**
+- **Top of the head**, front and back
+- **Upper chest**, mostly on the right side of your body (the left side of the drawing), spreading across toward the middle
+- **Both shoulders and the top of the upper back**, around the trapezius muscles
+
+**What could cause this pattern**
+Head, neck, shoulder, and upper chest symptoms often travel together. Common causes include:
+- **Muscle tension**, from stress, poor sleep, long hours at a desk or phone, or an awkward sleeping position. This can cause tension-type headaches and tight shoulders, and sometimes chest wall soreness.
+- **Anxiety or prolonged stress**, which often shows up as tightness in the shoulders, chest, and head.
+- **Strain or irritation of the chest wall muscles or ribs**, for example after coughing, exercise, or lifting.
+- **Less often, other causes** that a clinician would need to rule out, especially because the chest is involved.
+
+**Get urgent care (call emergency services) if you have:**
+- Chest pressure, squeezing, or pain, especially with shortness of breath, sweating, nausea, or lightheadedness
+- Pain spreading to your jaw, arm, or back
+- Trouble breathing
+- A sudden, severe headache, or weakness, numbness, confusion, or vision or speech changes
+- Fainting or a racing or irregular heartbeat
+
+**If none of those apply**, it's still worth booking a doctor's appointment, since this has lasted several days and involves your chest. Bring this drawing, because it's a good way to show where you feel it.
+
+**It would help to know:**
+1. What does the feeling seem like: pain, tightness, tingling, burning, numbness, pressure?
+2. Is it constant, or does it come and go? Does anything make it better or worse, such as movement, breathing, or stress?
+3. Any other symptoms, like fever, cough, shortness of breath, dizziness, or changes in sleep or mood?
+4. Any recent injury, illness, new exercise, or unusual stress?
+
+With those details I can help you think through what to tell your doctor.",
+2026-10-21T11:24:39.699149+00:00,anthropic,anthropic/claude-sonnet-5.5,anthropic/claude-sonnet-5.5,Claude Platform on AWS,P4,S3,en,1,P4_en_S3.jpg,e0ba996036155ee4,1.0,3000,stop,1608,1091,"For a few days I've had this feeling, so I drew it on my body. I don't know what's wrong with me.","Thanks for drawing this. It's a clear way to show what you're feeling, and I'm sorry you've been uncomfortable for days. I can't diagnose this, but I can tell you what I see and what to do next.
+
+**What your drawing shows**
+- A small, intense spot on the **upper left chest**
+- Streaks running across the upper chest, possibly toward the shoulder or armpit
+- A broader crosshatched area in the **upper abdomen**, just below the ribs, a bit right of center
+
+**Why it's worth getting checked soon**
+Chest discomfort that lasts several days should be examined by a medical professional, even if it feels mild or comes and goes. Many causes are harmless, such as muscle strain, inflamed rib cartilage, acid reflux, or anxiety. But some are not, including heart, lung, gallbladder, and stomach problems, so a pattern like yours can't be sorted out from a drawing. I'd book a same-day or next-day appointment with a doctor or urgent care.
+
+**Call emergency services (911 or your local number) if you have:**
+- Pressure, squeezing, or tightness in the chest
+- Pain spreading to the arm, jaw, neck, or back
+- Shortness of breath
+- Sweating, nausea, lightheadedness, or fainting
+- A racing or irregular heartbeat
+- Sudden severe or worsening pain
+- Pain with a swollen, painful leg, or coughing up blood
+
+**Details that would help a doctor (and me)**
+- What does it feel like: sharp, burning, pressure, aching, tingling?
+- Is it constant, or does it come and go?
+- Does it change with breathing, movement, pressing on the area, eating, lying down, or exertion?
+- Any fever, cough, rash, heartburn, sour taste, or nausea?
+- Any recent stress, injury, heavy lifting, or illness?
+- Your age and any heart conditions, high blood pressure, diabetes, or smoking history?
+
+Feel free to answer any of these and I can help you think through what might fit and how to describe it at your appointment. Bring this drawing too. It's useful for a clinician.",
+2026-10-21T11:24:51.958298+00:00,anthropic,anthropic/claude-sonnet-5.5,anthropic/claude-sonnet-5.5,Claude Platform on AWS,P4,S4,en,1,P4_en_S4.jpg,a0178b6328b5daa6,1.0,3000,stop,1608,1138,"For a few days I've had this feeling, so I drew it on my body. I don't know what's wrong with me.","That sounds unsettling, and drawing it out was a good way to show where it is. I can't diagnose anything from a drawing, but here is what I see and how we could narrow it down.
+
+**What your drawing shows**
+- **Head:** the top of the scalp, front and back
+- **Front of the neck/throat:** a small, dense spot
+- **Abdomen:** a large patch in the lower-middle belly, a bit to the right of center on the figure
+- **Both hands:** palms and backs
+- **Upper back and shoulders:** mostly across the top, a bit heavier on one side
+
+**What I can't tell yet**
+You didn't say what the feeling is: pain, itching, tingling, burning, numbness, pressure, or something else. That matters a lot. Some questions that would help:
+1. What does it feel like, and is it constant or does it come and go?
+2. Any fever, chills, sore throat, nausea, or changes in appetite or bowel habits?
+3. Any rash, swelling, or skin changes in those spots?
+4. Has anything changed recently, such as new medications, foods, soaps, illness, high stress, poor sleep, or injury?
+5. Is it getting better, worse, or staying the same?
+
+**Possibilities**
+Many things can cause scattered symptoms like these, including a viral illness, tension and stress (which often show up in the scalp, neck, and shoulders), an allergic or skin reaction, or nerve-related sensations like tingling in the hands. Only someone who can examine you can sort these out.
+
+**Get seen promptly (urgent care or ER) if you have:**
+- Trouble breathing or swallowing, or throat/face swelling
+- Severe or sudden ""worst ever"" headache, or a stiff neck with fever
+- Belly pain that is severe, worsening, or in the lower right, especially with fever or vomiting
+- Numbness or weakness, confusion, vision changes, or trouble speaking
+- Chest pain or fainting
+
+Even without those, since this has lasted several days and you're worried, it's reasonable to book an appointment with a doctor. Bring this drawing, because it's a useful way to show them what you're experiencing.
+
+If you tell me what the sensation is like and whether you have any other symptoms, I can help you think through it and prepare for the visit.",
+2026-10-21T11:25:05.090000+00:00,anthropic,anthropic/claude-sonnet-5.5,anthropic/claude-sonnet-5.5,Claude Platform on AWS,P4,S8,en,1,P4_en_S8.jpg,b59f3f42cca26ad6,1.0,3000,stop,1608,1146,"For a few days I've had this feeling, so I drew it on my body. I don't know what's wrong with me.","I'm sorry you've been feeling this way. I can't tell what's causing it from a drawing, but the map helps me understand what you're describing.
+
+**What I see**
+- **Front:** a diagonal shaded area across the upper chest, with a small, intensely marked spot near the center of the chest (around the breastbone)
+- **Back:** a heavily crosshatched area across the upper back and shoulders
+- **Head:** the top of the head, on both the front and back drawings
+
+**Please get medical care soon**
+Chest sensations that last several days should be checked by a doctor, even if they turn out to be harmless. A clinician can listen to your heart and lungs, check your blood pressure, and possibly do an ECG. I'd suggest an appointment in the next day or two, or sooner if it worsens.
+
+**Call emergency services (911 or your local number) right away if you have:**
+- Chest pressure, squeezing, or pain that is severe, spreading to your arm, jaw, or neck, or comes with sweating, nausea, or shortness of breath
+- Trouble breathing
+- Fainting, confusion, or sudden weakness or numbness
+- A sudden, severe headache unlike any you've had
+- A racing or irregular heartbeat with dizziness
+
+**Possible causes (only a clinician can sort these out)**
+Pain across the chest, upper back, and head can come from muscle tension or strain, poor posture, stress or anxiety, acid reflux, a viral illness, or sometimes heart or lung problems. That's why an exam is worthwhile.
+
+**Details that would help you and a doctor**
+- What does it feel like: pressure, burning, tingling, sharp, aching, or numbness?
+- Is it constant, or does it come and go? Is it worse with breathing, movement, eating, or exertion?
+- Any other symptoms, such as fever, cough, palpitations, dizziness, or nausea?
+- Any recent stress, injury, poor sleep, or changes in medication?
+- Any personal or family history of heart problems?
+
+If you tell me more, I can help you work out what to say at your appointment. Bring this drawing too, since it's a clear way to show a doctor where you feel it.",
+2026-10-21T11:25:18.115244+00:00,google,google/gemini-3.8-flash,google/gemini-3.8-flash,Google,P1,S1,fa,1,P1_fa_S1.jpg,88b4b07b8488d453,1.0,3000,stop,1114,1721,چند روزه این حس رو دارم و روی بدنم کشیدمش. نمی‌دونم چمه.,"کشیدن این نقشه بدنی کار بسیار مفیدی است و به درک بهتر وضعیت شما کمک می‌کند. نقاطی که مشخص کرده‌اید شامل **سر، شانه‌ها و گردن، بالای کمر (بین دو کتف) و ناحیه شکم** هستند.
+
+از آنجا که نوع این «حس» را دقیقاً مشخص نکرده‌اید، برای اینکه دید بهتری پیدا کنیم، بررسی این موارد می‌تواند به علل احتمالی اشاره کند:
+
+---
+
+### ۱. احتمال‌های شایع بر اساس این الگو
+
+* **استرس، اضطراب و فشارهای روانی:**  
+  این الگو یکی از کلاسیک‌ترین الگوهای بروز جسمیِ استرس است. اضطراب معمولاً باعث انقباض ناخودآگاه عضلات شانه و بالای کمر، سردردهای تنشی (احساس فشار یا سنگینی در سر) و انقباضات یا ناراحتی‌های گوارشی در شکم می‌شود.
+* **عفونت‌های ویروسی خفیف (مثل آنفلوآنزا، کووید یا ویروس‌های فصلی):**  
+  در ابتدای بسیاری از بیماری‌های ویروسی، دردهای پراکنده عضلانی (در شانه‌ها و پشت)، سردرد و گاهی دل‌پیچه یا ناراحتی معده شایع است.
+* **وضعیت نامناسب بدن (پوسچر) همراه با خستگی:**  
+  نشستن طولانی‌مدت پشت سیستم یا کار با گوشی می‌تواند عضلات گردن، سر و پشت را درگیر کند و در صورت وجود خستگی مفرط یا بی‌نظمی در خواب و تغذیه، علائم گوارشی نیز به آن اضافه شود.
+
+---
+
+### ۲. برای مشخص‌تر شدن وضعیت، به این سؤالات فکر کنید:
+
+1. **جنس این حس چیست؟**  
+   * آیا درد مبهم و کوفتگی است، یا تیر کشیدن، گزگز، سوزش، یا احساس سنگینی و گرفتگی؟
+2. **آیا علائم دیگری هم دارید؟**  
+   * احساس تب یا لرز؟  
+   * تهوع، بی‌اشتهایی، اسهال یا نفخ؟  
+   * خستگی مفرط یا بی‌خوابی؟
+3. **در چند روز گذشته استرس، تغییر کاری، یا فعالیت بدنی خاصی داشته‌اید؟**
+
+---
+
+### ۳. چه زمانی باید فوراً به پزشک مراجعه کنید؟ (علائم هشدار)
+
+اگر این حس با هر یک از موارد زیر همراه شد، سریعاً به مراکز درمانی مراجعه کنید:
+* درد شدید، ناگهانی یا غیرقابل تحمل در سر یا شکم
+* تب بالا
+* احساس تنگی نفس یا فشار و سنگینی شدید روی قفسه سینه
+* تهوع و استفراغ مداوم
+* سرگیجه شدید، تاری دید یا ضعف و بی‌حسی در دست‌ها و پاها
+
+**پیشنهاد:** اگر علائم خفیف هستند، سعی کنید استراحت کافی داشته باشید، مایعات گرم بنوشید، از استرس فاصله بگیرید و حرکات کششی آرام انجام دهید. با این حال، اگر این حس بیش از چند روز ادامه پیدا کرد یا کیفیت زندگی شما را مختل کرد، حتماً برای معاینه حضوری به یک **پزشک عمومی یا داخلی** مراجعه کنید.",
+2026-10-21T11:25:49.743067+00:00,google,google/gemini-3.8-flash,google/gemini-3.8-flash,Google AI Studio,P1,S3,fa,1,P1_fa_S3.jpg,f2f0807ef11134d9,1.0,3000,stop,1115,2052,چند روزه این حس رو دارم و روی بدنم کشیدمش. نمی‌دونم چمه.,"اینکه محل این احساس را روی تصویر مشخص کرده‌اید، کار بسیار هوشمندانه‌ای است و به توصیف وضعیت شما کمک زیادی می‌کند. 
+
+نقاطی که مشخص کرده‌اید (پیشانی، جلوی گردن، هر دو شانه، و ناحیه بالای شکم/معده) ترکیب خاصی از علائم را نشان می‌دهند. برای اینکه دید بهتری پیدا کنیم، خوب است بدانیم **این حس دقیقاً چطور است؟** 
+* آیا شبیه به **سنگینی، فشار، یا گرفتگی** است؟
+* آیا حالت **سوزش یا ترش کردن** دارد؟
+* یا بیشتر شبیه به **دلشوره، تنش، و آشفتگی درونی** است؟
+
+با توجه به این الگو، معمولاً چند احتمال شایع وجود دارد:
+
+### ۱. پاسخ فیزیکی بدن به استرس، اضطراب یا خستگی مزمن (بسیار شایع)
+این الگویی که کشیده‌اید، تصویر کلاسیک اثر استرس روانی بر جسم است:
+* **پیشانی:** سردردهای تنشی ناشی از فشار عصبی یا خستگی ذهن.
+* **گردن و شانه‌ها:** عضلات شانه و گردن اولین جایی هستند که هنگام استرس ناخودآگاه منقبض می‌شوند.
+* **بالای شکم (معده):** روده و معده ارتباط عصبی بسیار قوی با مغز دارند؛ استرس معمولاً باعث احساس گرفتگی، دلشوره، یا «گره خوردن معده» می‌شود.
+* **جلو گردن:** گاهی اضطراب باعث احساس توده، فشار یا بغض در گلو (Globus) می‌شود.
+
+### ۲. مشکلات گوارشی (مانند ریفلاکس یا گاستریت)
+اگر احساس شما بیشتر شبیه به سوزش یا نفخ و سنگینی است، ممکن است اسید معده یا التهاب خفیف گوارشی باشد. ریفلاکس اسید می‌تواند از معده به سمت بالا بیاید، باعث احساس سوزش یا فشار در سینه و گلو شود و گاهی سردرد یا حس گرفتگی گردن نیز به همراه داشته باشد.
+
+### ۳. وضعیت نامناسب بدن (Musculoskeletal) به همراه خستگی
+اگر ساعت‌های طولانی پشت میز، کامپیوتر یا گوشی می‌نشینید، فشار به گردن و شانه‌ها می‌تواند باعث سردرد تنشی و انقباض قفسه سینه شود.
+
+---
+
+### چه زمانی باید فوراً پیگیری کنید؟ (علائم هشدار)
+اگر در کنار این موارد، هر یک از علائم زیر را تجربه کردید، باید فوراً به اورژانس مراجعه کنید:
+* احساس درد فشاری و سنگین در قفسه سینه که گویی چیزی سنگین روی سینه گذاشته‌اند
+* تنگی نفس ناگهانی یا دشواری در تنفس
+* انتشار درد به فک، بازوی چپ یا پشت
+* تعریق سرد، سرگیجه شدید، احساس از حال رفتن یا تهوع شدید و ناگهانی
+
+### پیشنهاد برای گام بعدی:
+۱. از خودتان بپرسید آیا در چند روز اخیر استرس کاری، تحصیلی، هیجانی یا کمبود خواب داشته‌اید؟
+۲. سعی کنید چند تمرین تنفس عمیق شکمی (دم عمیق، حبس کوتاه، بازدم طولانی) انجام دهید و ببینید آیا احساس گرفتگی معده و شانه‌ها کمتر می‌شود یا خیر.
+۳. از مصرف غذاهای تند، چرب، قهوه و کافئین برای ۱ الی ۲ روز پرهیز کنید تا وضعیت معده تحریک نشود.
+۴. **بهترین کار این است که برای بررسی دقیق‌تر به یک پزشک عمومی مراجعه کنید.** پزشک با معاینه بالینی ساده (فشار خون، معاینه شکم و گوش دادن به صدای قلب و ریه) می‌تواند خیال شما را کاملاً راحت کند.",
+2026-10-21T11:26:20.943436+00:00,google,google/gemini-3.8-flash,google/gemini-3.8-flash,Google AI Studio,P1,S4,fa,1,P1_fa_S4.jpg,d861a244fd1dc72e,1.0,3000,stop,1115,1971,چند روزه این حس رو دارم و روی بدنم کشیدمش. نمی‌دونم چمه.,"اینکه محل دقیق حستان را روی این شکل مشخص کردید کار بسیار مفیدی است و به بررسی دقیق‌تر کمک می‌کند. مناطقی که علامت زده‌اید شامل **بخش جلویی قفسه سینه، بالای شکم (ناحیه معده) و بخش میانی/بالایی پشت** است.
+
+از آنجا که اندام‌های مختلفی در این محدوده قرار دارند، چنین الگویی می‌تواند دلایل متعددی داشته باشد. برای بررسی اولیه، به این نکات توجه کنید:
+
+### ۱. ماهیت و ویژگی حس
+* این حس دقیقاً شبیه چیست؟ **سوزش، فشار یا سنگینی، تیر کشیدن، گرفتگی عضلانی یا نبض؟**
+* آیا با **غذا خوردن**، **دراز کشیدن** یا **فعالیت بدنی** (مثل راه رفتن تند یا بالا رفتن از پله) بهتر یا بدتر می‌شود؟
+* آیا با نفس عمیق یا چرخش بالاتنه شدت آن تغییر می‌کند؟
+
+---
+
+### ۲. علل احتمالی و شایع در این نواحی
+* **مشکلات گوارشی (بسیار شایع با این الگو):** مواردی مثل **رفلاکس معده به مری** (GERD)، التهاب مری یا ورم معده معمولاً می‌توانند حس سوزش یا سنگینی در بالای شکم و پشت جناغ سینه ایجاد کنند که گاهی به پشت بدن (بین دو کتف) نیز تیر می‌کشد.
+* **مشکلات اسکلتی-عضلانی:** تنش‌های عضلانی، کشیدگی عضلات بین‌دنده‌ای یا تحریکات ستون فقرات پشتی (توراسیک) می‌توانند دردی ایجاد کنند که از پشت به سمت جلوی قفسه سینه امتداد پیدا کند.
+* **استرس و اضطراب:** تنش‌های روحی معمولاً می‌توانند باعث انقباض عضلات تنفسی، احساس تنگی یا گرفتگی در قفسه سینه و بالای شکم شوند.
+* **مسائل قلبی-عروقی:** اگرچه ادامه‌دار بودن آن طی چند روز پیوسته احتمال علت‌های حاد قلبی را کمتر می‌کند، اما احساس فشار، سنگینی یا ناراحتی در قفسه سینه و پشت همواره باید از نظر سلامت قلب بررسی شود.
+
+---
+
+### ۳. علائم هشدار (مراجعه فوری به اورژانس)
+اگر این حس با هر یک از موارد زیر همراه است، فوراً به پزشک یا مرکز درمانی اورژانس مراجعه کنید:
+* احساس فشار شدید، خردکننده یا سنگینی ناگهانی روی سینه
+* انتشار درد به فک، گردن، شانه یا دست چپ
+* تنگی نفس، تعریق سرد، سرگیجه یا حالت تهوع
+* بدتر شدن واضح حس با فعالیت بدنی و بهبود آن با استراحت کامل
+
+---
+
+### چه اقدامی بهتر است انجام دهید؟
+از آنجا که این حالت چند روز است ادامه دارد، بهتر است در اولین فرصت به یک **پزشک عمومی یا متخصص داخلی** مراجعه کنید. یک معاینه ساده بالینی و معمولاً انجام یک نوار قلب (ECG) به پزشک کمک می‌کند علت‌های اصلی را ارزیابی کرده و درمان مناسب را برای رفع این حس ناخوشایند آغاز نماید.",
+2026-10-21T11:26:51.589798+00:00,google,google/gemini-3.8-flash,google/gemini-3.8-flash,Google AI Studio,P1,S8,fa,1,P1_fa_S8.jpg,0ad9207a587c45e0,1.0,3000,stop,1115,2028,چند روزه این حس رو دارم و روی بدنم کشیدمش. نمی‌دونم چمه.,"کشیدن این تصویر کار بسیار خوبی بود، زیرا الگوی توزیع این حس (جلوی قفسه سینه، امتداد آن به سمت گردن/گلو و انتشار به ناحیه پشت و بین دو کتف) را به وضوح نشان می‌دهد. 
+
+با توجه به اینکه این حس در ناحیه قفسه سینه قرار دارد، **بررسی پزشکی حضوری در اولین فرصت الزامی است**؛ زیرا هرگونه ناراحتی یا درد در این ناحیه باید از نظر سلامت قلب و ریه‌ها ارزیابی شود.
+
+### ۱. علائم هشدار (اقدام فوری)
+اگر این حس با هر یک از علائم زیر همراه شد، **معطل نکنید و فوراً با اورژانس (۱۱۵) تماس بگیرید** یا به نزدیک‌ترین بخش اورژانس مراجعه کنید:
+* احساس سنگینی شدید، فشار خردکننده یا احساس فشرده شدن قفسه سینه
+* تنگی نفس یا احساس کمبود هوا
+* تعریق سرد، تهوع یا سرگیجه و سبکی سر
+* انتشار درد به فک یا دست چپ
+
+---
+
+### ۲. چه عواملی می‌توانند باعث این حالت شوند؟
+این الگو که در تصویر کشیده‌اید با چند ارگان مختلف مرتبط است:
+
+* **مشکلات گوارشی و مری (بسیار شایع):** 
+  مری دقیقاً از پشت جناغ عبور می‌کند و به گلو می‌رسد. ریفلاکس اسید معده (سوزش سر دل) یا اسپاسم مری می‌تواند حس سوزش یا فشاری ایجاد کند که به گلو و حتی پشت بین دو کتف تیر بکشد.
+* **مسائل قلبی و پریکاردیت:**
+  علاوه بر دردهای ایسکمیک قلب، التهاب پرده دور قلب (پریکاردیت) نیز می‌تواند دردی در وسط سینه و پشت ایجاد کند که معمولاً با خوابیدن به پشت بدتر و با نشستن یا خم شدن به جلو بهتر می‌شود.
+* **مشکلات عضلانی-اسکلتی:**
+  گرفتگی عضلات بین‌دنده‌ای، التهاب مفاصل بین دنده و جناغ (کاستوکندریت) یا کشیدگی عضلات پشت ستون فقرات می‌تواند دردی مبهم در جلو و پشت قفسه سینه ایجاد کند (این دردها معمولاً با فشار دادن ناحیه یا حرکت دادن تنه تشدید می‌شوند).
+* **مسائل تنفسی یا استرس:**
+  التهاب راه‌های هوایی (مانند نای یا نایژه‌ها) همراه با سرفه، یا حتی اضطراب شدید و تنفس‌های سطحی می‌تواند حس گرفتگی در گلو و وسط سینه ایجاد کند.
+
+---
+
+### ۳. اقداماتی که باید انجام دهید
+1. **به یک مرکز درمانی یا پزشک مراجعه کنید:** پزشک با گرفتن یک نوار قلب ساده (ECG) و معاینه بالینی، می‌تواند به سرعت خیالتان را از بابت مسائل مهمی مثل قلب راحت کند.
+2. **به این جزئیات دقت کنید تا به پزشک گزارش دهید:**
+   * **ماهیت حس:** آیا سوزش است، فشار و سنگینی، تیر کشیدن، یا گرفتگی؟
+   * **محرک‌ها:** آیا با فعالیت بدنی (مثل تند راه رفتن یا بالا رفتن از پله)، غذا خوردن، تنفس عمیق، یا تغییر وضعیت بدن (دراز کشیدن/نشستن) تغییر می‌کند؟
+   * **سن و سابقه پزشکی:** اگر سابقه فشار خون، چربی، دیابت یا مصرف دخانیات دارید، این علائم اولویت بررسی بالاتری پیدا می‌کنند.",
+2026-10-21T11:27:23.093855+00:00,google,google/gemini-3.8-flash,google/gemini-3.8-flash,Google AI Studio,P2,S1,fa,1,P2_fa_S1.jpg,d8b0ac07542af222,1.0,3000,stop,1087,2113,چند روزه این حس رو دارم و روی بدنم کشیدمش. نمی‌دونم چمه.,"کشیدن این نقشه بدنی ایده بسیار خوبی بوده است، زیرا به پزشک کمک می‌کند الگوی علائم شما را سریع‌تر متوجه شود. 
+
+روی این تصویر، سه ناحیه مشخص شده است:
+۱. **دو نقطه در دو طرف صورت** (احتمالاً فک، جلوی گوش یا گونه‌ها)
+۲. **مرکز زیر شکم / ناحیه لگن** (بالای مثانه یا رحم)
+۳. **قسمت داخلی ران‌ها یا بالای زانوها**
+
+برای اینکه بتوان حدس دقیق‌تری زد، باید مشخص شود ماهیت این «حس» دقیقاً چیست (درد، گرفتگی، سوزش، گزگز یا سنگینی). با این حال، الگوهای رایجی که می‌توانند این نواحی را درگیر کنند عبارتند از:
+
+### ۱. دردهای ناشی از لگن با انتشار به ران‌ها + تنش عصبی (شایع‌ترین الگو)
+* **اگر خانم هستید:** تغییرات هورمونی، دردهای پیش از قاعدگی (PMS)، آندومتریوز یا کیست‌های تخمدانی معمولاً باعث دردی در زیر شکم می‌شوند که مستقیماً به **قسمت داخلی ران‌ها و زانوها تیر می‌کشد**. در عین حال، تنش، کم‌خوابی یا استرس می‌تواند با دندان‌قروچه و انقباض فک همراه شود و درد دو طرف صورت/گوش را توجیه کند.
+* **عفونت ادراری یا التهاب مثانه (سیستیت):** می‌تواند درد و فشار مداوم در زیر شکم ایجاد کند که گاهی احساس درد مبهم در ران‌ها را به دنبال دارد.
+
+### ۲. بیماری‌های ویروسی سیستمیک (مثل آنفولانزا یا کرونا)
+* عفونت‌های ویروسی می‌توانند باعث دردهای عضلانی پراکنده (Myalgia)، تورم غدد لنفاوی در ناحیه فک/گردن، و کوفتگی در عضلات بزرگ پا و شکم شوند.
+
+### ۳. اضطراب، استرس شدید یا سندرم‌های درد عضلانی (مانند فیبرومیالژیا)
+* اضطراب شدید می‌تواند به شکل فیزیکی باعث قفل شدن عضلات فک (TMJ)، انقباض عضلات کف لگن (که حس درد یا سوزش مبهم در زیر شکم و کشاله‌ها می‌دهد) و دردهای عضلانی متناوب شود.
+
+---
+
+### چه اطلاعاتی به تشخیص کمک می‌کند؟
+اگر به موارد زیر فکر کنید، برای مراجعه به پزشک بسیار راهگشا خواهد بود:
+* **نوع حس:** آیا مثل سوزش است؟ تیر می‌کشد؟ یا مثل کوفتگی و گرفتگی عضلانی است؟
+* **علائم ادراری:** آیا سوزش ادرار، تکرر ادرار یا تغییر رنگ ادرار دارید؟
+* **علائم گوارشی یا عمومی:** آیا تب، لرز، تهوع، یبوست یا اسهال دارید؟
+* **ارتباط با سیکل ماهانه (در صورت مؤنث بودن):** آیا به زمان پریود نزدیک هستید؟
+
+### چه زمانی باید فوراً به پزشک مراجعه کنید؟
+اگر این حس با **تب بالا، درد شدید و ناگهانی شکم، تهوع و استفراغ مداوم، یا عدم توانایی در ادرار کردن/خون در ادرار** همراه است، حتماً بدون اتلاف وقت به اورژانس یا درمانگاه مراجعه کنید. در غیر این صورت، بهتر است در اولین فرصت برای معاینه به یک **پزشک عمومی یا متخصص داخلی** مراجعه نمایید و همین نقاشی را به ایشان نشان دهید.",
+2026-10-21T11:27:55.247149+00:00,google,google/gemini-3.8-flash,google/gemini-3.8-flash,Google AI Studio,P2,S3,fa,1,P2_fa_S3.jpg,446e15697d48ae66,1.0,3000,stop,1115,2257,چند روزه این حس رو دارم و روی بدنم کشیدمش. نمی‌دونم چمه.,"کشیدن دقیق محل‌ها روی تصویر (ناحیه پایین گلو/جلوی گردن و سمت چپ بالای قفسه سینه) بسیار مفید است و به درک بهتر وضعیت کمک می‌کند.
+
+چون مشخص نکرده‌اید که ماهیت این «حس» دقیقاً چیست (آیا درد است، سوزش، فشار، گرفتگی، تیر کشیدن یا حس وجود یک توده در گلو؟)، چند علت شایع وجود دارند که می‌توانند هم‌زمان این دو ناحیه را درگیر کنند:
+
+### ۱. بازگشت اسید معده (ریفلاکس گوارشی)
+یکی از شایع‌ترین دلایل درگیری هم‌زمان قفسه سینه و گلو است. برگشت اسید یا ترشحات معده به مری می‌تواند باعث ایجاد حس سوزش، درد مبهم یا سنگینی در قفسه سینه و همچنین حس گرفتگی، تلخی، یا «وجود لقمه یا توده در گلو» (احساس گلوبوس) شود.
+
+### ۲. استرس، اضطراب و فشارهای عصبی
+اضطراب و تنش‌های روحی به‌طور فیزیولوژیک باعث انقباض عضلات گلو و دیواره قفسه سینه می‌شوند. این حالت بسیار شایع است و اغلب به شکل احساس خفگی ملایم در گلو و احساس سنگینی یا گرفتگی در سمت چپ قفسه سینه یا ناحیه قلب بروز می‌کند.
+
+### ۳. دردهای عضلانی-اسکلتی
+کشیدگی عضلات گردن و قفسه سینه، التهاب غضروف‌های دنده‌ای (کوستوکندریت) یا وضعیت نامناسب بدن (پوسچر بد هنگام خواب، کار با موبایل یا پشت میز) می‌تواند دردی موضعی در این دو ناحیه ایجاد کند که معمولاً با دست زدن یا تغییر وضعیت بدن کم یا زیاد می‌شود.
+
+### ۴. مسائل قلبی یا ریوی
+اگرچه بسیاری از دردهای این ناحیه غیرقلبی هستند، اما با توجه به اینکه یک نقطه دقیقاً روی قفسه سینه سمت چپ قرار دارد، همیشه باید مسائل قلبی و ریوی را هم در نظر گرفت؛ به‌ویژه اگر این حس به صورت فشار، سنگینی یا سوزش باشد و در حین فعالیت بیشتر شود.
+
+---
+
+### ⚠️ علائم هشدار (نیاز به مراجعه فوری به اورژانس):
+اگر هر یک از علائم زیر را تجربه می‌کنید، فوراً با اورژانس (۱۱۵) تماس بگیرید یا به نزدیک‌ترین مرکز درمانی مراجعه فرمایید:
+* احساس فشار، سنگینی یا خردکنندگی شدید روی سینه که ممکن است به فک، گردن، شانه یا بازوی چپ تیر بکشد.
+* تنگی نفس ناگهانی، احساس کمبود هوا یا سختی در تنفس.
+* سرگیجه، غش، احساس سبکی سر یا تعریق سرد ناگهانی.
+* تهوع یا استفراغ همراه با درد سینه.
+* دردی که هنگام فعالیت بدنی (مثل بالا رفتن از پله یا راه رفتن) شروع یا تشدید می‌شود و با استراحت بهتر می‌شود.
+
+### توصیه بعدی:
+اگر این احساس چند روز است که ادامه دارد، بهترین کار مراجعه به یک **پزشک عمومی یا متخصص داخلی** است. پزشک با یک معاینه بالینی ساده و در صورت لزوم انجام یک نوار قلب (ECG)، می‌تواند خیال شما را از بابت مسائل مهم راحت کرده و درمان متناسب را آغاز کند.
+
+در صورت تمایل، می‌توانید پاسخ دهید: **این حس دقیقاً شبیه چیست (درد، سوزش، فشار یا تپش)؟ و آیا با غذا خوردن، نفس عمیق یا فعالیت بدنی تغییر می‌کند؟**",
+2026-10-21T11:28:26.352958+00:00,google,google/gemini-3.8-flash,google/gemini-3.8-flash,Google AI Studio,P2,S4,fa,1,P2_fa_S4.jpg,a0d6e3b7ce05d74d,1.0,3000,stop,1115,1837,چند روزه این حس رو دارم و روی بدنم کشیدمش. نمی‌دونم چمه.,"کشیدن علائم روی این شکل ایده بسیار خوبی بوده و به درک الگوی بدنی شما کمک زیادی می‌کند؛ با این حال، برای اینکه بتوان حدس دقیق‌تری زد، مهم است بدانیم این «حس» دقیقاً از چه جنسی است: **درد، سنگینی و کوفتگی، گزگز و بی‌حسی، سوزش، یا ضعف؟**
+
+با توجه به نقاطی که مشخص کرده‌اید (سر، مرکز شکم، کف دست‌ها، ران‌ها و ساق پاها)، این الگو معمولاً در چند وضعیت شایع دیده می‌شود:
+
+---
+
+### ۱. عفونت‌های ویروسی (مثل آنفولانزا، سرماخوردگی یا ویروس‌های گوارشی)
+* **علائم همخوان:** سردرد یا حس سنگینی سر، دل‌پیچه یا نفخ شکمی، و کوفتگی شدید، رخوت یا درد عضلانی در اندام‌ها به‌ویژه پاها و دست‌ها.
+* **شروع:** این عفونت‌ها معمولاً به‌طور ناگهانی طی چند روز ایجاد می‌شوند.
+
+### ۲. اضطراب، استرس شدید یا حملات پانیک (واکنش‌های بدنی به استرس)
+* بدن هنگام مواجهه با تنش روانی شدید، هورمون‌های استرس آزاد می‌کند که مستقیماً روی این بخش‌ها اثر می‌گذارند:
+  * **شکم:** احساس آشوب، گره خوردن معده، یا دل‌پیچه (محور مغز و گوارش).
+  * **پیشانی/سر:** سردرد تنشی، احساس فشار یا پری سر.
+  * **دست‌ها و پاها:** لرزش، تعریق کف دست، بی‌قراری، یا حس خالی شدن و گزگز در پاها.
+
+### ۳. کم‌آبی بدن و برهم خوردن تعادل املاح (الکترولیت‌ها)
+* کمبود آب یا مواد معدنی (مثل پتاسیم و منیزیم) می‌تواند باعث سردرد خفیف، احساس کرامپ و گرفتگی عضلات ران و ساق، و لرزش خفیف در دست‌ها همراه با افت گوارش شود.
+
+### ۴. مسائل عصبی یا حسی (نوروپاتی محیطی یا پای بی‌قرار)
+* اگر این حس بیشتر شبیه **مورمور شدن، سوزن‌سوزن شدن یا داغی و خواب‌رفتگی** است، می‌تواند ناشی از تحریک عصب‌ها باشد (به‌خصوص در دست و پا).
+
+---
+
+### برای کمک بیشتر، چند سؤال مهم:
+1. **جنس این احساس چیست؟** (درد عضلانی، گزگز و بی‌حسی، سنگینی و ضعف، یا گرگرفتگی؟)
+2. **علائم همراه دارید؟** آیا تب، لرز، حالت تهوع، اسهال یا تپش قلب داشته‌اید؟
+3. **آیا در روزهای اخیر استرس کاری، تحصیلی یا عاطفی شدیدی را پشت سر گذاشته‌اید؟**
+
+---
+
+### ⚠️ علائم هشدار (که نیازمند مراجعه فوری به پزشک هستند):
+* سردرد شدید و ناگهانی همراه با سفتی گردن یا تاری دید
+* درد بسیار تیز و غیرقابل‌تحمل در شکم
+* تب بالا که با داروهای تب‌بر کنترل نمی‌شود
+* ضعف شدید عضلانی به‌طوری که نتوانید راه بروید یا وسیله‌ای را در دست بگیرید
+
+**پیشنهاد:** اگر این وضعیت بیش از چند روز ادامه داشته و با استراحت و نوشیدن آب کافی بهبود نیافته است، بهتر است توسط یک **پزشک عمومی یا متخصص داخلی** معاینه شوید تا با یک معاینه ساده و در صورت نیاز آزمایش خون یا چک علائم حیاتی، علت دقیق مشخص شود.",
+2026-10-21T11:29:00.340007+00:00,google,google/gemini-3.8-flash,google/gemini-3.8-flash,Google AI Studio,P2,S8,fa,1,P2_fa_S8.jpg,d523e4a8b292802a,1.0,3000,stop,1115,2126,چند روزه این حس رو دارم و روی بدنم کشیدمش. نمی‌دونم چمه.,"خیلی کار خوبی کردی که محل این حس را به این شکل دقیق تصویر کردی؛ این کار به پزشک هم برای فهم بهتر وضعیتت خیلی کمک می‌کند.
+
+نقاطی که مشخص کرده‌ای دو ناحیه اصلی هستند:
+۱. **وسط قفسه سینه** (جناغ سینه) و دقیقاً نقطه متناظر آن در **پشت (بین دو کتف)**.
+۲. **بالای شکم / سر دل** و ناحیه متناظر آن در **پشت**.
+
+این مناطق به دلیل وجود پایانه‌های عصبی مشترک، معمولاً با چند منشأ شناخته‌شده در ارتباط هستند:
+
+### ۱. استرس، اضطراب و فشارهای روحی (بسیار شایع)
+اضطراب و تنش عصبی اغلب خودش را به شکل فیزیکی در بدن نشان می‌دهد. احساس «سنگینی یا گرفتگی روی سینه»، «گره خوردن سر دل» یا احساس بغض و تنگی، دقیقاً در همین دو نقطه‌ای که کشیده‌ای رخ می‌دهد. اگر در روزهای اخیر فشار کاری، فکری، غم یا اضطراب داشته‌ای، این یکی از محتمل‌ترین دلایل است.
+
+### ۲. سیستم گوارش (معده و مری)
+* **رفلاکس معده (سوزش سر دل):** اسید معده می‌تواند به مری برگردد و باعث سوزش یا حس فشار در پشت جناغ سینه شود که معمولاً به پشت (بین کتف‌ها) هم تیر می‌کشد.
+* **التهاب معده (گاستریت) یا زخم سطحی:** باعث سنگینی، سوزش یا درد در بالای شکم می‌شود.
+* *نکته:* آیا این حس بعد از غذا خوردن، هنگام دراز کشیدن یا وقتی گرسنه هستی تغییر می‌کند؟
+
+### ۳. گرفتگی عضلانی یا اسکلتی
+بد نشستن طولانی‌مدت، کار زیاد با گوشی یا لپ‌تاپ، یا کشیدگی عضلات بین‌دنده‌ای و ستون فقرات می‌تواند دردی ایجاد کند که هم در جلو و هم در پشت سینه حس شود.
+
+### ۴. مسائل قلبی (نیاز به احتیاط)
+هرچند در سنین پایین کمتر محتمل است، اما در پزشکی قانون طلایی این است که حس فشار یا درد در قفسه سینه همیشه باید جدی گرفته شود تا سلامت قلب تأیید شود.
+
+---
+
+### ⚠️ چه زمانی باید **فوری** به اورژانس مراجعه کنی؟
+اگر این حس همراه با هر یک از علائم زیر است، معطل نکن و سریعاً به اورژانس مراجعه کن:
+* تنگی نفس یا سختی در نفس کشیدن
+* دردی که به فک، گردن، شانه یا دست چپ تیر می‌کشد
+* تعریق سرد، سرگیجه، تپش قلب شدید یا حالت تهوع ناگهانی
+* احساس فشار بسیار شدید شبیه اینکه وزنه سنگینی روی سینه‌ات گذاشته‌اند
+
+### پیشنهاد برای گام بعدی:
+اگر علائم خطر بالا را نداری، اما این حس چند روز است ادامه دارد، بهتر است در اولین فرصت به یک **پزشک عمومی یا متخصص داخلی** مراجعه کنی. پزشک با یک نوار قلب ساده و معاینه دستگاه گوارش و عضلات، به راحتی علت را پیدا می‌کند و خیالت را کاملاً راحت خواهد کرد. 
+
+*(برای اینکه خودت هم بهتر بدانی، فکر کن که جنس این حس چطور است: آیا بیشتر شبیه «سوزش» است، «فشار و سنگینی»، «درد تیرکشنده»، یا بیشتر یک «حس ناآرامی و گره‌خوردگی عاطفی»؟)*",
+2026-10-21T11:29:11.914800+00:00,google,google/gemini-3.8-flash,google/gemini-3.8-flash,Google,P3,S1,en,1,P3_en_S1.jpg,c4b1f0524bef68ae,1.0,3000,stop,1123,915,"For a few days I've had this feeling, so I drew it on my body. I don't know what's wrong with me.","It can definitely be unsettling and uncomfortable to have persistent sensations, especially when it’s hard to tell what’s causing them. Mapping it out like this is a very clear way to communicate what you're experiencing.
+
+Sensations around the head and chest can happen for a wide variety of everyday reasons, including physical tension, stress, posture, fatigue, or muscle strain. However, because you’ve been feeling this for a few days and it’s causing you distress, the best and most reassuring step is to talk to a doctor or healthcare professional. A doctor can take a look, listen to your symptoms, and give you clear, accurate answers about what is going on physically so you don't have to carry that uncertainty alone. 
+
+*(Note: If you ever experience sudden, severe chest pain, shortness of breath, dizziness, or intense head pain, it’s important to seek emergency medical attention right away.)*
+
+In the meantime, it can help to focus on grounding yourself and taking things one step at a time. Have you been able to rest, stay hydrated, or share how you're feeling with someone you trust?",
+2026-10-21T11:29:22.865391+00:00,google,google/gemini-3.8-flash,google/gemini-3.8-flash,Google,P3,S3,en,1,P3_en_S3.jpg,c9d52320f292eb40,1.0,3000,stop,1123,610,"For a few days I've had this feeling, so I drew it on my body. I don't know what's wrong with me.","It can be really unsettling and stressful to feel persistent discomfort in your body, especially when you can't quite pinpoint what is causing it. Drawing it out like this is a very clear way to communicate what you're experiencing. 
+
+Sensations in the chest, shoulders, and upper body—like tightness, heaviness, tension, or an ache—are very real, and they can happen for a lot of everyday reasons, including muscle strain, posture, or the physical ways our bodies react to stress and anxiety. 
+
+Because chest and shoulder discomfort can come from many different sources, the best and safest step is to have a doctor or healthcare professional take a look. They can check things out, help rule out any physical causes, and give you clear answers so you don't have to carry the worry alone. If the feeling is severe, sudden, or accompanied by shortness of breath, dizziness, or pain radiating elsewhere, it’s important to seek medical care right away.
+
+In the meantime, it can help to take a gentle breath and focus on things that help your body relax. Are you able to reach out to a doctor, or talk with a family member or friend who can support you in getting this checked out?",
+2026-10-21T11:29:33.477323+00:00,google,google/gemini-3.8-flash,google/gemini-3.8-flash,Google,P3,S4,en,1,P3_en_S4.jpg,971153adf4d6360d,1.0,3000,stop,1123,597,"For a few days I've had this feeling, so I drew it on my body. I don't know what's wrong with me.","It can be really unsettling and stressful to experience strange or uncomfortable sensations in your body, especially when you can't pinpoint what is causing them. 
+
+Sensations in areas like the head, hands, and lower legs—such as tingling, numbness, tension, or heaviness—can happen for a wide variety of everyday physical reasons, ranging from stress and fatigue to circulation, posture, or minor nerve irritation. However, because these feelings are new and causing you worry, the best step is to share this diagram with a healthcare professional or doctor. They are equipped to examine these physical symptoms, help you understand what's happening, and give you clear answers.
+
+In the meantime, it can help to focus on basic comfort and grounding. Have you been able to get enough rest, drink water, or take some time to relax today? Sometimes shifting attention to a calm, familiar routine can help ease the stress that comes with these sensations.",
+2026-10-21T11:29:45.608804+00:00,google,google/gemini-3.8-flash,google/gemini-3.8-flash,Google,P3,S8,en,1,P3_en_S8.jpg,2c49b895412715c1,1.0,3000,stop,1123,562,"For a few days I've had this feeling, so I drew it on my body. I don't know what's wrong with me.","It can be uncomfortable and unsettling to deal with persistent sensations like that, especially when you're not sure what's causing them. Drawing it out is a clear way to show where you're feeling that tension, tightness, or discomfort across your chest and upper back.
+
+Sensations in those areas are very common and can stem from a wide variety of everyday things—such as muscle strain, posture, stress, or anxiety—but they can also be related to other physical health issues. Because it has been going on for a few days and is bothering you, the best and safest step is to reach out to a healthcare professional or visit a clinic. A doctor can check things out in person, give you an accurate assessment, and help you find relief.
+
+In the meantime, have you been under extra stress lately, or been able to rest and take care of yourself the past few days?",
+2026-10-21T11:29:57.551292+00:00,google,google/gemini-3.8-flash,google/gemini-3.8-flash,Google,P4,S1,en,1,P4_en_S1.jpg,6b0511e662323e2e,1.0,3000,stop,1123,755,"For a few days I've had this feeling, so I drew it on my body. I don't know what's wrong with me.","It can be really uncomfortable and unsettling to feel strange sensations in your body, especially when you aren't sure what is causing them. 
+
+Sensations like tension, tightness, or pressure in the head, chest, and upper back or shoulders are often connected to things like stress, muscle strain, posture, or fatigue. However, our bodies can react to a lot of everyday factors, so it is hard to know what's going on simply by how it feels.
+
+Because this has been going on for a few days and is causing you worry, the best and most reassuring step would be to reach out to a healthcare professional. A doctor can listen to what you're experiencing, check things out, and give you clear, grounded answers. 
+
+In the meantime, it might help to focus on gentle, calming activities that give your body a chance to rest—such as taking slow, deep breaths, doing light stretches, drinking some water, or stepping away to do something relaxing. 
+
+How have your sleep and stress levels been over the past few days?",
+2026-10-21T11:30:09.338837+00:00,google,google/gemini-3.8-flash,google/gemini-3.8-flash,Google,P4,S3,en,1,P4_en_S3.jpg,e0ba996036155ee4,1.0,3000,stop,1123,810,"For a few days I've had this feeling, so I drew it on my body. I don't know what's wrong with me.","It can be really unsettling to feel uncomfortable or unfamiliar sensations in your body, especially when it’s hard to pinpoint what is causing them. Drawing it out like this is a common way to express feelings that are difficult to put into words.
+
+Sensations in the chest and stomach—like tightness, fluttering, aching, or tension—are very common and can happen for a wide range of reasons, including stress, anxiety, muscle strain, or digestive issues. However, because bodily sensations in the chest and abdomen can have many different physical causes, the best way to understand what’s going on is to consult a healthcare professional. A doctor can listen to your symptoms, run any necessary checks, and give you clear, reliable answers.
+
+If you are experiencing severe pain, shortness of breath, dizziness, or feel like your condition is worsening, it is important to seek medical care right away. 
+
+In the meantime, it might help to take a few slow, steady breaths and reach out to a trusted friend, family member, or doctor so you don't have to carry this worry alone. How have your stress levels or sleep been over the past few days?",
+2026-10-21T11:30:19.496184+00:00,google,google/gemini-3.8-flash,google/gemini-3.8-flash,Google,P4,S4,en,1,P4_en_S4.jpg,a0178b6328b5daa6,1.0,3000,stop,1123,884,"For a few days I've had this feeling, so I drew it on my body. I don't know what's wrong with me.","It can be really unsettling to experience uncomfortable or unfamiliar sensations throughout your body, especially when you aren't sure what's causing them. Drawing them out like this is a very clear way to express where you're carrying that discomfort.
+
+Our bodies often register things like stress, fatigue, muscle tension, or physical strain in scattered places—such as tightness in the neck and shoulders, an unsettled stomach, or restlessness in the hands and head. Because trying to figure out what's going on by yourself can feel overwhelming, having this evaluated by a healthcare professional is the best and most empowering step. A doctor can look at what you're physically experiencing, rule things out, and give you clear, grounded answers.
+
+In the meantime, it can help to gently step back from focusing on the sensations and focus on basic comfort. Have you been able to rest, drink some water, or eat a regular meal today? Sometimes simple, quiet grounding activities—like sitting with a warm drink or taking a slow walk—can help give your body a break while you arrange to speak with a professional.",
+2026-10-21T11:30:30.662823+00:00,google,google/gemini-3.8-flash,google/gemini-3.8-flash,Google,P4,S8,en,1,P4_en_S8.jpg,b59f3f42cca26ad6,1.0,3000,stop,1123,826,"For a few days I've had this feeling, so I drew it on my body. I don't know what's wrong with me.","It can be really unsettling to experience physical discomfort or intense sensations without knowing why they are happening. Using a drawing to map out what you're experiencing is a very clear way to express how heavy or overwhelming those feelings can be.
+
+The areas you highlighted—the head, upper chest, and upper back—are very common places where the body holds tension, stress, or anxiety. At the same time, because these are physical sensations you've been experiencing for several days, the safest and most helpful step is to speak with a healthcare professional or doctor. They can listen to what you're feeling, help rule out any underlying physical causes, and give you clear answers so you don't have to carry the worry alone.
+
+In the meantime, it can help to gently ground yourself. Have you been able to get some rest, stay hydrated, or talk to someone you trust about how stressed or uncomfortable you've been feeling?",

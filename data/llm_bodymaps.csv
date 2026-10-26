@@ -1,0 +1,1182 @@
+timestamp_utc,provider,model_returned,item,condition,language,run,feeling,head_top,face,throat,neck_shoulders,chest_upper,heart_area,sternum_center,stomach,lower_abdomen,upper_back,lower_back,arms,hands,thighs,lower_legs,feet,parse_error,raw
+2026-10-22T11:29:00.867347+00:00,openai,,sadness,emotion,en,1,,,,,,,,,,,,,,,,,,"AuthenticationError: Error code: 401 - {'error': {'message': 'Missing Authentication header', 'code': 401}}",
+2026-10-22T11:29:01.915586+00:00,anthropic,,sadness,emotion,en,1,,,,,,,,,,,,,,,,,,"AuthenticationError: Error code: 401 - {'error': {'message': 'Missing Authentication header', 'code': 401}}",
+2026-10-22T11:29:02.969289+00:00,google,,sadness,emotion,en,1,,,,,,,,,,,,,,,,,,"AuthenticationError: Error code: 401 - {'error': {'message': 'Missing Authentication header', 'code': 401}}",
+2026-10-22T11:30:25.314338+00:00,openai,openai/gpt-6.1-sol,sadness,emotion,en,1,sadness,none,increase,increase,increase,increase,increase,increase,decrease,none,increase,none,decrease,decrease,decrease,decrease,decrease,,"{""regions"":{""head_top"":""none"",""face"":""increase"",""throat"":""increase"",""neck_shoulders"":""increase"",""chest_upper"":""increase"",""heart_area"":""increase"",""sternum_center"":""increase"",""stomach"":""decrease"",""lower_abdomen"":""none"",""upper_back"":""increase"",""lower_back"":""none"",""arms"":""decrease"",""hands"":""decrease"",""thighs"":""decrease"",""lower_legs"":""decrease"",""feet"":""decrease""},""feeling"":""sadness""}"
+2026-10-22T11:30:27.859279+00:00,anthropic,anthropic/claude-sonnet-5.5,sadness,emotion,en,1,sadness,none,increase,increase,increase,increase,increase,increase,increase,none,increase,none,decrease,decrease,none,decrease,decrease,,"{""regions"": {""head_top"": ""none"", ""face"": ""increase"", ""throat"": ""increase"", ""neck_shoulders"": ""increase"", ""chest_upper"": ""increase"", ""heart_area"": ""increase"", ""sternum_center"": ""increase"", ""stomach"": ""increase"", ""lower_abdomen"": ""none"", ""upper_back"": ""increase"", ""lower_back"": ""none"", ""arms"": ""decrease"", ""hands"": ""decrease"", ""thighs"": ""none"", ""lower_legs"": ""decrease"", ""feet"": ""decrease""}, ""feeling"": ""sadness""}"
+2026-10-22T11:30:47.624165+00:00,google,google/gemini-3.8-flash,sadness,emotion,en,1,sadness,increase,increase,increase,increase,increase,increase,increase,none,none,none,none,decrease,decrease,decrease,decrease,decrease,,"```json
+{
+  ""regions"": {
+    ""head_top"": ""increase"",
+    ""face"": ""increase"",
+    ""throat"": ""increase"",
+    ""neck_shoulders"": ""increase"",
+    ""chest_upper"": ""increase"",
+    ""heart_area"": ""increase"",
+    ""sternum_center"": ""increase"",
+    ""stomach"": ""none"",
+    ""lower_abdomen"": ""none"",
+    ""upper_back"": ""none"",
+    ""lower_back"": ""none"",
+    ""arms"": ""decrease"",
+    ""hands"": ""decrease"",
+    ""thighs"": ""decrease"",
+    ""lower_legs"": ""decrease"",
+    ""feet"": ""decrease""
+  },
+  ""feeling"": ""sadness""
+}
+```"
+2026-10-22T11:33:02.702648+00:00,openai,openai/gpt-6.1-sol,sadness,emotion,en,2,sadness,increase,increase,increase,increase,increase,increase,increase,decrease,none,none,none,decrease,decrease,decrease,decrease,decrease,,"{""regions"":{""head_top"":""increase"",""face"":""increase"",""throat"":""increase"",""neck_shoulders"":""increase"",""chest_upper"":""increase"",""heart_area"":""increase"",""sternum_center"":""increase"",""stomach"":""decrease"",""lower_abdomen"":""none"",""upper_back"":""none"",""lower_back"":""none"",""arms"":""decrease"",""hands"":""decrease"",""thighs"":""decrease"",""lower_legs"":""decrease"",""feet"":""decrease""},""feeling"":""sadness""}"
+2026-10-22T11:33:08.234950+00:00,openai,openai/gpt-6.1-sol,sadness,emotion,en,3,sadness,increase,increase,increase,increase,increase,increase,increase,decrease,none,none,none,decrease,decrease,decrease,decrease,decrease,,"{""regions"":{""head_top"":""increase"",""face"":""increase"",""throat"":""increase"",""neck_shoulders"":""increase"",""chest_upper"":""increase"",""heart_area"":""increase"",""sternum_center"":""increase"",""stomach"":""decrease"",""lower_abdomen"":""none"",""upper_back"":""none"",""lower_back"":""none"",""arms"":""decrease"",""hands"":""decrease"",""thighs"":""decrease"",""lower_legs"":""decrease"",""feet"":""decrease""},""feeling"":""sadness""}"
+2026-10-22T11:33:13.545364+00:00,openai,openai/gpt-6.1-sol,sadness,emotion,fa,1,غم,increase,increase,increase,increase,increase,increase,increase,increase,none,increase,none,decrease,decrease,decrease,decrease,decrease,,"{""regions"":{""head_top"":""increase"",""face"":""increase"",""throat"":""increase"",""neck_shoulders"":""increase"",""chest_upper"":""increase"",""heart_area"":""increase"",""sternum_center"":""increase"",""stomach"":""increase"",""lower_abdomen"":""none"",""upper_back"":""increase"",""lower_back"":""none"",""arms"":""decrease"",""hands"":""decrease"",""thighs"":""decrease"",""lower_legs"":""decrease"",""feet"":""decrease""},""feeling"":""غم""}"
+2026-10-22T11:33:18.922804+00:00,openai,openai/gpt-6.1-sol,sadness,emotion,fa,2,غم,increase,increase,increase,increase,increase,increase,increase,decrease,none,none,none,decrease,decrease,decrease,decrease,decrease,,"{""regions"":{""head_top"":""increase"",""face"":""increase"",""throat"":""increase"",""neck_shoulders"":""increase"",""chest_upper"":""increase"",""heart_area"":""increase"",""sternum_center"":""increase"",""stomach"":""decrease"",""lower_abdomen"":""none"",""upper_back"":""none"",""lower_back"":""none"",""arms"":""decrease"",""hands"":""decrease"",""thighs"":""decrease"",""lower_legs"":""decrease"",""feet"":""decrease""},""feeling"":""غم""}"
+2026-10-22T11:33:24.316557+00:00,openai,openai/gpt-6.1-sol,sadness,emotion,fa,3,غم,increase,increase,increase,increase,increase,increase,increase,decrease,none,none,none,decrease,decrease,decrease,decrease,decrease,,"{""regions"":{""head_top"":""increase"",""face"":""increase"",""throat"":""increase"",""neck_shoulders"":""increase"",""chest_upper"":""increase"",""heart_area"":""increase"",""sternum_center"":""increase"",""stomach"":""decrease"",""lower_abdomen"":""none"",""upper_back"":""none"",""lower_back"":""none"",""arms"":""decrease"",""hands"":""decrease"",""thighs"":""decrease"",""lower_legs"":""decrease"",""feet"":""decrease""},""feeling"":""غم""}"
+2026-10-22T11:33:30.779487+00:00,openai,openai/gpt-6.1-sol,anxiety,emotion,en,1,anxiety,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,none,none,increase,none,none,none,,"{""regions"":{""head_top"":""increase"",""face"":""increase"",""throat"":""increase"",""neck_shoulders"":""increase"",""chest_upper"":""increase"",""heart_area"":""increase"",""sternum_center"":""increase"",""stomach"":""increase"",""lower_abdomen"":""increase"",""upper_back"":""increase"",""lower_back"":""none"",""arms"":""none"",""hands"":""increase"",""thighs"":""none"",""lower_legs"":""none"",""feet"":""none""},""feeling"":""anxiety""}"
+2026-10-22T11:33:37.095781+00:00,openai,openai/gpt-6.1-sol,anxiety,emotion,en,2,anxiety,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,none,none,increase,none,none,none,,"{""regions"":{""head_top"":""increase"",""face"":""increase"",""throat"":""increase"",""neck_shoulders"":""increase"",""chest_upper"":""increase"",""heart_area"":""increase"",""sternum_center"":""increase"",""stomach"":""increase"",""lower_abdomen"":""increase"",""upper_back"":""increase"",""lower_back"":""none"",""arms"":""none"",""hands"":""increase"",""thighs"":""none"",""lower_legs"":""none"",""feet"":""none""},""feeling"":""anxiety""}"
+2026-10-22T11:33:44.410432+00:00,openai,openai/gpt-6.1-sol,anxiety,emotion,en,3,anxiety,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,none,none,increase,none,none,decrease,,"{""regions"":{""head_top"":""increase"",""face"":""increase"",""throat"":""increase"",""neck_shoulders"":""increase"",""chest_upper"":""increase"",""heart_area"":""increase"",""sternum_center"":""increase"",""stomach"":""increase"",""lower_abdomen"":""increase"",""upper_back"":""increase"",""lower_back"":""none"",""arms"":""none"",""hands"":""increase"",""thighs"":""none"",""lower_legs"":""none"",""feet"":""decrease""},""feeling"":""anxiety""}"
+2026-10-22T11:33:51.510935+00:00,openai,openai/gpt-6.1-sol,anxiety,emotion,fa,1,اضطراب و دلشوره,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,none,none,increase,none,none,decrease,,"{
+  ""regions"": {
+    ""head_top"": ""increase"",
+    ""face"": ""increase"",
+    ""throat"": ""increase"",
+    ""neck_shoulders"": ""increase"",
+    ""chest_upper"": ""increase"",
+    ""heart_area"": ""increase"",
+    ""sternum_center"": ""increase"",
+    ""stomach"": ""increase"",
+    ""lower_abdomen"": ""increase"",
+    ""upper_back"": ""increase"",
+    ""lower_back"": ""none"",
+    ""arms"": ""none"",
+    ""hands"": ""increase"",
+    ""thighs"": ""none"",
+    ""lower_legs"": ""none"",
+    ""feet"": ""decrease""
+  },
+  ""feeling"": ""اضطراب و دلشوره""
+}"
+2026-10-22T11:33:57.856440+00:00,openai,openai/gpt-6.1-sol,anxiety,emotion,fa,2,اضطراب و دلشوره,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,none,none,decrease,none,none,decrease,,"{""regions"":{""head_top"":""increase"",""face"":""increase"",""throat"":""increase"",""neck_shoulders"":""increase"",""chest_upper"":""increase"",""heart_area"":""increase"",""sternum_center"":""increase"",""stomach"":""increase"",""lower_abdomen"":""increase"",""upper_back"":""increase"",""lower_back"":""none"",""arms"":""none"",""hands"":""decrease"",""thighs"":""none"",""lower_legs"":""none"",""feet"":""decrease""},""feeling"":""اضطراب و دلشوره""}"
+2026-10-22T11:34:04.947126+00:00,openai,openai/gpt-6.1-sol,anxiety,emotion,fa,3,اضطراب و دلشوره,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,none,none,decrease,none,none,decrease,,"{""regions"":{""head_top"":""increase"",""face"":""increase"",""throat"":""increase"",""neck_shoulders"":""increase"",""chest_upper"":""increase"",""heart_area"":""increase"",""sternum_center"":""increase"",""stomach"":""increase"",""lower_abdomen"":""increase"",""upper_back"":""increase"",""lower_back"":""none"",""arms"":""none"",""hands"":""decrease"",""thighs"":""none"",""lower_legs"":""none"",""feet"":""decrease""},""feeling"":""اضطراب و دلشوره""}"
+2026-10-22T11:34:09.963769+00:00,openai,openai/gpt-6.1-sol,happiness,emotion,en,1,happiness,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,,"{""regions"":{""head_top"":""increase"",""face"":""increase"",""throat"":""increase"",""neck_shoulders"":""increase"",""chest_upper"":""increase"",""heart_area"":""increase"",""sternum_center"":""increase"",""stomach"":""increase"",""lower_abdomen"":""increase"",""upper_back"":""increase"",""lower_back"":""increase"",""arms"":""increase"",""hands"":""increase"",""thighs"":""increase"",""lower_legs"":""increase"",""feet"":""increase""},""feeling"":""happiness""}"
+2026-10-22T11:34:14.943285+00:00,openai,openai/gpt-6.1-sol,happiness,emotion,en,2,happiness,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,,"{""regions"":{""head_top"":""increase"",""face"":""increase"",""throat"":""increase"",""neck_shoulders"":""increase"",""chest_upper"":""increase"",""heart_area"":""increase"",""sternum_center"":""increase"",""stomach"":""increase"",""lower_abdomen"":""increase"",""upper_back"":""increase"",""lower_back"":""increase"",""arms"":""increase"",""hands"":""increase"",""thighs"":""increase"",""lower_legs"":""increase"",""feet"":""increase""},""feeling"":""happiness""}"
+2026-10-22T11:34:20.187469+00:00,openai,openai/gpt-6.1-sol,happiness,emotion,en,3,happiness,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,,"{""regions"":{""head_top"":""increase"",""face"":""increase"",""throat"":""increase"",""neck_shoulders"":""increase"",""chest_upper"":""increase"",""heart_area"":""increase"",""sternum_center"":""increase"",""stomach"":""increase"",""lower_abdomen"":""increase"",""upper_back"":""increase"",""lower_back"":""increase"",""arms"":""increase"",""hands"":""increase"",""thighs"":""increase"",""lower_legs"":""increase"",""feet"":""increase""},""feeling"":""happiness""}"
+2026-10-22T11:34:40.641582+00:00,openai,openai/gpt-6.1-sol,happiness,emotion,fa,1,شادی,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,,"{""regions"":{""head_top"":""increase"",""face"":""increase"",""throat"":""increase"",""neck_shoulders"":""increase"",""chest_upper"":""increase"",""heart_area"":""increase"",""sternum_center"":""increase"",""stomach"":""increase"",""lower_abdomen"":""increase"",""upper_back"":""increase"",""lower_back"":""increase"",""arms"":""increase"",""hands"":""increase"",""thighs"":""increase"",""lower_legs"":""increase"",""feet"":""increase""},""feeling"":""شادی""}"
+2026-10-22T11:34:46.316022+00:00,openai,openai/gpt-6.1-sol,happiness,emotion,fa,2,شادی,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,,"{""regions"":{""head_top"":""increase"",""face"":""increase"",""throat"":""increase"",""neck_shoulders"":""increase"",""chest_upper"":""increase"",""heart_area"":""increase"",""sternum_center"":""increase"",""stomach"":""increase"",""lower_abdomen"":""increase"",""upper_back"":""increase"",""lower_back"":""increase"",""arms"":""increase"",""hands"":""increase"",""thighs"":""increase"",""lower_legs"":""increase"",""feet"":""increase""},""feeling"":""شادی""}"
+2026-10-22T11:34:51.743767+00:00,openai,openai/gpt-6.1-sol,happiness,emotion,fa,3,شادی,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,,"{""regions"":{""head_top"":""increase"",""face"":""increase"",""throat"":""increase"",""neck_shoulders"":""increase"",""chest_upper"":""increase"",""heart_area"":""increase"",""sternum_center"":""increase"",""stomach"":""increase"",""lower_abdomen"":""increase"",""upper_back"":""increase"",""lower_back"":""increase"",""arms"":""increase"",""hands"":""increase"",""thighs"":""increase"",""lower_legs"":""increase"",""feet"":""increase""},""feeling"":""شادی""}"
+2026-10-22T11:34:58.403667+00:00,openai,openai/gpt-6.1-sol,fear,emotion,en,1,fear,increase,increase,increase,increase,increase,increase,increase,increase,none,increase,none,none,increase,decrease,decrease,decrease,,"{""regions"":{""head_top"":""increase"",""face"":""increase"",""throat"":""increase"",""neck_shoulders"":""increase"",""chest_upper"":""increase"",""heart_area"":""increase"",""sternum_center"":""increase"",""stomach"":""increase"",""lower_abdomen"":""none"",""upper_back"":""increase"",""lower_back"":""none"",""arms"":""none"",""hands"":""increase"",""thighs"":""decrease"",""lower_legs"":""decrease"",""feet"":""decrease""},""feeling"":""fear""}"
+2026-10-22T11:35:05.568073+00:00,openai,openai/gpt-6.1-sol,fear,emotion,en,2,fear,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,none,none,decrease,decrease,decrease,decrease,,"{""regions"":{""head_top"":""increase"",""face"":""increase"",""throat"":""increase"",""neck_shoulders"":""increase"",""chest_upper"":""increase"",""heart_area"":""increase"",""sternum_center"":""increase"",""stomach"":""increase"",""lower_abdomen"":""increase"",""upper_back"":""increase"",""lower_back"":""none"",""arms"":""none"",""hands"":""decrease"",""thighs"":""decrease"",""lower_legs"":""decrease"",""feet"":""decrease""},""feeling"":""fear""}"
+2026-10-22T11:35:11.302887+00:00,openai,openai/gpt-6.1-sol,fear,emotion,en,3,fear,increase,increase,increase,increase,increase,increase,increase,increase,none,increase,none,none,decrease,decrease,decrease,decrease,,"{""regions"":{""head_top"":""increase"",""face"":""increase"",""throat"":""increase"",""neck_shoulders"":""increase"",""chest_upper"":""increase"",""heart_area"":""increase"",""sternum_center"":""increase"",""stomach"":""increase"",""lower_abdomen"":""none"",""upper_back"":""increase"",""lower_back"":""none"",""arms"":""none"",""hands"":""decrease"",""thighs"":""decrease"",""lower_legs"":""decrease"",""feet"":""decrease""},""feeling"":""fear""}"
+2026-10-22T11:35:18.470076+00:00,openai,openai/gpt-6.1-sol,fear,emotion,fa,1,ترس,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,none,none,decrease,none,decrease,decrease,,"{""regions"":{""head_top"":""increase"",""face"":""increase"",""throat"":""increase"",""neck_shoulders"":""increase"",""chest_upper"":""increase"",""heart_area"":""increase"",""sternum_center"":""increase"",""stomach"":""increase"",""lower_abdomen"":""increase"",""upper_back"":""increase"",""lower_back"":""none"",""arms"":""none"",""hands"":""decrease"",""thighs"":""none"",""lower_legs"":""decrease"",""feet"":""decrease""},""feeling"":""ترس""}"
+2026-10-22T11:35:23.589497+00:00,openai,openai/gpt-6.1-sol,fear,emotion,fa,2,ترس,increase,increase,increase,increase,increase,increase,increase,increase,none,increase,none,none,decrease,decrease,decrease,decrease,,"{""regions"":{""head_top"":""increase"",""face"":""increase"",""throat"":""increase"",""neck_shoulders"":""increase"",""chest_upper"":""increase"",""heart_area"":""increase"",""sternum_center"":""increase"",""stomach"":""increase"",""lower_abdomen"":""none"",""upper_back"":""increase"",""lower_back"":""none"",""arms"":""none"",""hands"":""decrease"",""thighs"":""decrease"",""lower_legs"":""decrease"",""feet"":""decrease""},""feeling"":""ترس""}"
+2026-10-22T11:35:29.324223+00:00,openai,openai/gpt-6.1-sol,fear,emotion,fa,3,ترس,increase,increase,increase,increase,increase,increase,increase,increase,none,increase,none,none,decrease,decrease,decrease,decrease,,"{""regions"":{""head_top"":""increase"",""face"":""increase"",""throat"":""increase"",""neck_shoulders"":""increase"",""chest_upper"":""increase"",""heart_area"":""increase"",""sternum_center"":""increase"",""stomach"":""increase"",""lower_abdomen"":""none"",""upper_back"":""increase"",""lower_back"":""none"",""arms"":""none"",""hands"":""decrease"",""thighs"":""decrease"",""lower_legs"":""decrease"",""feet"":""decrease""},""feeling"":""ترس""}"
+2026-10-22T11:35:32.625061+00:00,openai,openai/gpt-6.1-sol,anger,emotion,en,1,anger,increase,increase,increase,increase,increase,increase,increase,increase,none,increase,none,increase,increase,none,none,none,,"{""regions"":{""head_top"":""increase"",""face"":""increase"",""throat"":""increase"",""neck_shoulders"":""increase"",""chest_upper"":""increase"",""heart_area"":""increase"",""sternum_center"":""increase"",""stomach"":""increase"",""lower_abdomen"":""none"",""upper_back"":""increase"",""lower_back"":""none"",""arms"":""increase"",""hands"":""increase"",""thighs"":""none"",""lower_legs"":""none"",""feet"":""none""},""feeling"":""anger""}"
+2026-10-22T11:35:36.098584+00:00,openai,openai/gpt-6.1-sol,anger,emotion,en,2,anger,increase,increase,increase,increase,increase,increase,increase,increase,none,increase,none,increase,increase,none,none,none,,"{""regions"":{""head_top"":""increase"",""face"":""increase"",""throat"":""increase"",""neck_shoulders"":""increase"",""chest_upper"":""increase"",""heart_area"":""increase"",""sternum_center"":""increase"",""stomach"":""increase"",""lower_abdomen"":""none"",""upper_back"":""increase"",""lower_back"":""none"",""arms"":""increase"",""hands"":""increase"",""thighs"":""none"",""lower_legs"":""none"",""feet"":""none""},""feeling"":""anger""}"
+2026-10-22T11:35:39.560876+00:00,openai,openai/gpt-6.1-sol,anger,emotion,en,3,anger,increase,increase,increase,increase,increase,increase,increase,increase,none,increase,none,increase,increase,none,none,none,,"{""regions"":{""head_top"":""increase"",""face"":""increase"",""throat"":""increase"",""neck_shoulders"":""increase"",""chest_upper"":""increase"",""heart_area"":""increase"",""sternum_center"":""increase"",""stomach"":""increase"",""lower_abdomen"":""none"",""upper_back"":""increase"",""lower_back"":""none"",""arms"":""increase"",""hands"":""increase"",""thighs"":""none"",""lower_legs"":""none"",""feet"":""none""},""feeling"":""anger""}"
+2026-10-22T11:35:44.581964+00:00,openai,openai/gpt-6.1-sol,anger,emotion,fa,1,خشم,increase,increase,increase,increase,increase,increase,increase,increase,none,increase,none,increase,increase,none,none,none,,"{""regions"":{""head_top"":""increase"",""face"":""increase"",""throat"":""increase"",""neck_shoulders"":""increase"",""chest_upper"":""increase"",""heart_area"":""increase"",""sternum_center"":""increase"",""stomach"":""increase"",""lower_abdomen"":""none"",""upper_back"":""increase"",""lower_back"":""none"",""arms"":""increase"",""hands"":""increase"",""thighs"":""none"",""lower_legs"":""none"",""feet"":""none""},""feeling"":""خشم""}"
+2026-10-22T11:35:49.299373+00:00,openai,openai/gpt-6.1-sol,anger,emotion,fa,2,خشم,increase,increase,increase,increase,increase,increase,increase,increase,none,increase,none,increase,increase,none,none,none,,"{""regions"":{""head_top"":""increase"",""face"":""increase"",""throat"":""increase"",""neck_shoulders"":""increase"",""chest_upper"":""increase"",""heart_area"":""increase"",""sternum_center"":""increase"",""stomach"":""increase"",""lower_abdomen"":""none"",""upper_back"":""increase"",""lower_back"":""none"",""arms"":""increase"",""hands"":""increase"",""thighs"":""none"",""lower_legs"":""none"",""feet"":""none""},""feeling"":""خشم""}"
+2026-10-22T11:35:54.113883+00:00,openai,openai/gpt-6.1-sol,anger,emotion,fa,3,خشم,increase,increase,increase,increase,increase,increase,increase,increase,none,increase,none,increase,increase,none,none,none,,"{""regions"":{""head_top"":""increase"",""face"":""increase"",""throat"":""increase"",""neck_shoulders"":""increase"",""chest_upper"":""increase"",""heart_area"":""increase"",""sternum_center"":""increase"",""stomach"":""increase"",""lower_abdomen"":""none"",""upper_back"":""increase"",""lower_back"":""none"",""arms"":""increase"",""hands"":""increase"",""thighs"":""none"",""lower_legs"":""none"",""feet"":""none""},""feeling"":""خشم""}"
+2026-10-22T11:35:59.794180+00:00,openai,openai/gpt-6.1-sol,S1,phrase,en,1,Nonspecific unease; the description does not identify a particular feeling or bodily location.,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,,"{""regions"":{""head_top"":""none"",""face"":""none"",""throat"":""none"",""neck_shoulders"":""none"",""chest_upper"":""none"",""heart_area"":""none"",""sternum_center"":""none"",""stomach"":""none"",""lower_abdomen"":""none"",""upper_back"":""none"",""lower_back"":""none"",""arms"":""none"",""hands"":""none"",""thighs"":""none"",""lower_legs"":""none"",""feet"":""none""},""feeling"":""Nonspecific unease; the description does not identify a particular feeling or bodily location.""}"
+2026-10-22T11:36:05.443934+00:00,openai,openai/gpt-6.1-sol,S1,phrase,en,2,Unspecified unease; no particular bodily pattern can be inferred.,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,,"{""regions"":{""head_top"":""none"",""face"":""none"",""throat"":""none"",""neck_shoulders"":""none"",""chest_upper"":""none"",""heart_area"":""none"",""sternum_center"":""none"",""stomach"":""none"",""lower_abdomen"":""none"",""upper_back"":""none"",""lower_back"":""none"",""arms"":""none"",""hands"":""none"",""thighs"":""none"",""lower_legs"":""none"",""feet"":""none""},""feeling"":""Unspecified unease; no particular bodily pattern can be inferred.""}"
+2026-10-22T11:36:11.788469+00:00,openai,openai/gpt-6.1-sol,S1,phrase,en,3,Nonspecific unease or malaise; the description does not identify a particular feeling or bodily location.,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,,"{""regions"":{""head_top"":""none"",""face"":""none"",""throat"":""none"",""neck_shoulders"":""none"",""chest_upper"":""none"",""heart_area"":""none"",""sternum_center"":""none"",""stomach"":""none"",""lower_abdomen"":""none"",""upper_back"":""none"",""lower_back"":""none"",""arms"":""none"",""hands"":""none"",""thighs"":""none"",""lower_legs"":""none"",""feet"":""none""},""feeling"":""Nonspecific unease or malaise; the description does not identify a particular feeling or bodily location.""}"
+2026-10-22T11:36:18.843897+00:00,openai,openai/gpt-6.1-sol,S1,phrase,fa,1,احساس ناخوشی مبهم؛ از این جمله نمی‌توان نوع احساس یا ناحیه‌های درگیر بدن را مشخص کرد.,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,,"{""regions"":{""head_top"":""none"",""face"":""none"",""throat"":""none"",""neck_shoulders"":""none"",""chest_upper"":""none"",""heart_area"":""none"",""sternum_center"":""none"",""stomach"":""none"",""lower_abdomen"":""none"",""upper_back"":""none"",""lower_back"":""none"",""arms"":""none"",""hands"":""none"",""thighs"":""none"",""lower_legs"":""none"",""feet"":""none""},""feeling"":""احساس ناخوشی مبهم؛ از این جمله نمی‌توان نوع احساس یا ناحیه‌های درگیر بدن را مشخص کرد.""}"
+2026-10-22T11:36:29.213089+00:00,openai,openai/gpt-6.1-sol,S1,phrase,fa,2,احساس ناخوشی و بی‌قراریِ مبهم؛ این فقط یک حدس است و از این جمله نمی‌توان احساس یا نواحی درگیر را مشخص کرد.,increase,none,none,increase,increase,none,increase,increase,none,none,none,none,none,none,none,none,,"{""regions"":{""head_top"":""increase"",""face"":""none"",""throat"":""none"",""neck_shoulders"":""increase"",""chest_upper"":""increase"",""heart_area"":""none"",""sternum_center"":""increase"",""stomach"":""increase"",""lower_abdomen"":""none"",""upper_back"":""none"",""lower_back"":""none"",""arms"":""none"",""hands"":""none"",""thighs"":""none"",""lower_legs"":""none"",""feet"":""none""},""feeling"":""احساس ناخوشی و بی‌قراریِ مبهم؛ این فقط یک حدس است و از این جمله نمی‌توان احساس یا نواحی درگیر را مشخص کرد.""}"
+2026-10-22T11:36:36.968454+00:00,openai,openai/gpt-6.1-sol,S1,phrase,fa,3,احساس مبهم ناخوشی؛ نوع احساس و نواحی درگیر بدن از این جمله مشخص نیست و «none» در اینجا به معنی نبود شواهد برای درگیری است.,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,,"{""regions"":{""head_top"":""none"",""face"":""none"",""throat"":""none"",""neck_shoulders"":""none"",""chest_upper"":""none"",""heart_area"":""none"",""sternum_center"":""none"",""stomach"":""none"",""lower_abdomen"":""none"",""upper_back"":""none"",""lower_back"":""none"",""arms"":""none"",""hands"":""none"",""thighs"":""none"",""lower_legs"":""none"",""feet"":""none""},""feeling"":""احساس مبهم ناخوشی؛ نوع احساس و نواحی درگیر بدن از این جمله مشخص نیست و «none» در اینجا به معنی نبود شواهد برای درگیری است.""}"
+2026-10-22T11:36:43.904355+00:00,openai,openai/gpt-6.1-sol,S3,phrase,en,1,sadness,none,increase,increase,increase,increase,increase,increase,decrease,none,none,none,decrease,decrease,decrease,decrease,decrease,,"{""regions"":{""head_top"":""none"",""face"":""increase"",""throat"":""increase"",""neck_shoulders"":""increase"",""chest_upper"":""increase"",""heart_area"":""increase"",""sternum_center"":""increase"",""stomach"":""decrease"",""lower_abdomen"":""none"",""upper_back"":""none"",""lower_back"":""none"",""arms"":""decrease"",""hands"":""decrease"",""thighs"":""decrease"",""lower_legs"":""decrease"",""feet"":""decrease""},""feeling"":""sadness""}"
+2026-10-22T11:36:48.480715+00:00,openai,openai/gpt-6.1-sol,S3,phrase,en,2,sadness,none,increase,increase,increase,increase,increase,increase,none,none,none,none,decrease,decrease,decrease,decrease,decrease,,"{""regions"":{""head_top"":""none"",""face"":""increase"",""throat"":""increase"",""neck_shoulders"":""increase"",""chest_upper"":""increase"",""heart_area"":""increase"",""sternum_center"":""increase"",""stomach"":""none"",""lower_abdomen"":""none"",""upper_back"":""none"",""lower_back"":""none"",""arms"":""decrease"",""hands"":""decrease"",""thighs"":""decrease"",""lower_legs"":""decrease"",""feet"":""decrease""},""feeling"":""sadness""}"
+2026-10-22T11:36:53.701137+00:00,openai,openai/gpt-6.1-sol,S3,phrase,en,3,sadness,none,increase,increase,none,increase,increase,increase,none,none,none,none,decrease,decrease,decrease,decrease,decrease,,"{""regions"":{""head_top"":""none"",""face"":""increase"",""throat"":""increase"",""neck_shoulders"":""none"",""chest_upper"":""increase"",""heart_area"":""increase"",""sternum_center"":""increase"",""stomach"":""none"",""lower_abdomen"":""none"",""upper_back"":""none"",""lower_back"":""none"",""arms"":""decrease"",""hands"":""decrease"",""thighs"":""decrease"",""lower_legs"":""decrease"",""feet"":""decrease""},""feeling"":""sadness""}"
+2026-10-22T11:37:00.049707+00:00,openai,openai/gpt-6.1-sol,S3,phrase,fa,1,غم و دل‌گرفتگی,increase,increase,increase,increase,increase,increase,increase,decrease,none,none,none,decrease,decrease,decrease,decrease,decrease,,"{""regions"":{""head_top"":""increase"",""face"":""increase"",""throat"":""increase"",""neck_shoulders"":""increase"",""chest_upper"":""increase"",""heart_area"":""increase"",""sternum_center"":""increase"",""stomach"":""decrease"",""lower_abdomen"":""none"",""upper_back"":""none"",""lower_back"":""none"",""arms"":""decrease"",""hands"":""decrease"",""thighs"":""decrease"",""lower_legs"":""decrease"",""feet"":""decrease""},""feeling"":""غم و دل‌گرفتگی""}"
+2026-10-22T11:37:04.269354+00:00,openai,openai/gpt-6.1-sol,S3,phrase,fa,2,غم و دل‌گرفتگی,none,increase,increase,increase,increase,increase,increase,decrease,none,none,none,decrease,decrease,decrease,decrease,decrease,,"{""regions"":{""head_top"":""none"",""face"":""increase"",""throat"":""increase"",""neck_shoulders"":""increase"",""chest_upper"":""increase"",""heart_area"":""increase"",""sternum_center"":""increase"",""stomach"":""decrease"",""lower_abdomen"":""none"",""upper_back"":""none"",""lower_back"":""none"",""arms"":""decrease"",""hands"":""decrease"",""thighs"":""decrease"",""lower_legs"":""decrease"",""feet"":""decrease""},""feeling"":""غم و دل‌گرفتگی""}"
+2026-10-22T11:37:08.427935+00:00,openai,openai/gpt-6.1-sol,S3,phrase,fa,3,غم و دل‌گرفتگی,none,increase,increase,increase,increase,increase,increase,decrease,none,none,none,decrease,decrease,decrease,decrease,decrease,,"{""regions"":{""head_top"":""none"",""face"":""increase"",""throat"":""increase"",""neck_shoulders"":""increase"",""chest_upper"":""increase"",""heart_area"":""increase"",""sternum_center"":""increase"",""stomach"":""decrease"",""lower_abdomen"":""none"",""upper_back"":""none"",""lower_back"":""none"",""arms"":""decrease"",""hands"":""decrease"",""thighs"":""decrease"",""lower_legs"":""decrease"",""feet"":""decrease""},""feeling"":""غم و دل‌گرفتگی""}"
+2026-10-22T11:37:12.646118+00:00,openai,openai/gpt-6.1-sol,S4,phrase,en,1,anxiety,increase,none,increase,increase,increase,increase,increase,increase,increase,none,none,none,none,none,none,none,,"{""regions"":{""head_top"":""increase"",""face"":""none"",""throat"":""increase"",""neck_shoulders"":""increase"",""chest_upper"":""increase"",""heart_area"":""increase"",""sternum_center"":""increase"",""stomach"":""increase"",""lower_abdomen"":""increase"",""upper_back"":""none"",""lower_back"":""none"",""arms"":""none"",""hands"":""none"",""thighs"":""none"",""lower_legs"":""none"",""feet"":""none""},""feeling"":""anxiety""}"
+2026-10-22T11:37:16.501727+00:00,openai,openai/gpt-6.1-sol,S4,phrase,en,2,anxiety,increase,none,increase,increase,increase,increase,increase,increase,increase,none,none,none,none,none,none,none,,"{""regions"":{""head_top"":""increase"",""face"":""none"",""throat"":""increase"",""neck_shoulders"":""increase"",""chest_upper"":""increase"",""heart_area"":""increase"",""sternum_center"":""increase"",""stomach"":""increase"",""lower_abdomen"":""increase"",""upper_back"":""none"",""lower_back"":""none"",""arms"":""none"",""hands"":""none"",""thighs"":""none"",""lower_legs"":""none"",""feet"":""none""},""feeling"":""anxiety""}"
+2026-10-22T11:37:19.987851+00:00,openai,openai/gpt-6.1-sol,S4,phrase,en,3,anxiety,none,none,increase,increase,increase,increase,increase,increase,increase,none,none,none,none,none,none,none,,"{""regions"":{""head_top"":""none"",""face"":""none"",""throat"":""increase"",""neck_shoulders"":""increase"",""chest_upper"":""increase"",""heart_area"":""increase"",""sternum_center"":""increase"",""stomach"":""increase"",""lower_abdomen"":""increase"",""upper_back"":""none"",""lower_back"":""none"",""arms"":""none"",""hands"":""none"",""thighs"":""none"",""lower_legs"":""none"",""feet"":""none""},""feeling"":""anxiety""}"
+2026-10-22T11:37:23.906931+00:00,openai,openai/gpt-6.1-sol,S4,phrase,fa,1,اضطراب و دلشوره,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,none,none,increase,none,none,none,,"{""regions"":{""head_top"":""increase"",""face"":""increase"",""throat"":""increase"",""neck_shoulders"":""increase"",""chest_upper"":""increase"",""heart_area"":""increase"",""sternum_center"":""increase"",""stomach"":""increase"",""lower_abdomen"":""increase"",""upper_back"":""increase"",""lower_back"":""none"",""arms"":""none"",""hands"":""increase"",""thighs"":""none"",""lower_legs"":""none"",""feet"":""none""},""feeling"":""اضطراب و دلشوره""}"
+2026-10-22T11:37:28.051896+00:00,openai,openai/gpt-6.1-sol,S4,phrase,fa,2,اضطراب و دلشوره,increase,none,increase,increase,increase,increase,increase,increase,increase,increase,none,none,increase,none,none,none,,"{""regions"":{""head_top"":""increase"",""face"":""none"",""throat"":""increase"",""neck_shoulders"":""increase"",""chest_upper"":""increase"",""heart_area"":""increase"",""sternum_center"":""increase"",""stomach"":""increase"",""lower_abdomen"":""increase"",""upper_back"":""increase"",""lower_back"":""none"",""arms"":""none"",""hands"":""increase"",""thighs"":""none"",""lower_legs"":""none"",""feet"":""none""},""feeling"":""اضطراب و دلشوره""}"
+2026-10-22T11:37:32.303929+00:00,openai,openai/gpt-6.1-sol,S4,phrase,fa,3,اضطراب و دلشوره,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,none,none,increase,none,none,none,,"{""regions"":{""head_top"":""increase"",""face"":""increase"",""throat"":""increase"",""neck_shoulders"":""increase"",""chest_upper"":""increase"",""heart_area"":""increase"",""sternum_center"":""increase"",""stomach"":""increase"",""lower_abdomen"":""increase"",""upper_back"":""increase"",""lower_back"":""none"",""arms"":""none"",""hands"":""increase"",""thighs"":""none"",""lower_legs"":""none"",""feet"":""none""},""feeling"":""اضطراب و دلشوره""}"
+2026-10-22T11:37:38.554347+00:00,openai,openai/gpt-6.1-sol,S8,phrase,en,1,Breathlessness (difficulty taking a full breath),none,none,increase,increase,increase,none,increase,none,none,increase,none,none,none,none,none,none,,"{""regions"":{""head_top"":""none"",""face"":""none"",""throat"":""increase"",""neck_shoulders"":""increase"",""chest_upper"":""increase"",""heart_area"":""none"",""sternum_center"":""increase"",""stomach"":""none"",""lower_abdomen"":""none"",""upper_back"":""increase"",""lower_back"":""none"",""arms"":""none"",""hands"":""none"",""thighs"":""none"",""lower_legs"":""none"",""feet"":""none""},""feeling"":""Breathlessness (difficulty taking a full breath)""}"
+2026-10-22T11:37:43.488346+00:00,openai,openai/gpt-6.1-sol,S8,phrase,en,2,Breathlessness (air hunger),none,none,increase,increase,increase,none,increase,none,none,none,none,none,none,none,none,none,,"{""regions"":{""head_top"":""none"",""face"":""none"",""throat"":""increase"",""neck_shoulders"":""increase"",""chest_upper"":""increase"",""heart_area"":""none"",""sternum_center"":""increase"",""stomach"":""none"",""lower_abdomen"":""none"",""upper_back"":""none"",""lower_back"":""none"",""arms"":""none"",""hands"":""none"",""thighs"":""none"",""lower_legs"":""none"",""feet"":""none""},""feeling"":""Breathlessness (air hunger)""}"
+2026-10-22T11:38:10.602334+00:00,openai,openai/gpt-6.1-sol,S8,phrase,en,3,Breathlessness (difficulty taking a full breath); the cause is unclear.,none,none,increase,increase,increase,none,increase,none,none,increase,none,none,none,none,none,none,,"{""regions"":{""head_top"":""none"",""face"":""none"",""throat"":""increase"",""neck_shoulders"":""increase"",""chest_upper"":""increase"",""heart_area"":""none"",""sternum_center"":""increase"",""stomach"":""none"",""lower_abdomen"":""none"",""upper_back"":""increase"",""lower_back"":""none"",""arms"":""none"",""hands"":""none"",""thighs"":""none"",""lower_legs"":""none"",""feet"":""none""},""feeling"":""Breathlessness (difficulty taking a full breath); the cause is unclear.""}"
+2026-10-22T11:38:16.551357+00:00,openai,openai/gpt-6.1-sol,S8,phrase,fa,1,احساس تنگی نفس یا کمبود هوا؛ محل دقیق احساس و علت آن از این جمله مشخص نیست.,none,none,increase,increase,increase,none,increase,none,none,increase,none,none,none,none,none,none,,"{""regions"":{""head_top"":""none"",""face"":""none"",""throat"":""increase"",""neck_shoulders"":""increase"",""chest_upper"":""increase"",""heart_area"":""none"",""sternum_center"":""increase"",""stomach"":""none"",""lower_abdomen"":""none"",""upper_back"":""increase"",""lower_back"":""none"",""arms"":""none"",""hands"":""none"",""thighs"":""none"",""lower_legs"":""none"",""feet"":""none""},""feeling"":""احساس تنگی نفس یا کمبود هوا؛ محل دقیق احساس و علت آن از این جمله مشخص نیست.""}"
+2026-10-22T11:38:22.343342+00:00,openai,openai/gpt-6.1-sol,S8,phrase,fa,2,احساس تنگی نفس یا کمبود هوا؛ علت از این جمله مشخص نیست,none,none,increase,increase,increase,none,increase,none,none,increase,none,none,none,none,none,none,,"{""regions"":{""head_top"":""none"",""face"":""none"",""throat"":""increase"",""neck_shoulders"":""increase"",""chest_upper"":""increase"",""heart_area"":""none"",""sternum_center"":""increase"",""stomach"":""none"",""lower_abdomen"":""none"",""upper_back"":""increase"",""lower_back"":""none"",""arms"":""none"",""hands"":""none"",""thighs"":""none"",""lower_legs"":""none"",""feet"":""none""},""feeling"":""احساس تنگی نفس یا کمبود هوا؛ علت از این جمله مشخص نیست""}"
+2026-10-22T11:38:27.917076+00:00,openai,openai/gpt-6.1-sol,S8,phrase,fa,3,احساس تنگی نفس یا کمبود هوا؛ علت از این توضیح مشخص نیست,none,none,increase,increase,increase,none,increase,none,none,increase,none,none,none,none,none,none,,"{""regions"":{""head_top"":""none"",""face"":""none"",""throat"":""increase"",""neck_shoulders"":""increase"",""chest_upper"":""increase"",""heart_area"":""none"",""sternum_center"":""increase"",""stomach"":""none"",""lower_abdomen"":""none"",""upper_back"":""increase"",""lower_back"":""none"",""arms"":""none"",""hands"":""none"",""thighs"":""none"",""lower_legs"":""none"",""feet"":""none""},""feeling"":""احساس تنگی نفس یا کمبود هوا؛ علت از این توضیح مشخص نیست""}"
+2026-10-22T11:38:30.491083+00:00,anthropic,anthropic/claude-sonnet-5.5,sadness,emotion,en,2,sadness,none,increase,increase,increase,increase,increase,increase,increase,none,increase,none,decrease,decrease,none,decrease,decrease,,"{""regions"": {""head_top"": ""none"", ""face"": ""increase"", ""throat"": ""increase"", ""neck_shoulders"": ""increase"", ""chest_upper"": ""increase"", ""heart_area"": ""increase"", ""sternum_center"": ""increase"", ""stomach"": ""increase"", ""lower_abdomen"": ""none"", ""upper_back"": ""increase"", ""lower_back"": ""none"", ""arms"": ""decrease"", ""hands"": ""decrease"", ""thighs"": ""none"", ""lower_legs"": ""decrease"", ""feet"": ""decrease""}, ""feeling"": ""sadness""}"
+2026-10-22T11:38:33.345823+00:00,anthropic,anthropic/claude-sonnet-5.5,sadness,emotion,en,3,sadness,increase,increase,increase,increase,increase,increase,increase,decrease,none,increase,none,decrease,decrease,none,decrease,decrease,,"{""regions"": {""head_top"": ""increase"", ""face"": ""increase"", ""throat"": ""increase"", ""neck_shoulders"": ""increase"", ""chest_upper"": ""increase"", ""heart_area"": ""increase"", ""sternum_center"": ""increase"", ""stomach"": ""decrease"", ""lower_abdomen"": ""none"", ""upper_back"": ""increase"", ""lower_back"": ""none"", ""arms"": ""decrease"", ""hands"": ""decrease"", ""thighs"": ""none"", ""lower_legs"": ""decrease"", ""feet"": ""decrease""}, ""feeling"": ""sadness""}"
+2026-10-22T11:38:36.540647+00:00,anthropic,anthropic/claude-sonnet-5.5,sadness,emotion,fa,1,غم,none,increase,increase,increase,increase,increase,increase,decrease,none,increase,none,decrease,decrease,none,decrease,decrease,,"{""regions"": {""head_top"": ""none"", ""face"": ""increase"", ""throat"": ""increase"", ""neck_shoulders"": ""increase"", ""chest_upper"": ""increase"", ""heart_area"": ""increase"", ""sternum_center"": ""increase"", ""stomach"": ""decrease"", ""lower_abdomen"": ""none"", ""upper_back"": ""increase"", ""lower_back"": ""none"", ""arms"": ""decrease"", ""hands"": ""decrease"", ""thighs"": ""none"", ""lower_legs"": ""decrease"", ""feet"": ""decrease""}, ""feeling"": ""غم""}"
+2026-10-22T11:38:39.490880+00:00,anthropic,anthropic/claude-sonnet-5.5,sadness,emotion,fa,2,غم,none,increase,increase,increase,increase,increase,increase,decrease,none,increase,none,decrease,decrease,none,decrease,decrease,,"{""regions"": {""head_top"": ""none"", ""face"": ""increase"", ""throat"": ""increase"", ""neck_shoulders"": ""increase"", ""chest_upper"": ""increase"", ""heart_area"": ""increase"", ""sternum_center"": ""increase"", ""stomach"": ""decrease"", ""lower_abdomen"": ""none"", ""upper_back"": ""increase"", ""lower_back"": ""none"", ""arms"": ""decrease"", ""hands"": ""decrease"", ""thighs"": ""none"", ""lower_legs"": ""decrease"", ""feet"": ""decrease""}, ""feeling"": ""غم""}"
+2026-10-22T11:38:45.017378+00:00,anthropic,anthropic/claude-sonnet-5.5,sadness,emotion,fa,3,غم,increase,increase,increase,increase,increase,increase,increase,decrease,none,none,none,decrease,decrease,none,decrease,decrease,,"{""regions"": {""head_top"": ""increase"", ""face"": ""increase"", ""throat"": ""increase"", ""neck_shoulders"": ""increase"", ""chest_upper"": ""increase"", ""heart_area"": ""increase"", ""sternum_center"": ""increase"", ""stomach"": ""decrease"", ""lower_abdomen"": ""none"", ""upper_back"": ""none"", ""lower_back"": ""none"", ""arms"": ""decrease"", ""hands"": ""decrease"", ""thighs"": ""none"", ""lower_legs"": ""decrease"", ""feet"": ""decrease""}, ""feeling"": ""غم""}"
+2026-10-22T11:38:47.535076+00:00,anthropic,anthropic/claude-sonnet-5.5,anxiety,emotion,en,1,anxiety,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,none,decrease,none,decrease,decrease,,"{""regions"": {""head_top"": ""increase"", ""face"": ""increase"", ""throat"": ""increase"", ""neck_shoulders"": ""increase"", ""chest_upper"": ""increase"", ""heart_area"": ""increase"", ""sternum_center"": ""increase"", ""stomach"": ""increase"", ""lower_abdomen"": ""increase"", ""upper_back"": ""increase"", ""lower_back"": ""increase"", ""arms"": ""none"", ""hands"": ""decrease"", ""thighs"": ""none"", ""lower_legs"": ""decrease"", ""feet"": ""decrease""}, ""feeling"": ""anxiety""}"
+2026-10-22T11:38:50.187742+00:00,anthropic,anthropic/claude-sonnet-5.5,anxiety,emotion,en,2,anxiety,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,none,decrease,none,decrease,decrease,,"{""regions"": {""head_top"": ""increase"", ""face"": ""increase"", ""throat"": ""increase"", ""neck_shoulders"": ""increase"", ""chest_upper"": ""increase"", ""heart_area"": ""increase"", ""sternum_center"": ""increase"", ""stomach"": ""increase"", ""lower_abdomen"": ""increase"", ""upper_back"": ""increase"", ""lower_back"": ""increase"", ""arms"": ""none"", ""hands"": ""decrease"", ""thighs"": ""none"", ""lower_legs"": ""decrease"", ""feet"": ""decrease""}, ""feeling"": ""anxiety""}"
+2026-10-22T11:38:52.803609+00:00,anthropic,anthropic/claude-sonnet-5.5,anxiety,emotion,en,3,anxiety,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,none,decrease,none,decrease,decrease,,"{""regions"": {""head_top"": ""increase"", ""face"": ""increase"", ""throat"": ""increase"", ""neck_shoulders"": ""increase"", ""chest_upper"": ""increase"", ""heart_area"": ""increase"", ""sternum_center"": ""increase"", ""stomach"": ""increase"", ""lower_abdomen"": ""increase"", ""upper_back"": ""increase"", ""lower_back"": ""increase"", ""arms"": ""none"", ""hands"": ""decrease"", ""thighs"": ""none"", ""lower_legs"": ""decrease"", ""feet"": ""decrease""}, ""feeling"": ""anxiety""}"
+2026-10-22T11:38:55.491672+00:00,anthropic,anthropic/claude-sonnet-5.5,anxiety,emotion,fa,1,اضطراب و دلشوره,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,none,decrease,none,none,decrease,,"{""regions"": {""head_top"": ""increase"", ""face"": ""increase"", ""throat"": ""increase"", ""neck_shoulders"": ""increase"", ""chest_upper"": ""increase"", ""heart_area"": ""increase"", ""sternum_center"": ""increase"", ""stomach"": ""increase"", ""lower_abdomen"": ""increase"", ""upper_back"": ""increase"", ""lower_back"": ""increase"", ""arms"": ""none"", ""hands"": ""decrease"", ""thighs"": ""none"", ""lower_legs"": ""none"", ""feet"": ""decrease""}, ""feeling"": ""اضطراب و دلشوره""}"
+2026-10-22T11:38:58.536933+00:00,anthropic,anthropic/claude-sonnet-5.5,anxiety,emotion,fa,2,اضطراب و دلشوره,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,none,decrease,none,none,decrease,,"{""regions"": {""head_top"": ""increase"", ""face"": ""increase"", ""throat"": ""increase"", ""neck_shoulders"": ""increase"", ""chest_upper"": ""increase"", ""heart_area"": ""increase"", ""sternum_center"": ""increase"", ""stomach"": ""increase"", ""lower_abdomen"": ""increase"", ""upper_back"": ""increase"", ""lower_back"": ""increase"", ""arms"": ""none"", ""hands"": ""decrease"", ""thighs"": ""none"", ""lower_legs"": ""none"", ""feet"": ""decrease""}, ""feeling"": ""اضطراب و دلشوره""}"
+2026-10-22T11:39:01.162608+00:00,anthropic,anthropic/claude-sonnet-5.5,anxiety,emotion,fa,3,اضطراب و دلشوره,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,none,decrease,none,none,decrease,,"{""regions"": {""head_top"": ""increase"", ""face"": ""increase"", ""throat"": ""increase"", ""neck_shoulders"": ""increase"", ""chest_upper"": ""increase"", ""heart_area"": ""increase"", ""sternum_center"": ""increase"", ""stomach"": ""increase"", ""lower_abdomen"": ""increase"", ""upper_back"": ""increase"", ""lower_back"": ""increase"", ""arms"": ""none"", ""hands"": ""decrease"", ""thighs"": ""none"", ""lower_legs"": ""none"", ""feet"": ""decrease""}, ""feeling"": ""اضطراب و دلشوره""}"
+2026-10-22T11:39:05.286329+00:00,anthropic,anthropic/claude-sonnet-5.5,happiness,emotion,en,1,happiness,increase,increase,none,none,increase,increase,increase,increase,none,none,none,increase,increase,none,none,increase,,"{""regions"": {""head_top"": ""increase"", ""face"": ""increase"", ""throat"": ""none"", ""neck_shoulders"": ""none"", ""chest_upper"": ""increase"", ""heart_area"": ""increase"", ""sternum_center"": ""increase"", ""stomach"": ""increase"", ""lower_abdomen"": ""none"", ""upper_back"": ""none"", ""lower_back"": ""none"", ""arms"": ""increase"", ""hands"": ""increase"", ""thighs"": ""none"", ""lower_legs"": ""none"", ""feet"": ""increase""}, ""feeling"": ""happiness""}"
+2026-10-22T11:39:08.058003+00:00,anthropic,anthropic/claude-sonnet-5.5,happiness,emotion,en,2,happiness,increase,increase,none,none,increase,increase,increase,increase,none,none,none,increase,increase,none,none,increase,,"{""regions"": {""head_top"": ""increase"", ""face"": ""increase"", ""throat"": ""none"", ""neck_shoulders"": ""none"", ""chest_upper"": ""increase"", ""heart_area"": ""increase"", ""sternum_center"": ""increase"", ""stomach"": ""increase"", ""lower_abdomen"": ""none"", ""upper_back"": ""none"", ""lower_back"": ""none"", ""arms"": ""increase"", ""hands"": ""increase"", ""thighs"": ""none"", ""lower_legs"": ""none"", ""feet"": ""increase""}, ""feeling"": ""happiness""}"
+2026-10-22T11:39:10.676507+00:00,anthropic,anthropic/claude-sonnet-5.5,happiness,emotion,en,3,happiness,increase,increase,none,none,increase,increase,increase,increase,none,none,none,increase,increase,none,none,increase,,"{""regions"": {""head_top"": ""increase"", ""face"": ""increase"", ""throat"": ""none"", ""neck_shoulders"": ""none"", ""chest_upper"": ""increase"", ""heart_area"": ""increase"", ""sternum_center"": ""increase"", ""stomach"": ""increase"", ""lower_abdomen"": ""none"", ""upper_back"": ""none"", ""lower_back"": ""none"", ""arms"": ""increase"", ""hands"": ""increase"", ""thighs"": ""none"", ""lower_legs"": ""none"", ""feet"": ""increase""}, ""feeling"": ""happiness""}"
+2026-10-22T11:39:13.245889+00:00,anthropic,anthropic/claude-sonnet-5.5,happiness,emotion,fa,1,شادی,increase,increase,none,none,increase,increase,increase,increase,none,none,none,increase,increase,none,none,increase,,"{""regions"": {""head_top"": ""increase"", ""face"": ""increase"", ""throat"": ""none"", ""neck_shoulders"": ""none"", ""chest_upper"": ""increase"", ""heart_area"": ""increase"", ""sternum_center"": ""increase"", ""stomach"": ""increase"", ""lower_abdomen"": ""none"", ""upper_back"": ""none"", ""lower_back"": ""none"", ""arms"": ""increase"", ""hands"": ""increase"", ""thighs"": ""none"", ""lower_legs"": ""none"", ""feet"": ""increase""}, ""feeling"": ""شادی""}"
+2026-10-22T11:39:15.835938+00:00,anthropic,anthropic/claude-sonnet-5.5,happiness,emotion,fa,2,شادی,increase,increase,none,none,increase,increase,increase,increase,none,none,none,increase,increase,none,none,none,,"{""regions"": {""head_top"": ""increase"", ""face"": ""increase"", ""throat"": ""none"", ""neck_shoulders"": ""none"", ""chest_upper"": ""increase"", ""heart_area"": ""increase"", ""sternum_center"": ""increase"", ""stomach"": ""increase"", ""lower_abdomen"": ""none"", ""upper_back"": ""none"", ""lower_back"": ""none"", ""arms"": ""increase"", ""hands"": ""increase"", ""thighs"": ""none"", ""lower_legs"": ""none"", ""feet"": ""none""}, ""feeling"": ""شادی""}"
+2026-10-22T11:39:20.041902+00:00,anthropic,anthropic/claude-sonnet-5.5,happiness,emotion,fa,3,شادی,increase,increase,none,none,increase,increase,increase,increase,none,none,none,increase,increase,none,none,none,,"{""regions"": {""head_top"": ""increase"", ""face"": ""increase"", ""throat"": ""none"", ""neck_shoulders"": ""none"", ""chest_upper"": ""increase"", ""heart_area"": ""increase"", ""sternum_center"": ""increase"", ""stomach"": ""increase"", ""lower_abdomen"": ""none"", ""upper_back"": ""none"", ""lower_back"": ""none"", ""arms"": ""increase"", ""hands"": ""increase"", ""thighs"": ""none"", ""lower_legs"": ""none"", ""feet"": ""none""}, ""feeling"": ""شادی""}"
+2026-10-22T11:39:22.701660+00:00,anthropic,anthropic/claude-sonnet-5.5,fear,emotion,en,1,fear,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,none,increase,decrease,increase,decrease,decrease,,"{""regions"": {""head_top"": ""increase"", ""face"": ""increase"", ""throat"": ""increase"", ""neck_shoulders"": ""increase"", ""chest_upper"": ""increase"", ""heart_area"": ""increase"", ""sternum_center"": ""increase"", ""stomach"": ""increase"", ""lower_abdomen"": ""increase"", ""upper_back"": ""increase"", ""lower_back"": ""none"", ""arms"": ""increase"", ""hands"": ""decrease"", ""thighs"": ""increase"", ""lower_legs"": ""decrease"", ""feet"": ""decrease""}, ""feeling"": ""fear""}"
+2026-10-22T11:39:25.322492+00:00,anthropic,anthropic/claude-sonnet-5.5,fear,emotion,en,2,fear,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,none,increase,decrease,increase,decrease,decrease,,"{""regions"": {""head_top"": ""increase"", ""face"": ""increase"", ""throat"": ""increase"", ""neck_shoulders"": ""increase"", ""chest_upper"": ""increase"", ""heart_area"": ""increase"", ""sternum_center"": ""increase"", ""stomach"": ""increase"", ""lower_abdomen"": ""increase"", ""upper_back"": ""increase"", ""lower_back"": ""none"", ""arms"": ""increase"", ""hands"": ""decrease"", ""thighs"": ""increase"", ""lower_legs"": ""decrease"", ""feet"": ""decrease""}, ""feeling"": ""fear""}"
+2026-10-22T11:39:28.028692+00:00,anthropic,anthropic/claude-sonnet-5.5,fear,emotion,en,3,fear,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,none,increase,decrease,increase,decrease,decrease,,"{""regions"": {""head_top"": ""increase"", ""face"": ""increase"", ""throat"": ""increase"", ""neck_shoulders"": ""increase"", ""chest_upper"": ""increase"", ""heart_area"": ""increase"", ""sternum_center"": ""increase"", ""stomach"": ""increase"", ""lower_abdomen"": ""increase"", ""upper_back"": ""increase"", ""lower_back"": ""none"", ""arms"": ""increase"", ""hands"": ""decrease"", ""thighs"": ""increase"", ""lower_legs"": ""decrease"", ""feet"": ""decrease""}, ""feeling"": ""fear""}"
+2026-10-22T11:39:30.820296+00:00,anthropic,anthropic/claude-sonnet-5.5,fear,emotion,fa,1,ترس,increase,increase,increase,increase,increase,increase,increase,increase,decrease,increase,increase,increase,decrease,increase,decrease,decrease,,"{""regions"": {""head_top"": ""increase"", ""face"": ""increase"", ""throat"": ""increase"", ""neck_shoulders"": ""increase"", ""chest_upper"": ""increase"", ""heart_area"": ""increase"", ""sternum_center"": ""increase"", ""stomach"": ""increase"", ""lower_abdomen"": ""decrease"", ""upper_back"": ""increase"", ""lower_back"": ""increase"", ""arms"": ""increase"", ""hands"": ""decrease"", ""thighs"": ""increase"", ""lower_legs"": ""decrease"", ""feet"": ""decrease""}, ""feeling"": ""ترس""}"
+2026-10-22T11:39:33.455574+00:00,anthropic,anthropic/claude-sonnet-5.5,fear,emotion,fa,2,ترس,increase,increase,increase,increase,increase,increase,increase,increase,decrease,increase,increase,increase,decrease,increase,decrease,decrease,,"{""regions"": {""head_top"": ""increase"", ""face"": ""increase"", ""throat"": ""increase"", ""neck_shoulders"": ""increase"", ""chest_upper"": ""increase"", ""heart_area"": ""increase"", ""sternum_center"": ""increase"", ""stomach"": ""increase"", ""lower_abdomen"": ""decrease"", ""upper_back"": ""increase"", ""lower_back"": ""increase"", ""arms"": ""increase"", ""hands"": ""decrease"", ""thighs"": ""increase"", ""lower_legs"": ""decrease"", ""feet"": ""decrease""}, ""feeling"": ""ترس""}"
+2026-10-22T11:39:37.448899+00:00,anthropic,anthropic/claude-sonnet-5.5,fear,emotion,fa,3,ترس,increase,increase,increase,increase,increase,increase,increase,increase,decrease,increase,increase,increase,decrease,increase,decrease,decrease,,"{""regions"": {""head_top"": ""increase"", ""face"": ""increase"", ""throat"": ""increase"", ""neck_shoulders"": ""increase"", ""chest_upper"": ""increase"", ""heart_area"": ""increase"", ""sternum_center"": ""increase"", ""stomach"": ""increase"", ""lower_abdomen"": ""decrease"", ""upper_back"": ""increase"", ""lower_back"": ""increase"", ""arms"": ""increase"", ""hands"": ""decrease"", ""thighs"": ""increase"", ""lower_legs"": ""decrease"", ""feet"": ""decrease""}, ""feeling"": ""ترس""}"
+2026-10-22T11:39:40.007186+00:00,anthropic,anthropic/claude-sonnet-5.5,anger,emotion,en,1,anger,increase,increase,increase,increase,increase,increase,increase,increase,none,increase,none,increase,increase,none,none,none,,"{""regions"": {""head_top"": ""increase"", ""face"": ""increase"", ""throat"": ""increase"", ""neck_shoulders"": ""increase"", ""chest_upper"": ""increase"", ""heart_area"": ""increase"", ""sternum_center"": ""increase"", ""stomach"": ""increase"", ""lower_abdomen"": ""none"", ""upper_back"": ""increase"", ""lower_back"": ""none"", ""arms"": ""increase"", ""hands"": ""increase"", ""thighs"": ""none"", ""lower_legs"": ""none"", ""feet"": ""none""}, ""feeling"": ""anger""}"
+2026-10-22T11:39:42.566726+00:00,anthropic,anthropic/claude-sonnet-5.5,anger,emotion,en,2,anger,increase,increase,increase,increase,increase,increase,increase,increase,none,increase,none,increase,increase,none,none,none,,"{""regions"": {""head_top"": ""increase"", ""face"": ""increase"", ""throat"": ""increase"", ""neck_shoulders"": ""increase"", ""chest_upper"": ""increase"", ""heart_area"": ""increase"", ""sternum_center"": ""increase"", ""stomach"": ""increase"", ""lower_abdomen"": ""none"", ""upper_back"": ""increase"", ""lower_back"": ""none"", ""arms"": ""increase"", ""hands"": ""increase"", ""thighs"": ""none"", ""lower_legs"": ""none"", ""feet"": ""none""}, ""feeling"": ""anger""}"
+2026-10-22T11:39:45.230600+00:00,anthropic,anthropic/claude-sonnet-5.5,anger,emotion,en,3,anger,increase,increase,increase,increase,increase,increase,increase,increase,none,increase,none,increase,increase,none,none,none,,"{""regions"": {""head_top"": ""increase"", ""face"": ""increase"", ""throat"": ""increase"", ""neck_shoulders"": ""increase"", ""chest_upper"": ""increase"", ""heart_area"": ""increase"", ""sternum_center"": ""increase"", ""stomach"": ""increase"", ""lower_abdomen"": ""none"", ""upper_back"": ""increase"", ""lower_back"": ""none"", ""arms"": ""increase"", ""hands"": ""increase"", ""thighs"": ""none"", ""lower_legs"": ""none"", ""feet"": ""none""}, ""feeling"": ""anger""}"
+2026-10-22T11:39:47.810767+00:00,anthropic,anthropic/claude-sonnet-5.5,anger,emotion,fa,1,خشم,increase,increase,increase,increase,increase,increase,increase,increase,none,increase,none,increase,increase,none,none,none,,"{""regions"": {""head_top"": ""increase"", ""face"": ""increase"", ""throat"": ""increase"", ""neck_shoulders"": ""increase"", ""chest_upper"": ""increase"", ""heart_area"": ""increase"", ""sternum_center"": ""increase"", ""stomach"": ""increase"", ""lower_abdomen"": ""none"", ""upper_back"": ""increase"", ""lower_back"": ""none"", ""arms"": ""increase"", ""hands"": ""increase"", ""thighs"": ""none"", ""lower_legs"": ""none"", ""feet"": ""none""}, ""feeling"": ""خشم""}"
+2026-10-22T11:39:50.373606+00:00,anthropic,anthropic/claude-sonnet-5.5,anger,emotion,fa,2,خشم,increase,increase,increase,increase,increase,increase,increase,increase,none,increase,none,increase,increase,none,none,none,,"{""regions"": {""head_top"": ""increase"", ""face"": ""increase"", ""throat"": ""increase"", ""neck_shoulders"": ""increase"", ""chest_upper"": ""increase"", ""heart_area"": ""increase"", ""sternum_center"": ""increase"", ""stomach"": ""increase"", ""lower_abdomen"": ""none"", ""upper_back"": ""increase"", ""lower_back"": ""none"", ""arms"": ""increase"", ""hands"": ""increase"", ""thighs"": ""none"", ""lower_legs"": ""none"", ""feet"": ""none""}, ""feeling"": ""خشم""}"
+2026-10-22T11:39:54.443624+00:00,anthropic,anthropic/claude-sonnet-5.5,anger,emotion,fa,3,خشم,increase,increase,increase,increase,increase,increase,increase,increase,none,increase,none,increase,increase,none,none,none,,"{""regions"": {""head_top"": ""increase"", ""face"": ""increase"", ""throat"": ""increase"", ""neck_shoulders"": ""increase"", ""chest_upper"": ""increase"", ""heart_area"": ""increase"", ""sternum_center"": ""increase"", ""stomach"": ""increase"", ""lower_abdomen"": ""none"", ""upper_back"": ""increase"", ""lower_back"": ""none"", ""arms"": ""increase"", ""hands"": ""increase"", ""thighs"": ""none"", ""lower_legs"": ""none"", ""feet"": ""none""}, ""feeling"": ""خشم""}"
+2026-10-22T11:40:03.252774+00:00,anthropic,anthropic/claude-sonnet-5.5,S1,phrase,en,1,"vague low-grade anxiety or low mood, a diffuse unease with tension and heaviness, possibly with fatigue",increase,increase,increase,increase,increase,none,increase,increase,none,increase,none,decrease,none,none,decrease,none,,"{""regions"": {""head_top"": ""increase"", ""face"": ""increase"", ""throat"": ""increase"", ""neck_shoulders"": ""increase"", ""chest_upper"": ""increase"", ""heart_area"": ""none"", ""sternum_center"": ""increase"", ""stomach"": ""increase"", ""lower_abdomen"": ""none"", ""upper_back"": ""increase"", ""lower_back"": ""none"", ""arms"": ""decrease"", ""hands"": ""none"", ""thighs"": ""none"", ""lower_legs"": ""decrease"", ""feet"": ""none""}, ""feeling"": ""vague low-grade anxiety or low mood, a diffuse unease with tension and heaviness, possibly with fatigue""}"
+2026-10-22T11:40:06.632496+00:00,anthropic,anthropic/claude-sonnet-5.5,S1,phrase,en,2,"A low-grade mix of anxiety and low mood, such as worry, heaviness, or emotional numbness that is vague and hard to name.",increase,increase,increase,increase,increase,none,decrease,increase,decrease,increase,increase,decrease,decrease,decrease,decrease,decrease,,"{""regions"": {""head_top"": ""increase"", ""face"": ""increase"", ""throat"": ""increase"", ""neck_shoulders"": ""increase"", ""chest_upper"": ""increase"", ""heart_area"": ""none"", ""sternum_center"": ""decrease"", ""stomach"": ""increase"", ""lower_abdomen"": ""decrease"", ""upper_back"": ""increase"", ""lower_back"": ""increase"", ""arms"": ""decrease"", ""hands"": ""decrease"", ""thighs"": ""decrease"", ""lower_legs"": ""decrease"", ""feet"": ""decrease""}, ""feeling"": ""A low-grade mix of anxiety and low mood, such as worry, heaviness, or emotional numbness that is vague and hard to name.""}"
+2026-10-22T11:40:09.805830+00:00,anthropic,anthropic/claude-sonnet-5.5,S1,phrase,en,3,"A low-grade mix of anxiety and low mood, with fatigue and some emotional numbness",increase,increase,increase,increase,increase,none,decrease,increase,decrease,increase,increase,decrease,decrease,decrease,decrease,decrease,,"{""regions"": {""head_top"": ""increase"", ""face"": ""increase"", ""throat"": ""increase"", ""neck_shoulders"": ""increase"", ""chest_upper"": ""increase"", ""heart_area"": ""none"", ""sternum_center"": ""decrease"", ""stomach"": ""increase"", ""lower_abdomen"": ""decrease"", ""upper_back"": ""increase"", ""lower_back"": ""increase"", ""arms"": ""decrease"", ""hands"": ""decrease"", ""thighs"": ""decrease"", ""lower_legs"": ""decrease"", ""feet"": ""decrease""}, ""feeling"": ""A low-grade mix of anxiety and low mood, with fatigue and some emotional numbness""}"
+2026-10-22T11:40:13.285720+00:00,anthropic,anthropic/claude-sonnet-5.5,S1,phrase,fa,1,اضطراب و نگرانی مبهم؛ حالتی از تنش و بی‌قراری درونی که دلیل مشخصی برایش پیدا نمی‌کنی,increase,increase,increase,increase,increase,increase,increase,increase,none,increase,none,none,decrease,none,none,decrease,,"{""regions"": {""head_top"": ""increase"", ""face"": ""increase"", ""throat"": ""increase"", ""neck_shoulders"": ""increase"", ""chest_upper"": ""increase"", ""heart_area"": ""increase"", ""sternum_center"": ""increase"", ""stomach"": ""increase"", ""lower_abdomen"": ""none"", ""upper_back"": ""increase"", ""lower_back"": ""none"", ""arms"": ""none"", ""hands"": ""decrease"", ""thighs"": ""none"", ""lower_legs"": ""none"", ""feet"": ""decrease""}, ""feeling"": ""اضطراب و نگرانی مبهم؛ حالتی از تنش و بی‌قراری درونی که دلیل مشخصی برایش پیدا نمی‌کنی""}"
+2026-10-22T11:40:16.149865+00:00,anthropic,anthropic/claude-sonnet-5.5,S1,phrase,fa,2,اضطراب و دلشوره,increase,increase,increase,increase,increase,increase,increase,increase,none,increase,none,none,decrease,none,none,decrease,,"{""regions"": {""head_top"": ""increase"", ""face"": ""increase"", ""throat"": ""increase"", ""neck_shoulders"": ""increase"", ""chest_upper"": ""increase"", ""heart_area"": ""increase"", ""sternum_center"": ""increase"", ""stomach"": ""increase"", ""lower_abdomen"": ""none"", ""upper_back"": ""increase"", ""lower_back"": ""none"", ""arms"": ""none"", ""hands"": ""decrease"", ""thighs"": ""none"", ""lower_legs"": ""none"", ""feet"": ""decrease""}, ""feeling"": ""اضطراب و دلشوره""}"
+2026-10-22T11:40:19.568335+00:00,anthropic,anthropic/claude-sonnet-5.5,S1,phrase,fa,3,اضطراب و استرس مبهم؛ نوعی نگرانی و تنش درونی که دلیل مشخصی برایش پیدا نمی‌شود,increase,increase,increase,increase,increase,increase,increase,increase,none,increase,none,none,decrease,none,none,decrease,,"{""regions"": {""head_top"": ""increase"", ""face"": ""increase"", ""throat"": ""increase"", ""neck_shoulders"": ""increase"", ""chest_upper"": ""increase"", ""heart_area"": ""increase"", ""sternum_center"": ""increase"", ""stomach"": ""increase"", ""lower_abdomen"": ""none"", ""upper_back"": ""increase"", ""lower_back"": ""none"", ""arms"": ""none"", ""hands"": ""decrease"", ""thighs"": ""none"", ""lower_legs"": ""none"", ""feet"": ""decrease""}, ""feeling"": ""اضطراب و استرس مبهم؛ نوعی نگرانی و تنش درونی که دلیل مشخصی برایش پیدا نمی‌شود""}"
+2026-10-22T11:40:22.479621+00:00,anthropic,anthropic/claude-sonnet-5.5,S3,phrase,en,1,"sadness or low mood, possibly with anxiety or grief",none,increase,increase,increase,increase,increase,increase,increase,none,increase,none,decrease,decrease,none,decrease,none,,"{""regions"": {""head_top"": ""none"", ""face"": ""increase"", ""throat"": ""increase"", ""neck_shoulders"": ""increase"", ""chest_upper"": ""increase"", ""heart_area"": ""increase"", ""sternum_center"": ""increase"", ""stomach"": ""increase"", ""lower_abdomen"": ""none"", ""upper_back"": ""increase"", ""lower_back"": ""none"", ""arms"": ""decrease"", ""hands"": ""decrease"", ""thighs"": ""none"", ""lower_legs"": ""decrease"", ""feet"": ""none""}, ""feeling"": ""sadness or low mood, possibly with anxiety or grief""}"
+2026-10-22T11:40:25.575883+00:00,anthropic,anthropic/claude-sonnet-5.5,S3,phrase,en,2,"sadness or low mood, possibly mixed with worry or grief",none,decrease,increase,increase,increase,increase,increase,increase,none,increase,none,decrease,decrease,none,decrease,none,,"{""regions"": {""head_top"": ""none"", ""face"": ""decrease"", ""throat"": ""increase"", ""neck_shoulders"": ""increase"", ""chest_upper"": ""increase"", ""heart_area"": ""increase"", ""sternum_center"": ""increase"", ""stomach"": ""increase"", ""lower_abdomen"": ""none"", ""upper_back"": ""increase"", ""lower_back"": ""none"", ""arms"": ""decrease"", ""hands"": ""decrease"", ""thighs"": ""none"", ""lower_legs"": ""decrease"", ""feet"": ""none""}, ""feeling"": ""sadness or low mood, possibly mixed with worry or grief""}"
+2026-10-22T11:40:28.646771+00:00,anthropic,anthropic/claude-sonnet-5.5,S3,phrase,en,3,"sadness or low mood, possibly mixed with worry or grief",none,increase,increase,increase,increase,increase,increase,increase,none,increase,none,decrease,decrease,none,decrease,none,,"{""regions"": {""head_top"": ""none"", ""face"": ""increase"", ""throat"": ""increase"", ""neck_shoulders"": ""increase"", ""chest_upper"": ""increase"", ""heart_area"": ""increase"", ""sternum_center"": ""increase"", ""stomach"": ""increase"", ""lower_abdomen"": ""none"", ""upper_back"": ""increase"", ""lower_back"": ""none"", ""arms"": ""decrease"", ""hands"": ""decrease"", ""thighs"": ""none"", ""lower_legs"": ""decrease"", ""feet"": ""none""}, ""feeling"": ""sadness or low mood, possibly mixed with worry or grief""}"
+2026-10-22T11:40:31.678835+00:00,anthropic,anthropic/claude-sonnet-5.5,S3,phrase,fa,1,غمگینی و دل‌گرفتگی,increase,increase,increase,increase,increase,increase,decrease,decrease,decrease,increase,increase,decrease,decrease,decrease,decrease,decrease,,"{""regions"": {""head_top"": ""increase"", ""face"": ""increase"", ""throat"": ""increase"", ""neck_shoulders"": ""increase"", ""chest_upper"": ""increase"", ""heart_area"": ""increase"", ""sternum_center"": ""decrease"", ""stomach"": ""decrease"", ""lower_abdomen"": ""decrease"", ""upper_back"": ""increase"", ""lower_back"": ""increase"", ""arms"": ""decrease"", ""hands"": ""decrease"", ""thighs"": ""decrease"", ""lower_legs"": ""decrease"", ""feet"": ""decrease""}, ""feeling"": ""غمگینی و دل‌گرفتگی""}"
+2026-10-22T11:40:34.997406+00:00,anthropic,anthropic/claude-sonnet-5.5,S3,phrase,fa,2,غمگینی و دلتنگی,increase,increase,increase,increase,increase,increase,increase,decrease,none,increase,none,decrease,decrease,none,decrease,decrease,,"{""regions"": {""head_top"": ""increase"", ""face"": ""increase"", ""throat"": ""increase"", ""neck_shoulders"": ""increase"", ""chest_upper"": ""increase"", ""heart_area"": ""increase"", ""sternum_center"": ""increase"", ""stomach"": ""decrease"", ""lower_abdomen"": ""none"", ""upper_back"": ""increase"", ""lower_back"": ""none"", ""arms"": ""decrease"", ""hands"": ""decrease"", ""thighs"": ""none"", ""lower_legs"": ""decrease"", ""feet"": ""decrease""}, ""feeling"": ""غمگینی و دلتنگی""}"
+2026-10-22T11:40:38.351000+00:00,anthropic,anthropic/claude-sonnet-5.5,S3,phrase,fa,3,غمگینی و دلتنگی؛ نوعی افسردگی و سنگینی درونی که علتش مشخص نیست,increase,increase,increase,increase,increase,increase,decrease,decrease,decrease,increase,increase,decrease,decrease,decrease,decrease,decrease,,"{""regions"": {""head_top"": ""increase"", ""face"": ""increase"", ""throat"": ""increase"", ""neck_shoulders"": ""increase"", ""chest_upper"": ""increase"", ""heart_area"": ""increase"", ""sternum_center"": ""decrease"", ""stomach"": ""decrease"", ""lower_abdomen"": ""decrease"", ""upper_back"": ""increase"", ""lower_back"": ""increase"", ""arms"": ""decrease"", ""hands"": ""decrease"", ""thighs"": ""decrease"", ""lower_legs"": ""decrease"", ""feet"": ""decrease""}, ""feeling"": ""غمگینی و دلتنگی؛ نوعی افسردگی و سنگینی درونی که علتش مشخص نیست""}"
+2026-10-22T11:40:41.231955+00:00,anthropic,anthropic/claude-sonnet-5.5,S4,phrase,en,1,anxiety,none,none,increase,increase,increase,none,increase,increase,increase,none,none,none,none,none,none,none,,"{""regions"": {""head_top"": ""none"", ""face"": ""none"", ""throat"": ""increase"", ""neck_shoulders"": ""increase"", ""chest_upper"": ""increase"", ""heart_area"": ""none"", ""sternum_center"": ""increase"", ""stomach"": ""increase"", ""lower_abdomen"": ""increase"", ""upper_back"": ""none"", ""lower_back"": ""none"", ""arms"": ""none"", ""hands"": ""none"", ""thighs"": ""none"", ""lower_legs"": ""none"", ""feet"": ""none""}, ""feeling"": ""anxiety""}"
+2026-10-22T11:40:45.472468+00:00,anthropic,anthropic/claude-sonnet-5.5,S4,phrase,en,2,anxiety,none,none,increase,increase,increase,none,increase,increase,increase,none,none,none,none,none,none,none,,"{""regions"": {""head_top"": ""none"", ""face"": ""none"", ""throat"": ""increase"", ""neck_shoulders"": ""increase"", ""chest_upper"": ""increase"", ""heart_area"": ""none"", ""sternum_center"": ""increase"", ""stomach"": ""increase"", ""lower_abdomen"": ""increase"", ""upper_back"": ""none"", ""lower_back"": ""none"", ""arms"": ""none"", ""hands"": ""none"", ""thighs"": ""none"", ""lower_legs"": ""none"", ""feet"": ""none""}, ""feeling"": ""anxiety""}"
+2026-10-22T11:40:48.360701+00:00,anthropic,anthropic/claude-sonnet-5.5,S4,phrase,en,3,anxiety,none,none,increase,increase,increase,none,increase,increase,increase,none,none,none,none,none,none,none,,"{""regions"": {""head_top"": ""none"", ""face"": ""none"", ""throat"": ""increase"", ""neck_shoulders"": ""increase"", ""chest_upper"": ""increase"", ""heart_area"": ""none"", ""sternum_center"": ""increase"", ""stomach"": ""increase"", ""lower_abdomen"": ""increase"", ""upper_back"": ""none"", ""lower_back"": ""none"", ""arms"": ""none"", ""hands"": ""none"", ""thighs"": ""none"", ""lower_legs"": ""none"", ""feet"": ""none""}, ""feeling"": ""anxiety""}"
+2026-10-22T11:40:51.191465+00:00,anthropic,anthropic/claude-sonnet-5.5,S4,phrase,fa,1,اضطراب,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,none,none,decrease,none,none,decrease,,"{""regions"": {""head_top"": ""increase"", ""face"": ""increase"", ""throat"": ""increase"", ""neck_shoulders"": ""increase"", ""chest_upper"": ""increase"", ""heart_area"": ""increase"", ""sternum_center"": ""increase"", ""stomach"": ""increase"", ""lower_abdomen"": ""increase"", ""upper_back"": ""increase"", ""lower_back"": ""none"", ""arms"": ""none"", ""hands"": ""decrease"", ""thighs"": ""none"", ""lower_legs"": ""none"", ""feet"": ""decrease""}, ""feeling"": ""اضطراب""}"
+2026-10-22T11:40:54.647816+00:00,anthropic,anthropic/claude-sonnet-5.5,S4,phrase,fa,2,اضطراب,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,none,none,decrease,none,none,decrease,,"{""regions"": {""head_top"": ""increase"", ""face"": ""increase"", ""throat"": ""increase"", ""neck_shoulders"": ""increase"", ""chest_upper"": ""increase"", ""heart_area"": ""increase"", ""sternum_center"": ""increase"", ""stomach"": ""increase"", ""lower_abdomen"": ""increase"", ""upper_back"": ""increase"", ""lower_back"": ""none"", ""arms"": ""none"", ""hands"": ""decrease"", ""thighs"": ""none"", ""lower_legs"": ""none"", ""feet"": ""decrease""}, ""feeling"": ""اضطراب""}"
+2026-10-22T11:40:57.524558+00:00,anthropic,anthropic/claude-sonnet-5.5,S4,phrase,fa,3,اضطراب,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,none,none,decrease,none,none,decrease,,"{""regions"": {""head_top"": ""increase"", ""face"": ""increase"", ""throat"": ""increase"", ""neck_shoulders"": ""increase"", ""chest_upper"": ""increase"", ""heart_area"": ""increase"", ""sternum_center"": ""increase"", ""stomach"": ""increase"", ""lower_abdomen"": ""increase"", ""upper_back"": ""increase"", ""lower_back"": ""none"", ""arms"": ""none"", ""hands"": ""decrease"", ""thighs"": ""none"", ""lower_legs"": ""none"", ""feet"": ""decrease""}, ""feeling"": ""اضطراب""}"
+2026-10-22T11:41:00.838833+00:00,anthropic,anthropic/claude-sonnet-5.5,S8,phrase,en,1,"anxiety or chronic stress with chest tightness, a sense of being weighed down or constricted, possibly worry or sadness held in the body. Difficulty taking a full breath for days can also have a physical cause, so it is worth getting checked by a doctor, especially if it worsens or comes with pain, dizziness, or swelling.",none,none,increase,increase,increase,increase,increase,increase,none,increase,none,none,none,none,none,none,,"{""regions"": {""head_top"": ""none"", ""face"": ""none"", ""throat"": ""increase"", ""neck_shoulders"": ""increase"", ""chest_upper"": ""increase"", ""heart_area"": ""increase"", ""sternum_center"": ""increase"", ""stomach"": ""increase"", ""lower_abdomen"": ""none"", ""upper_back"": ""increase"", ""lower_back"": ""none"", ""arms"": ""none"", ""hands"": ""none"", ""thighs"": ""none"", ""lower_legs"": ""none"", ""feet"": ""none""}, ""feeling"": ""anxiety or chronic stress with chest tightness, a sense of being weighed down or constricted, possibly worry or sadness held in the body. Difficulty taking a full breath for days can also have a physical cause, so it is worth getting checked by a doctor, especially if it worsens or comes with pain, dizziness, or swelling.""}"
+2026-10-22T11:41:03.905480+00:00,anthropic,anthropic/claude-sonnet-5.5,S8,phrase,en,2,"anxiety or chronic stress, with a tight, heavy chest that makes breathing feel restricted (shortness of breath lasting several days can also have physical causes, so it is worth getting checked by a doctor)",none,none,increase,increase,increase,increase,increase,increase,none,increase,none,none,none,none,none,none,,"{""regions"": {""head_top"": ""none"", ""face"": ""none"", ""throat"": ""increase"", ""neck_shoulders"": ""increase"", ""chest_upper"": ""increase"", ""heart_area"": ""increase"", ""sternum_center"": ""increase"", ""stomach"": ""increase"", ""lower_abdomen"": ""none"", ""upper_back"": ""increase"", ""lower_back"": ""none"", ""arms"": ""none"", ""hands"": ""none"", ""thighs"": ""none"", ""lower_legs"": ""none"", ""feet"": ""none""}, ""feeling"": ""anxiety or chronic stress, with a tight, heavy chest that makes breathing feel restricted (shortness of breath lasting several days can also have physical causes, so it is worth getting checked by a doctor)""}"
+2026-10-22T11:41:06.945374+00:00,anthropic,anthropic/claude-sonnet-5.5,S8,phrase,en,3,"anxiety or chronic stress, felt as tightness and pressure in the chest and a sense of being unable to breathe fully",none,none,increase,increase,increase,increase,increase,increase,none,increase,none,none,none,none,none,none,,"{""regions"": {""head_top"": ""none"", ""face"": ""none"", ""throat"": ""increase"", ""neck_shoulders"": ""increase"", ""chest_upper"": ""increase"", ""heart_area"": ""increase"", ""sternum_center"": ""increase"", ""stomach"": ""increase"", ""lower_abdomen"": ""none"", ""upper_back"": ""increase"", ""lower_back"": ""none"", ""arms"": ""none"", ""hands"": ""none"", ""thighs"": ""none"", ""lower_legs"": ""none"", ""feet"": ""none""}, ""feeling"": ""anxiety or chronic stress, felt as tightness and pressure in the chest and a sense of being unable to breathe fully""}"
+2026-10-22T11:41:10.137560+00:00,anthropic,anthropic/claude-sonnet-5.5,S8,phrase,fa,1,اضطراب و فشار روانی؛ حس سنگینی و تنگی در قفسه سینه و نفس‌های کوتاه و سطحی,none,increase,increase,increase,increase,increase,increase,increase,none,increase,none,none,decrease,none,none,none,,"{""regions"": {""head_top"": ""none"", ""face"": ""increase"", ""throat"": ""increase"", ""neck_shoulders"": ""increase"", ""chest_upper"": ""increase"", ""heart_area"": ""increase"", ""sternum_center"": ""increase"", ""stomach"": ""increase"", ""lower_abdomen"": ""none"", ""upper_back"": ""increase"", ""lower_back"": ""none"", ""arms"": ""none"", ""hands"": ""decrease"", ""thighs"": ""none"", ""lower_legs"": ""none"", ""feet"": ""none""}, ""feeling"": ""اضطراب و فشار روانی؛ حس سنگینی و تنگی در قفسه سینه و نفس‌های کوتاه و سطحی""}"
+2026-10-22T11:41:13.397444+00:00,anthropic,anthropic/claude-sonnet-5.5,S8,phrase,fa,2,اضطراب و نگرانی که به شکل سنگینی و فشار روی سینه و تنگی نفس حس می‌شود,none,increase,increase,increase,increase,increase,increase,increase,none,increase,none,none,decrease,none,none,none,,"{""regions"": {""head_top"": ""none"", ""face"": ""increase"", ""throat"": ""increase"", ""neck_shoulders"": ""increase"", ""chest_upper"": ""increase"", ""heart_area"": ""increase"", ""sternum_center"": ""increase"", ""stomach"": ""increase"", ""lower_abdomen"": ""none"", ""upper_back"": ""increase"", ""lower_back"": ""none"", ""arms"": ""none"", ""hands"": ""decrease"", ""thighs"": ""none"", ""lower_legs"": ""none"", ""feet"": ""none""}, ""feeling"": ""اضطراب و نگرانی که به شکل سنگینی و فشار روی سینه و تنگی نفس حس می‌شود""}"
+2026-10-22T11:41:16.500409+00:00,anthropic,anthropic/claude-sonnet-5.5,S8,phrase,fa,3,اضطراب و فشار روحی؛ احساس تنگی و سنگینی در قفسه سینه و گرفتگی نفس,none,increase,increase,increase,increase,increase,increase,increase,none,increase,none,none,decrease,none,none,none,,"{""regions"": {""head_top"": ""none"", ""face"": ""increase"", ""throat"": ""increase"", ""neck_shoulders"": ""increase"", ""chest_upper"": ""increase"", ""heart_area"": ""increase"", ""sternum_center"": ""increase"", ""stomach"": ""increase"", ""lower_abdomen"": ""none"", ""upper_back"": ""increase"", ""lower_back"": ""none"", ""arms"": ""none"", ""hands"": ""decrease"", ""thighs"": ""none"", ""lower_legs"": ""none"", ""feet"": ""none""}, ""feeling"": ""اضطراب و فشار روحی؛ احساس تنگی و سنگینی در قفسه سینه و گرفتگی نفس""}"
+2026-10-22T11:41:38.182350+00:00,google,google/gemini-3.8-flash,sadness,emotion,en,2,sadness,increase,increase,increase,none,increase,increase,increase,decrease,decrease,none,none,decrease,decrease,decrease,decrease,decrease,,"{""regions"": {""head_top"": ""increase"", ""face"": ""increase"", ""throat"": ""increase"", ""neck_shoulders"": ""none"", ""chest_upper"": ""increase"", ""heart_area"": ""increase"", ""sternum_center"": ""increase"", ""stomach"": ""decrease"", ""lower_abdomen"": ""decrease"", ""upper_back"": ""none"", ""lower_back"": ""none"", ""arms"": ""decrease"", ""hands"": ""decrease"", ""thighs"": ""decrease"", ""lower_legs"": ""decrease"", ""feet"": ""decrease""}, ""feeling"": ""sadness""}"
+2026-10-22T11:42:01.117118+00:00,google,google/gemini-3.8-flash,sadness,emotion,en,3,sadness,increase,increase,increase,none,increase,increase,increase,decrease,none,none,none,decrease,decrease,decrease,decrease,decrease,,"{""regions"": {""head_top"": ""increase"", ""face"": ""increase"", ""throat"": ""increase"", ""neck_shoulders"": ""none"", ""chest_upper"": ""increase"", ""heart_area"": ""increase"", ""sternum_center"": ""increase"", ""stomach"": ""decrease"", ""lower_abdomen"": ""none"", ""upper_back"": ""none"", ""lower_back"": ""none"", ""arms"": ""decrease"", ""hands"": ""decrease"", ""thighs"": ""decrease"", ""lower_legs"": ""decrease"", ""feet"": ""decrease""}, ""feeling"": ""sadness""}"
+2026-10-22T11:42:20.476280+00:00,google,google/gemini-3.8-flash,sadness,emotion,fa,1,غم,increase,increase,increase,decrease,increase,increase,increase,decrease,decrease,none,none,decrease,decrease,decrease,decrease,decrease,,"```json
+{
+  ""regions"": {
+    ""head_top"": ""increase"",
+    ""face"": ""increase"",
+    ""throat"": ""increase"",
+    ""neck_shoulders"": ""decrease"",
+    ""chest_upper"": ""increase"",
+    ""heart_area"": ""increase"",
+    ""sternum_center"": ""increase"",
+    ""stomach"": ""decrease"",
+    ""lower_abdomen"": ""decrease"",
+    ""upper_back"": ""none"",
+    ""lower_back"": ""none"",
+    ""arms"": ""decrease"",
+    ""hands"": ""decrease"",
+    ""thighs"": ""decrease"",
+    ""lower_legs"": ""decrease"",
+    ""feet"": ""decrease""
+  },
+  ""feeling"": ""غم""
+}
+```"
+2026-10-22T11:42:42.276548+00:00,google,google/gemini-3.8-flash,sadness,emotion,fa,2,غم,none,increase,increase,none,increase,increase,increase,decrease,decrease,none,decrease,decrease,decrease,decrease,decrease,decrease,,"{
+  ""regions"": {
+    ""head_top"": ""none"",
+    ""face"": ""increase"",
+    ""throat"": ""increase"",
+    ""neck_shoulders"": ""none"",
+    ""chest_upper"": ""increase"",
+    ""heart_area"": ""increase"",
+    ""sternum_center"": ""increase"",
+    ""stomach"": ""decrease"",
+    ""lower_abdomen"": ""decrease"",
+    ""upper_back"": ""none"",
+    ""lower_back"": ""decrease"",
+    ""arms"": ""decrease"",
+    ""hands"": ""decrease"",
+    ""thighs"": ""decrease"",
+    ""lower_legs"": ""decrease"",
+    ""feet"": ""decrease""
+  },
+  ""feeling"": ""غم""
+}"
+2026-10-22T11:43:02.585533+00:00,google,google/gemini-3.8-flash,sadness,emotion,fa,3,غم,increase,increase,increase,decrease,increase,increase,increase,decrease,decrease,decrease,decrease,decrease,decrease,decrease,decrease,decrease,,"{
+  ""regions"": {
+    ""head_top"": ""increase"",
+    ""face"": ""increase"",
+    ""throat"": ""increase"",
+    ""neck_shoulders"": ""decrease"",
+    ""chest_upper"": ""increase"",
+    ""heart_area"": ""increase"",
+    ""sternum_center"": ""increase"",
+    ""stomach"": ""decrease"",
+    ""lower_abdomen"": ""decrease"",
+    ""upper_back"": ""decrease"",
+    ""lower_back"": ""decrease"",
+    ""arms"": ""decrease"",
+    ""hands"": ""decrease"",
+    ""thighs"": ""decrease"",
+    ""lower_legs"": ""decrease"",
+    ""feet"": ""decrease""
+  },
+  ""feeling"": ""غم""
+}"
+2026-10-22T11:43:09.401442+00:00,google,google/gemini-3.8-flash,anxiety,emotion,en,1,anxiety,increase,increase,increase,increase,increase,increase,increase,increase,none,increase,none,none,decrease,none,decrease,decrease,,"```json
+{
+  ""regions"": {
+    ""head_top"": ""increase"",
+    ""face"": ""increase"",
+    ""throat"": ""increase"",
+    ""neck_shoulders"": ""increase"",
+    ""chest_upper"": ""increase"",
+    ""heart_area"": ""increase"",
+    ""sternum_center"": ""increase"",
+    ""stomach"": ""increase"",
+    ""lower_abdomen"": ""none"",
+    ""upper_back"": ""increase"",
+    ""lower_back"": ""none"",
+    ""arms"": ""none"",
+    ""hands"": ""decrease"",
+    ""thighs"": ""none"",
+    ""lower_legs"": ""decrease"",
+    ""feet"": ""decrease""
+  },
+  ""feeling"": ""anxiety""
+}
+```"
+2026-10-22T11:43:33.636015+00:00,google,google/gemini-3.8-flash,anxiety,emotion,en,2,anxiety,increase,increase,increase,increase,increase,increase,increase,increase,none,increase,none,decrease,decrease,decrease,decrease,decrease,,"```json
+{
+  ""regions"": {
+    ""head_top"": ""increase"",
+    ""face"": ""increase"",
+    ""throat"": ""increase"",
+    ""neck_shoulders"": ""increase"",
+    ""chest_upper"": ""increase"",
+    ""heart_area"": ""increase"",
+    ""sternum_center"": ""increase"",
+    ""stomach"": ""increase"",
+    ""lower_abdomen"": ""none"",
+    ""upper_back"": ""increase"",
+    ""lower_back"": ""none"",
+    ""arms"": ""decrease"",
+    ""hands"": ""decrease"",
+    ""thighs"": ""decrease"",
+    ""lower_legs"": ""decrease"",
+    ""feet"": ""decrease""
+  },
+  ""feeling"": ""anxiety""
+}
+```"
+2026-10-22T11:43:54.539429+00:00,google,google/gemini-3.8-flash,anxiety,emotion,en,3,anxiety,increase,increase,increase,increase,increase,increase,increase,increase,none,increase,none,none,decrease,none,decrease,decrease,,"{""regions"": {""head_top"": ""increase"", ""face"": ""increase"", ""throat"": ""increase"", ""neck_shoulders"": ""increase"", ""chest_upper"": ""increase"", ""heart_area"": ""increase"", ""sternum_center"": ""increase"", ""stomach"": ""increase"", ""lower_abdomen"": ""none"", ""upper_back"": ""increase"", ""lower_back"": ""none"", ""arms"": ""none"", ""hands"": ""decrease"", ""thighs"": ""none"", ""lower_legs"": ""decrease"", ""feet"": ""decrease""}, ""feeling"": ""anxiety""}"
+2026-10-22T11:44:05.001389+00:00,google,google/gemini-3.8-flash,anxiety,emotion,fa,1,اضطراب و دلشوره,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,none,none,decrease,none,decrease,decrease,,"```json
+{
+  ""regions"": {
+    ""head_top"": ""increase"",
+    ""face"": ""increase"",
+    ""throat"": ""increase"",
+    ""neck_shoulders"": ""increase"",
+    ""chest_upper"": ""increase"",
+    ""heart_area"": ""increase"",
+    ""sternum_center"": ""increase"",
+    ""stomach"": ""increase"",
+    ""lower_abdomen"": ""increase"",
+    ""upper_back"": ""increase"",
+    ""lower_back"": ""none"",
+    ""arms"": ""none"",
+    ""hands"": ""decrease"",
+    ""thighs"": ""none"",
+    ""lower_legs"": ""decrease"",
+    ""feet"": ""decrease""
+  },
+  ""feeling"": ""اضطراب و دلشوره""
+}
+```"
+2026-10-22T11:44:17.769290+00:00,google,google/gemini-3.8-flash,anxiety,emotion,fa,2,اضطراب و دلشوره,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,none,none,decrease,decrease,decrease,decrease,,"{
+  ""regions"": {
+    ""head_top"": ""increase"",
+    ""face"": ""increase"",
+    ""throat"": ""increase"",
+    ""neck_shoulders"": ""increase"",
+    ""chest_upper"": ""increase"",
+    ""heart_area"": ""increase"",
+    ""sternum_center"": ""increase"",
+    ""stomach"": ""increase"",
+    ""lower_abdomen"": ""increase"",
+    ""upper_back"": ""increase"",
+    ""lower_back"": ""none"",
+    ""arms"": ""none"",
+    ""hands"": ""decrease"",
+    ""thighs"": ""decrease"",
+    ""lower_legs"": ""decrease"",
+    ""feet"": ""decrease""
+  },
+  ""feeling"": ""اضطراب و دلشوره""
+}"
+2026-10-22T11:44:37.300927+00:00,google,google/gemini-3.8-flash,anxiety,emotion,fa,3,اضطراب و دلشوره,increase,increase,increase,increase,increase,increase,increase,increase,none,increase,none,decrease,decrease,decrease,decrease,decrease,,"```json
+{
+  ""regions"": {
+    ""head_top"": ""increase"",
+    ""face"": ""increase"",
+    ""throat"": ""increase"",
+    ""neck_shoulders"": ""increase"",
+    ""chest_upper"": ""increase"",
+    ""heart_area"": ""increase"",
+    ""sternum_center"": ""increase"",
+    ""stomach"": ""increase"",
+    ""lower_abdomen"": ""none"",
+    ""upper_back"": ""increase"",
+    ""lower_back"": ""none"",
+    ""arms"": ""decrease"",
+    ""hands"": ""decrease"",
+    ""thighs"": ""decrease"",
+    ""lower_legs"": ""decrease"",
+    ""feet"": ""decrease""
+  },
+  ""feeling"": ""اضطراب و دلشوره""
+}
+```"
+2026-10-22T11:44:43.981801+00:00,google,google/gemini-3.8-flash,happiness,emotion,en,1,happiness,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,,"```json
+{
+  ""regions"": {
+    ""head_top"": ""increase"",
+    ""face"": ""increase"",
+    ""throat"": ""increase"",
+    ""neck_shoulders"": ""increase"",
+    ""chest_upper"": ""increase"",
+    ""heart_area"": ""increase"",
+    ""sternum_center"": ""increase"",
+    ""stomach"": ""increase"",
+    ""lower_abdomen"": ""increase"",
+    ""upper_back"": ""increase"",
+    ""lower_back"": ""increase"",
+    ""arms"": ""increase"",
+    ""hands"": ""increase"",
+    ""thighs"": ""increase"",
+    ""lower_legs"": ""increase"",
+    ""feet"": ""increase""
+  },
+  ""feeling"": ""happiness""
+}
+```"
+2026-10-22T11:45:00.343963+00:00,google,google/gemini-3.8-flash,happiness,emotion,en,2,happiness,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,,"```json
+{
+  ""regions"": {
+    ""head_top"": ""increase"",
+    ""face"": ""increase"",
+    ""throat"": ""increase"",
+    ""neck_shoulders"": ""increase"",
+    ""chest_upper"": ""increase"",
+    ""heart_area"": ""increase"",
+    ""sternum_center"": ""increase"",
+    ""stomach"": ""increase"",
+    ""lower_abdomen"": ""increase"",
+    ""upper_back"": ""increase"",
+    ""lower_back"": ""increase"",
+    ""arms"": ""increase"",
+    ""hands"": ""increase"",
+    ""thighs"": ""increase"",
+    ""lower_legs"": ""increase"",
+    ""feet"": ""increase""
+  },
+  ""feeling"": ""happiness""
+}
+```"
+2026-10-22T11:45:08.973416+00:00,google,google/gemini-3.8-flash,happiness,emotion,en,3,happiness,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,,"```json
+{
+  ""regions"": {
+    ""head_top"": ""increase"",
+    ""face"": ""increase"",
+    ""throat"": ""increase"",
+    ""neck_shoulders"": ""increase"",
+    ""chest_upper"": ""increase"",
+    ""heart_area"": ""increase"",
+    ""sternum_center"": ""increase"",
+    ""stomach"": ""increase"",
+    ""lower_abdomen"": ""increase"",
+    ""upper_back"": ""increase"",
+    ""lower_back"": ""increase"",
+    ""arms"": ""increase"",
+    ""hands"": ""increase"",
+    ""thighs"": ""increase"",
+    ""lower_legs"": ""increase"",
+    ""feet"": ""increase""
+  },
+  ""feeling"": ""happiness""
+}
+```"
+2026-10-22T11:45:17.606925+00:00,google,google/gemini-3.8-flash,happiness,emotion,fa,1,شادی,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,,"```json
+{
+  ""regions"": {
+    ""head_top"": ""increase"",
+    ""face"": ""increase"",
+    ""throat"": ""increase"",
+    ""neck_shoulders"": ""increase"",
+    ""chest_upper"": ""increase"",
+    ""heart_area"": ""increase"",
+    ""sternum_center"": ""increase"",
+    ""stomach"": ""increase"",
+    ""lower_abdomen"": ""increase"",
+    ""upper_back"": ""increase"",
+    ""lower_back"": ""increase"",
+    ""arms"": ""increase"",
+    ""hands"": ""increase"",
+    ""thighs"": ""increase"",
+    ""lower_legs"": ""increase"",
+    ""feet"": ""increase""
+  },
+  ""feeling"": ""شادی""
+}
+```"
+2026-10-22T11:45:23.785255+00:00,google,google/gemini-3.8-flash,happiness,emotion,fa,2,شادی,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,,"```json
+{
+  ""regions"": {
+    ""head_top"": ""increase"",
+    ""face"": ""increase"",
+    ""throat"": ""increase"",
+    ""neck_shoulders"": ""increase"",
+    ""chest_upper"": ""increase"",
+    ""heart_area"": ""increase"",
+    ""sternum_center"": ""increase"",
+    ""stomach"": ""increase"",
+    ""lower_abdomen"": ""increase"",
+    ""upper_back"": ""increase"",
+    ""lower_back"": ""increase"",
+    ""arms"": ""increase"",
+    ""hands"": ""increase"",
+    ""thighs"": ""increase"",
+    ""lower_legs"": ""increase"",
+    ""feet"": ""increase""
+  },
+  ""feeling"": ""شادی""
+}
+```"
+2026-10-22T11:45:28.499490+00:00,google,google/gemini-3.8-flash,happiness,emotion,fa,3,شادی,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,,"```json
+{
+  ""regions"": {
+    ""head_top"": ""increase"",
+    ""face"": ""increase"",
+    ""throat"": ""increase"",
+    ""neck_shoulders"": ""increase"",
+    ""chest_upper"": ""increase"",
+    ""heart_area"": ""increase"",
+    ""sternum_center"": ""increase"",
+    ""stomach"": ""increase"",
+    ""lower_abdomen"": ""increase"",
+    ""upper_back"": ""increase"",
+    ""lower_back"": ""increase"",
+    ""arms"": ""increase"",
+    ""hands"": ""increase"",
+    ""thighs"": ""increase"",
+    ""lower_legs"": ""increase"",
+    ""feet"": ""increase""
+  },
+  ""feeling"": ""شادی""
+}
+```"
+2026-10-22T11:45:39.996956+00:00,google,google/gemini-3.8-flash,fear,emotion,en,1,fear,increase,increase,increase,increase,increase,increase,increase,increase,none,increase,none,decrease,decrease,none,decrease,decrease,,"```json
+{
+  ""regions"": {
+    ""head_top"": ""increase"",
+    ""face"": ""increase"",
+    ""throat"": ""increase"",
+    ""neck_shoulders"": ""increase"",
+    ""chest_upper"": ""increase"",
+    ""heart_area"": ""increase"",
+    ""sternum_center"": ""increase"",
+    ""stomach"": ""increase"",
+    ""lower_abdomen"": ""none"",
+    ""upper_back"": ""increase"",
+    ""lower_back"": ""none"",
+    ""arms"": ""decrease"",
+    ""hands"": ""decrease"",
+    ""thighs"": ""none"",
+    ""lower_legs"": ""decrease"",
+    ""feet"": ""decrease""
+  },
+  ""feeling"": ""fear""
+}
+```"
+2026-10-22T11:45:51.873637+00:00,google,google/gemini-3.8-flash,fear,emotion,en,2,fear,increase,increase,increase,increase,increase,increase,increase,increase,none,increase,none,none,decrease,decrease,decrease,decrease,,"```json
+{
+  ""regions"": {
+    ""head_top"": ""increase"",
+    ""face"": ""increase"",
+    ""throat"": ""increase"",
+    ""neck_shoulders"": ""increase"",
+    ""chest_upper"": ""increase"",
+    ""heart_area"": ""increase"",
+    ""sternum_center"": ""increase"",
+    ""stomach"": ""increase"",
+    ""lower_abdomen"": ""none"",
+    ""upper_back"": ""increase"",
+    ""lower_back"": ""none"",
+    ""arms"": ""none"",
+    ""hands"": ""decrease"",
+    ""thighs"": ""decrease"",
+    ""lower_legs"": ""decrease"",
+    ""feet"": ""decrease""
+  },
+  ""feeling"": ""fear""
+}
+```"
+2026-10-22T11:46:13.428671+00:00,google,google/gemini-3.8-flash,fear,emotion,en,3,fear,increase,increase,increase,increase,increase,increase,increase,increase,none,increase,none,none,decrease,decrease,decrease,decrease,,"```json
+{
+  ""regions"": {
+    ""head_top"": ""increase"",
+    ""face"": ""increase"",
+    ""throat"": ""increase"",
+    ""neck_shoulders"": ""increase"",
+    ""chest_upper"": ""increase"",
+    ""heart_area"": ""increase"",
+    ""sternum_center"": ""increase"",
+    ""stomach"": ""increase"",
+    ""lower_abdomen"": ""none"",
+    ""upper_back"": ""increase"",
+    ""lower_back"": ""none"",
+    ""arms"": ""none"",
+    ""hands"": ""decrease"",
+    ""thighs"": ""decrease"",
+    ""lower_legs"": ""decrease"",
+    ""feet"": ""decrease""
+  },
+  ""feeling"": ""fear""
+}
+```"
+2026-10-22T11:46:34.780154+00:00,google,google/gemini-3.8-flash,fear,emotion,fa,1,ترس,increase,increase,increase,increase,increase,increase,increase,increase,none,increase,none,decrease,decrease,decrease,decrease,decrease,,"```json
+{
+  ""regions"": {
+    ""head_top"": ""increase"",
+    ""face"": ""increase"",
+    ""throat"": ""increase"",
+    ""neck_shoulders"": ""increase"",
+    ""chest_upper"": ""increase"",
+    ""heart_area"": ""increase"",
+    ""sternum_center"": ""increase"",
+    ""stomach"": ""increase"",
+    ""lower_abdomen"": ""none"",
+    ""upper_back"": ""increase"",
+    ""lower_back"": ""none"",
+    ""arms"": ""decrease"",
+    ""hands"": ""decrease"",
+    ""thighs"": ""decrease"",
+    ""lower_legs"": ""decrease"",
+    ""feet"": ""decrease""
+  },
+  ""feeling"": ""ترس""
+}
+```"
+2026-10-22T11:46:43.689353+00:00,google,google/gemini-3.8-flash,fear,emotion,fa,2,ترس,increase,increase,increase,increase,increase,increase,increase,increase,none,increase,none,none,decrease,none,decrease,decrease,,"```json
+{
+  ""regions"": {
+    ""head_top"": ""increase"",
+    ""face"": ""increase"",
+    ""throat"": ""increase"",
+    ""neck_shoulders"": ""increase"",
+    ""chest_upper"": ""increase"",
+    ""heart_area"": ""increase"",
+    ""sternum_center"": ""increase"",
+    ""stomach"": ""increase"",
+    ""lower_abdomen"": ""none"",
+    ""upper_back"": ""increase"",
+    ""lower_back"": ""none"",
+    ""arms"": ""none"",
+    ""hands"": ""decrease"",
+    ""thighs"": ""none"",
+    ""lower_legs"": ""decrease"",
+    ""feet"": ""decrease""
+  },
+  ""feeling"": ""ترس""
+}
+```"
+2026-10-22T11:46:54.741317+00:00,google,google/gemini-3.8-flash,fear,emotion,fa,3,ترس,increase,increase,increase,increase,increase,increase,increase,increase,none,increase,none,decrease,decrease,decrease,decrease,decrease,,"{
+  ""regions"": {
+    ""head_top"": ""increase"",
+    ""face"": ""increase"",
+    ""throat"": ""increase"",
+    ""neck_shoulders"": ""increase"",
+    ""chest_upper"": ""increase"",
+    ""heart_area"": ""increase"",
+    ""sternum_center"": ""increase"",
+    ""stomach"": ""increase"",
+    ""lower_abdomen"": ""none"",
+    ""upper_back"": ""increase"",
+    ""lower_back"": ""none"",
+    ""arms"": ""decrease"",
+    ""hands"": ""decrease"",
+    ""thighs"": ""decrease"",
+    ""lower_legs"": ""decrease"",
+    ""feet"": ""decrease""
+  },
+  ""feeling"": ""ترس""
+}"
+2026-10-22T11:47:04.373724+00:00,google,google/gemini-3.8-flash,anger,emotion,en,1,anger,increase,increase,increase,increase,increase,increase,increase,increase,none,increase,none,increase,increase,none,none,none,,"```json
+{
+  ""regions"": {
+    ""head_top"": ""increase"",
+    ""face"": ""increase"",
+    ""throat"": ""increase"",
+    ""neck_shoulders"": ""increase"",
+    ""chest_upper"": ""increase"",
+    ""heart_area"": ""increase"",
+    ""sternum_center"": ""increase"",
+    ""stomach"": ""increase"",
+    ""lower_abdomen"": ""none"",
+    ""upper_back"": ""increase"",
+    ""lower_back"": ""none"",
+    ""arms"": ""increase"",
+    ""hands"": ""increase"",
+    ""thighs"": ""none"",
+    ""lower_legs"": ""none"",
+    ""feet"": ""none""
+  },
+  ""feeling"": ""anger""
+}
+```"
+2026-10-22T11:47:10.927471+00:00,google,google/gemini-3.8-flash,anger,emotion,en,2,anger,increase,increase,increase,increase,increase,increase,increase,increase,none,increase,none,increase,increase,none,none,none,,"{""regions"": {""head_top"": ""increase"", ""face"": ""increase"", ""throat"": ""increase"", ""neck_shoulders"": ""increase"", ""chest_upper"": ""increase"", ""heart_area"": ""increase"", ""sternum_center"": ""increase"", ""stomach"": ""increase"", ""lower_abdomen"": ""none"", ""upper_back"": ""increase"", ""lower_back"": ""none"", ""arms"": ""increase"", ""hands"": ""increase"", ""thighs"": ""none"", ""lower_legs"": ""none"", ""feet"": ""none""}, ""feeling"": ""anger""}"
+2026-10-22T11:47:31.913425+00:00,google,google/gemini-3.8-flash,anger,emotion,en,3,anger,increase,increase,increase,increase,increase,increase,increase,increase,none,increase,none,increase,increase,none,none,none,,"```json
+{
+  ""regions"": {
+    ""head_top"": ""increase"",
+    ""face"": ""increase"",
+    ""throat"": ""increase"",
+    ""neck_shoulders"": ""increase"",
+    ""chest_upper"": ""increase"",
+    ""heart_area"": ""increase"",
+    ""sternum_center"": ""increase"",
+    ""stomach"": ""increase"",
+    ""lower_abdomen"": ""none"",
+    ""upper_back"": ""increase"",
+    ""lower_back"": ""none"",
+    ""arms"": ""increase"",
+    ""hands"": ""increase"",
+    ""thighs"": ""none"",
+    ""lower_legs"": ""none"",
+    ""feet"": ""none""
+  },
+  ""feeling"": ""anger""
+}
+```"
+2026-10-22T11:47:38.574097+00:00,google,google/gemini-3.8-flash,anger,emotion,fa,1,خشم,increase,increase,increase,increase,increase,increase,increase,increase,none,increase,none,increase,increase,none,none,none,,"{
+  ""regions"": {
+    ""head_top"": ""increase"",
+    ""face"": ""increase"",
+    ""throat"": ""increase"",
+    ""neck_shoulders"": ""increase"",
+    ""chest_upper"": ""increase"",
+    ""heart_area"": ""increase"",
+    ""sternum_center"": ""increase"",
+    ""stomach"": ""increase"",
+    ""lower_abdomen"": ""none"",
+    ""upper_back"": ""increase"",
+    ""lower_back"": ""none"",
+    ""arms"": ""increase"",
+    ""hands"": ""increase"",
+    ""thighs"": ""none"",
+    ""lower_legs"": ""none"",
+    ""feet"": ""none""
+  },
+  ""feeling"": ""خشم""
+}"
+2026-10-22T11:47:46.256351+00:00,google,google/gemini-3.8-flash,anger,emotion,fa,2,خشم,increase,increase,increase,increase,increase,increase,increase,increase,none,increase,none,increase,increase,none,none,none,,"```json
+{
+  ""regions"": {
+    ""head_top"": ""increase"",
+    ""face"": ""increase"",
+    ""throat"": ""increase"",
+    ""neck_shoulders"": ""increase"",
+    ""chest_upper"": ""increase"",
+    ""heart_area"": ""increase"",
+    ""sternum_center"": ""increase"",
+    ""stomach"": ""increase"",
+    ""lower_abdomen"": ""none"",
+    ""upper_back"": ""increase"",
+    ""lower_back"": ""none"",
+    ""arms"": ""increase"",
+    ""hands"": ""increase"",
+    ""thighs"": ""none"",
+    ""lower_legs"": ""none"",
+    ""feet"": ""none""
+  },
+  ""feeling"": ""خشم""
+}
+```"
+2026-10-22T11:47:52.698503+00:00,google,google/gemini-3.8-flash,anger,emotion,fa,3,خشم,increase,increase,increase,increase,increase,increase,increase,increase,none,increase,none,increase,increase,none,none,none,,"```json
+{
+  ""regions"": {
+    ""head_top"": ""increase"",
+    ""face"": ""increase"",
+    ""throat"": ""increase"",
+    ""neck_shoulders"": ""increase"",
+    ""chest_upper"": ""increase"",
+    ""heart_area"": ""increase"",
+    ""sternum_center"": ""increase"",
+    ""stomach"": ""increase"",
+    ""lower_abdomen"": ""none"",
+    ""upper_back"": ""increase"",
+    ""lower_back"": ""none"",
+    ""arms"": ""increase"",
+    ""hands"": ""increase"",
+    ""thighs"": ""none"",
+    ""lower_legs"": ""none"",
+    ""feet"": ""none""
+  },
+  ""feeling"": ""خشم""
+}
+```"
+2026-10-22T11:48:00.797454+00:00,google,google/gemini-3.8-flash,S1,phrase,en,1,depression,increase,decrease,none,increase,decrease,decrease,decrease,decrease,decrease,increase,decrease,decrease,decrease,decrease,decrease,decrease,,"```json
+{
+  ""regions"": {
+    ""head_top"": ""increase"",
+    ""face"": ""decrease"",
+    ""throat"": ""none"",
+    ""neck_shoulders"": ""increase"",
+    ""chest_upper"": ""decrease"",
+    ""heart_area"": ""decrease"",
+    ""sternum_center"": ""decrease"",
+    ""stomach"": ""decrease"",
+    ""lower_abdomen"": ""decrease"",
+    ""upper_back"": ""increase"",
+    ""lower_back"": ""decrease"",
+    ""arms"": ""decrease"",
+    ""hands"": ""decrease"",
+    ""thighs"": ""decrease"",
+    ""lower_legs"": ""decrease"",
+    ""feet"": ""decrease""
+  },
+  ""feeling"": ""depression""
+}
+```"
+2026-10-22T11:48:10.732041+00:00,google,google/gemini-3.8-flash,S1,phrase,en,2,malaise,increase,decrease,none,increase,decrease,none,none,decrease,none,increase,none,decrease,none,decrease,decrease,none,,"{""regions"": {""head_top"": ""increase"", ""face"": ""decrease"", ""throat"": ""none"", ""neck_shoulders"": ""increase"", ""chest_upper"": ""decrease"", ""heart_area"": ""none"", ""sternum_center"": ""none"", ""stomach"": ""decrease"", ""lower_abdomen"": ""none"", ""upper_back"": ""increase"", ""lower_back"": ""none"", ""arms"": ""decrease"", ""hands"": ""none"", ""thighs"": ""decrease"", ""lower_legs"": ""decrease"", ""feet"": ""none""}, ""feeling"": ""malaise""}"
+2026-10-22T11:48:22.218110+00:00,google,google/gemini-3.8-flash,S1,phrase,en,3,malaise,increase,decrease,none,increase,decrease,decrease,decrease,decrease,none,increase,none,decrease,decrease,decrease,decrease,decrease,,"```json
+{
+  ""regions"": {
+    ""head_top"": ""increase"",
+    ""face"": ""decrease"",
+    ""throat"": ""none"",
+    ""neck_shoulders"": ""increase"",
+    ""chest_upper"": ""decrease"",
+    ""heart_area"": ""decrease"",
+    ""sternum_center"": ""decrease"",
+    ""stomach"": ""decrease"",
+    ""lower_abdomen"": ""none"",
+    ""upper_back"": ""increase"",
+    ""lower_back"": ""none"",
+    ""arms"": ""decrease"",
+    ""hands"": ""decrease"",
+    ""thighs"": ""decrease"",
+    ""lower_legs"": ""decrease"",
+    ""feet"": ""decrease""
+  },
+  ""feeling"": ""malaise""
+}
+```"
+2026-10-22T11:48:41.229360+00:00,google,google/gemini-3.8-flash,S1,phrase,fa,1,اضطراب و کلافگی مبهم,increase,none,none,increase,increase,increase,increase,increase,none,increase,none,decrease,decrease,decrease,decrease,decrease,,"```json
+{
+  ""regions"": {
+    ""head_top"": ""increase"",
+    ""face"": ""none"",
+    ""throat"": ""none"",
+    ""neck_shoulders"": ""increase"",
+    ""chest_upper"": ""increase"",
+    ""heart_area"": ""increase"",
+    ""sternum_center"": ""increase"",
+    ""stomach"": ""increase"",
+    ""lower_abdomen"": ""none"",
+    ""upper_back"": ""increase"",
+    ""lower_back"": ""none"",
+    ""arms"": ""decrease"",
+    ""hands"": ""decrease"",
+    ""thighs"": ""decrease"",
+    ""lower_legs"": ""decrease"",
+    ""feet"": ""decrease""
+  },
+  ""feeling"": ""اضطراب و کلافگی مبهم""
+}
+```"
+2026-10-22T11:49:02.646165+00:00,google,google/gemini-3.8-flash,S1,phrase,fa,2,کلافگی و کسالت مبهم (ملال),increase,none,none,increase,increase,none,increase,increase,none,increase,none,decrease,decrease,decrease,decrease,decrease,,"{
+  ""regions"": {
+    ""head_top"": ""increase"",
+    ""face"": ""none"",
+    ""throat"": ""none"",
+    ""neck_shoulders"": ""increase"",
+    ""chest_upper"": ""increase"",
+    ""heart_area"": ""none"",
+    ""sternum_center"": ""increase"",
+    ""stomach"": ""increase"",
+    ""lower_abdomen"": ""none"",
+    ""upper_back"": ""increase"",
+    ""lower_back"": ""none"",
+    ""arms"": ""decrease"",
+    ""hands"": ""decrease"",
+    ""thighs"": ""decrease"",
+    ""lower_legs"": ""decrease"",
+    ""feet"": ""decrease""
+  },
+  ""feeling"": ""کلافگی و کسالت مبهم (ملال)""
+}"
+2026-10-22T11:49:12.679237+00:00,google,google/gemini-3.8-flash,S1,phrase,fa,3,کلافگی و رخوت مبهم,increase,decrease,none,increase,increase,none,increase,increase,decrease,increase,none,decrease,decrease,decrease,decrease,decrease,,"{
+  ""regions"": {
+    ""head_top"": ""increase"",
+    ""face"": ""decrease"",
+    ""throat"": ""none"",
+    ""neck_shoulders"": ""increase"",
+    ""chest_upper"": ""increase"",
+    ""heart_area"": ""none"",
+    ""sternum_center"": ""increase"",
+    ""stomach"": ""increase"",
+    ""lower_abdomen"": ""decrease"",
+    ""upper_back"": ""increase"",
+    ""lower_back"": ""none"",
+    ""arms"": ""decrease"",
+    ""hands"": ""decrease"",
+    ""thighs"": ""decrease"",
+    ""lower_legs"": ""decrease"",
+    ""feet"": ""decrease""
+  },
+  ""feeling"": ""کلافگی و رخوت مبهم""
+}"
+2026-10-22T11:49:37.088343+00:00,google,google/gemini-3.8-flash,S3,phrase,en,1,sadness,increase,increase,increase,none,increase,increase,increase,none,none,none,none,decrease,decrease,decrease,decrease,decrease,,"{""regions"": {""head_top"": ""increase"", ""face"": ""increase"", ""throat"": ""increase"", ""neck_shoulders"": ""none"", ""chest_upper"": ""increase"", ""heart_area"": ""increase"", ""sternum_center"": ""increase"", ""stomach"": ""none"", ""lower_abdomen"": ""none"", ""upper_back"": ""none"", ""lower_back"": ""none"", ""arms"": ""decrease"", ""hands"": ""decrease"", ""thighs"": ""decrease"", ""lower_legs"": ""decrease"", ""feet"": ""decrease""}, ""feeling"": ""sadness""}"
+2026-10-22T11:49:56.741478+00:00,google,google/gemini-3.8-flash,S3,phrase,en,2,sadness,none,increase,increase,none,increase,increase,increase,none,none,none,none,decrease,decrease,decrease,decrease,decrease,,"{""regions"": {""head_top"": ""none"", ""face"": ""increase"", ""throat"": ""increase"", ""neck_shoulders"": ""none"", ""chest_upper"": ""increase"", ""heart_area"": ""increase"", ""sternum_center"": ""increase"", ""stomach"": ""none"", ""lower_abdomen"": ""none"", ""upper_back"": ""none"", ""lower_back"": ""none"", ""arms"": ""decrease"", ""hands"": ""decrease"", ""thighs"": ""decrease"", ""lower_legs"": ""decrease"", ""feet"": ""decrease""}, ""feeling"": ""sadness""}"
+2026-10-22T11:50:04.289717+00:00,google,google/gemini-3.8-flash,S3,phrase,en,3,sadness,none,increase,increase,increase,increase,increase,increase,decrease,none,none,none,decrease,decrease,decrease,decrease,decrease,,"```json
+{
+  ""regions"": {
+    ""head_top"": ""none"",
+    ""face"": ""increase"",
+    ""throat"": ""increase"",
+    ""neck_shoulders"": ""increase"",
+    ""chest_upper"": ""increase"",
+    ""heart_area"": ""increase"",
+    ""sternum_center"": ""increase"",
+    ""stomach"": ""decrease"",
+    ""lower_abdomen"": ""none"",
+    ""upper_back"": ""none"",
+    ""lower_back"": ""none"",
+    ""arms"": ""decrease"",
+    ""hands"": ""decrease"",
+    ""thighs"": ""decrease"",
+    ""lower_legs"": ""decrease"",
+    ""feet"": ""decrease""
+  },
+  ""feeling"": ""sadness""
+}
+```"
+2026-10-22T11:50:16.372120+00:00,google,google/gemini-3.8-flash,S3,phrase,fa,1,غم و دل‌گرفتگی (اندوه),decrease,decrease,increase,increase,increase,increase,increase,decrease,decrease,increase,none,decrease,decrease,decrease,decrease,decrease,,"```json
+{
+  ""regions"": {
+    ""head_top"": ""decrease"",
+    ""face"": ""decrease"",
+    ""throat"": ""increase"",
+    ""neck_shoulders"": ""increase"",
+    ""chest_upper"": ""increase"",
+    ""heart_area"": ""increase"",
+    ""sternum_center"": ""increase"",
+    ""stomach"": ""decrease"",
+    ""lower_abdomen"": ""decrease"",
+    ""upper_back"": ""increase"",
+    ""lower_back"": ""none"",
+    ""arms"": ""decrease"",
+    ""hands"": ""decrease"",
+    ""thighs"": ""decrease"",
+    ""lower_legs"": ""decrease"",
+    ""feet"": ""decrease""
+  },
+  ""feeling"": ""غم و دل‌گرفتگی (اندوه)""
+}
+```"
+2026-10-22T11:50:24.875125+00:00,google,google/gemini-3.8-flash,S3,phrase,fa,2,غم، دل‌گرفتگی و کرختی روحی,increase,decrease,increase,increase,increase,increase,increase,decrease,none,increase,none,decrease,decrease,decrease,decrease,decrease,,"```json
+{
+  ""regions"": {
+    ""head_top"": ""increase"",
+    ""face"": ""decrease"",
+    ""throat"": ""increase"",
+    ""neck_shoulders"": ""increase"",
+    ""chest_upper"": ""increase"",
+    ""heart_area"": ""increase"",
+    ""sternum_center"": ""increase"",
+    ""stomach"": ""decrease"",
+    ""lower_abdomen"": ""none"",
+    ""upper_back"": ""increase"",
+    ""lower_back"": ""none"",
+    ""arms"": ""decrease"",
+    ""hands"": ""decrease"",
+    ""thighs"": ""decrease"",
+    ""lower_legs"": ""decrease"",
+    ""feet"": ""decrease""
+  },
+  ""feeling"": ""غم، دل‌گرفتگی و کرختی روحی""
+}
+```"
+2026-10-22T11:50:34.396395+00:00,google,google/gemini-3.8-flash,S3,phrase,fa,3,غم و دل‌گرفتگی,none,increase,increase,increase,increase,increase,increase,increase,none,increase,none,decrease,decrease,decrease,decrease,decrease,,"{""regions"": {""head_top"": ""none"", ""face"": ""increase"", ""throat"": ""increase"", ""neck_shoulders"": ""increase"", ""chest_upper"": ""increase"", ""heart_area"": ""increase"", ""sternum_center"": ""increase"", ""stomach"": ""increase"", ""lower_abdomen"": ""none"", ""upper_back"": ""increase"", ""lower_back"": ""none"", ""arms"": ""decrease"", ""hands"": ""decrease"", ""thighs"": ""decrease"", ""lower_legs"": ""decrease"", ""feet"": ""decrease""}, ""feeling"": ""غم و دل‌گرفتگی""}"
+2026-10-22T11:50:53.455312+00:00,google,google/gemini-3.8-flash,S4,phrase,en,1,anxiety,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,none,decrease,decrease,decrease,decrease,decrease,,"```json
+{
+  ""regions"": {
+    ""head_top"": ""increase"",
+    ""face"": ""increase"",
+    ""throat"": ""increase"",
+    ""neck_shoulders"": ""increase"",
+    ""chest_upper"": ""increase"",
+    ""heart_area"": ""increase"",
+    ""sternum_center"": ""increase"",
+    ""stomach"": ""increase"",
+    ""lower_abdomen"": ""increase"",
+    ""upper_back"": ""increase"",
+    ""lower_back"": ""none"",
+    ""arms"": ""decrease"",
+    ""hands"": ""decrease"",
+    ""thighs"": ""decrease"",
+    ""lower_legs"": ""decrease"",
+    ""feet"": ""decrease""
+  },
+  ""feeling"": ""anxiety""
+}
+```"
+2026-10-22T11:51:04.236864+00:00,google,google/gemini-3.8-flash,S4,phrase,en,2,anxiety,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,none,none,decrease,none,none,decrease,,"```json
+{
+  ""regions"": {
+    ""head_top"": ""increase"",
+    ""face"": ""increase"",
+    ""throat"": ""increase"",
+    ""neck_shoulders"": ""increase"",
+    ""chest_upper"": ""increase"",
+    ""heart_area"": ""increase"",
+    ""sternum_center"": ""increase"",
+    ""stomach"": ""increase"",
+    ""lower_abdomen"": ""increase"",
+    ""upper_back"": ""increase"",
+    ""lower_back"": ""none"",
+    ""arms"": ""none"",
+    ""hands"": ""decrease"",
+    ""thighs"": ""none"",
+    ""lower_legs"": ""none"",
+    ""feet"": ""decrease""
+  },
+  ""feeling"": ""anxiety""
+}
+```"
+2026-10-22T11:51:14.004121+00:00,google,google/gemini-3.8-flash,S4,phrase,en,3,anxiety,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,none,none,decrease,decrease,decrease,decrease,,"```json
+{
+  ""regions"": {
+    ""head_top"": ""increase"",
+    ""face"": ""increase"",
+    ""throat"": ""increase"",
+    ""neck_shoulders"": ""increase"",
+    ""chest_upper"": ""increase"",
+    ""heart_area"": ""increase"",
+    ""sternum_center"": ""increase"",
+    ""stomach"": ""increase"",
+    ""lower_abdomen"": ""increase"",
+    ""upper_back"": ""increase"",
+    ""lower_back"": ""none"",
+    ""arms"": ""none"",
+    ""hands"": ""decrease"",
+    ""thighs"": ""decrease"",
+    ""lower_legs"": ""decrease"",
+    ""feet"": ""decrease""
+  },
+  ""feeling"": ""anxiety""
+}
+```"
+2026-10-22T11:51:25.754055+00:00,google,google/gemini-3.8-flash,S4,phrase,fa,1,اضطراب و دلشوره,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,none,none,decrease,none,none,decrease,,"```json
+{
+  ""regions"": {
+    ""head_top"": ""increase"",
+    ""face"": ""increase"",
+    ""throat"": ""increase"",
+    ""neck_shoulders"": ""increase"",
+    ""chest_upper"": ""increase"",
+    ""heart_area"": ""increase"",
+    ""sternum_center"": ""increase"",
+    ""stomach"": ""increase"",
+    ""lower_abdomen"": ""increase"",
+    ""upper_back"": ""increase"",
+    ""lower_back"": ""none"",
+    ""arms"": ""none"",
+    ""hands"": ""decrease"",
+    ""thighs"": ""none"",
+    ""lower_legs"": ""none"",
+    ""feet"": ""decrease""
+  },
+  ""feeling"": ""اضطراب و دلشوره""
+}
+```"
+2026-10-22T11:51:48.032605+00:00,google,google/gemini-3.8-flash,S4,phrase,fa,2,اضطراب و دلشوره,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,none,decrease,decrease,decrease,decrease,decrease,,"{
+  ""regions"": {
+    ""head_top"": ""increase"",
+    ""face"": ""increase"",
+    ""throat"": ""increase"",
+    ""neck_shoulders"": ""increase"",
+    ""chest_upper"": ""increase"",
+    ""heart_area"": ""increase"",
+    ""sternum_center"": ""increase"",
+    ""stomach"": ""increase"",
+    ""lower_abdomen"": ""increase"",
+    ""upper_back"": ""increase"",
+    ""lower_back"": ""none"",
+    ""arms"": ""decrease"",
+    ""hands"": ""decrease"",
+    ""thighs"": ""decrease"",
+    ""lower_legs"": ""decrease"",
+    ""feet"": ""decrease""
+  },
+  ""feeling"": ""اضطراب و دلشوره""
+}"
+2026-10-22T11:51:59.396431+00:00,google,google/gemini-3.8-flash,S4,phrase,fa,3,اضطراب و دلشوره,increase,increase,increase,increase,increase,increase,increase,increase,increase,increase,none,none,decrease,none,decrease,decrease,,"```json
+{
+  ""regions"": {
+    ""head_top"": ""increase"",
+    ""face"": ""increase"",
+    ""throat"": ""increase"",
+    ""neck_shoulders"": ""increase"",
+    ""chest_upper"": ""increase"",
+    ""heart_area"": ""increase"",
+    ""sternum_center"": ""increase"",
+    ""stomach"": ""increase"",
+    ""lower_abdomen"": ""increase"",
+    ""upper_back"": ""increase"",
+    ""lower_back"": ""none"",
+    ""arms"": ""none"",
+    ""hands"": ""decrease"",
+    ""thighs"": ""none"",
+    ""lower_legs"": ""decrease"",
+    ""feet"": ""decrease""
+  },
+  ""feeling"": ""اضطراب و دلشوره""
+}
+```"
+2026-10-22T11:52:06.636718+00:00,google,google/gemini-3.8-flash,S8,phrase,en,1,anxiety,none,none,increase,increase,increase,increase,increase,increase,none,increase,none,none,none,none,none,none,,"```json
+{
+  ""regions"": {
+    ""head_top"": ""none"",
+    ""face"": ""none"",
+    ""throat"": ""increase"",
+    ""neck_shoulders"": ""increase"",
+    ""chest_upper"": ""increase"",
+    ""heart_area"": ""increase"",
+    ""sternum_center"": ""increase"",
+    ""stomach"": ""increase"",
+    ""lower_abdomen"": ""none"",
+    ""upper_back"": ""increase"",
+    ""lower_back"": ""none"",
+    ""arms"": ""none"",
+    ""hands"": ""none"",
+    ""thighs"": ""none"",
+    ""lower_legs"": ""none"",
+    ""feet"": ""none""
+  },
+  ""feeling"": ""anxiety""
+}
+```"
+2026-10-22T11:52:13.680999+00:00,google,google/gemini-3.8-flash,S8,phrase,en,2,anxiety,none,none,increase,increase,increase,increase,increase,increase,none,increase,none,none,none,none,none,none,,"```json
+{
+  ""regions"": {
+    ""head_top"": ""none"",
+    ""face"": ""none"",
+    ""throat"": ""increase"",
+    ""neck_shoulders"": ""increase"",
+    ""chest_upper"": ""increase"",
+    ""heart_area"": ""increase"",
+    ""sternum_center"": ""increase"",
+    ""stomach"": ""increase"",
+    ""lower_abdomen"": ""none"",
+    ""upper_back"": ""increase"",
+    ""lower_back"": ""none"",
+    ""arms"": ""none"",
+    ""hands"": ""none"",
+    ""thighs"": ""none"",
+    ""lower_legs"": ""none"",
+    ""feet"": ""none""
+  },
+  ""feeling"": ""anxiety""
+}
+```"
+2026-10-22T11:52:19.063002+00:00,google,google/gemini-3.8-flash,S8,phrase,en,3,anxiety,none,none,increase,increase,increase,increase,increase,increase,none,increase,none,none,none,none,none,none,,"```json
+{
+  ""regions"": {
+    ""head_top"": ""none"",
+    ""face"": ""none"",
+    ""throat"": ""increase"",
+    ""neck_shoulders"": ""increase"",
+    ""chest_upper"": ""increase"",
+    ""heart_area"": ""increase"",
+    ""sternum_center"": ""increase"",
+    ""stomach"": ""increase"",
+    ""lower_abdomen"": ""none"",
+    ""upper_back"": ""increase"",
+    ""lower_back"": ""none"",
+    ""arms"": ""none"",
+    ""hands"": ""none"",
+    ""thighs"": ""none"",
+    ""lower_legs"": ""none"",
+    ""feet"": ""none""
+  },
+  ""feeling"": ""anxiety""
+}
+```"
+2026-10-22T11:52:37.581167+00:00,google,google/gemini-3.8-flash,S8,phrase,fa,1,اضطراب و تنگی نفس عصبی,none,none,increase,increase,increase,increase,increase,increase,none,increase,none,none,none,none,none,none,,"```json
+{
+  ""regions"": {
+    ""head_top"": ""none"",
+    ""face"": ""none"",
+    ""throat"": ""increase"",
+    ""neck_shoulders"": ""increase"",
+    ""chest_upper"": ""increase"",
+    ""heart_area"": ""increase"",
+    ""sternum_center"": ""increase"",
+    ""stomach"": ""increase"",
+    ""lower_abdomen"": ""none"",
+    ""upper_back"": ""increase"",
+    ""lower_back"": ""none"",
+    ""arms"": ""none"",
+    ""hands"": ""none"",
+    ""thighs"": ""none"",
+    ""lower_legs"": ""none"",
+    ""feet"": ""none""
+  },
+  ""feeling"": ""اضطراب و تنگی نفس عصبی""
+}
+```"
+2026-10-22T11:52:44.878558+00:00,google,google/gemini-3.8-flash,S8,phrase,fa,2,اضطراب و استرس پنهان,none,none,increase,increase,increase,increase,increase,increase,none,increase,none,none,decrease,none,none,none,,"```json
+{
+  ""regions"": {
+    ""head_top"": ""none"",
+    ""face"": ""none"",
+    ""throat"": ""increase"",
+    ""neck_shoulders"": ""increase"",
+    ""chest_upper"": ""increase"",
+    ""heart_area"": ""increase"",
+    ""sternum_center"": ""increase"",
+    ""stomach"": ""increase"",
+    ""lower_abdomen"": ""none"",
+    ""upper_back"": ""increase"",
+    ""lower_back"": ""none"",
+    ""arms"": ""none"",
+    ""hands"": ""decrease"",
+    ""thighs"": ""none"",
+    ""lower_legs"": ""none"",
+    ""feet"": ""none""
+  },
+  ""feeling"": ""اضطراب و استرس پنهان""
+}
+```"
+2026-10-22T11:52:52.606148+00:00,google,google/gemini-3.8-flash,S8,phrase,fa,3,اضطراب و تنگی نفس,none,none,increase,increase,increase,increase,increase,increase,none,increase,none,none,none,none,none,none,,"```json
+{
+  ""regions"": {
+    ""head_top"": ""none"",
+    ""face"": ""none"",
+    ""throat"": ""increase"",
+    ""neck_shoulders"": ""increase"",
+    ""chest_upper"": ""increase"",
+    ""heart_area"": ""increase"",
+    ""sternum_center"": ""increase"",
+    ""stomach"": ""increase"",
+    ""lower_abdomen"": ""none"",
+    ""upper_back"": ""increase"",
+    ""lower_back"": ""none"",
+    ""arms"": ""none"",
+    ""hands"": ""none"",
+    ""thighs"": ""none"",
+    ""lower_legs"": ""none"",
+    ""feet"": ""none""
+  },
+  ""feeling"": ""اضطراب و تنگی نفس""
+}
+```"

@@ -1,0 +1,18 @@
+scenario_id,type,language,status,text
+S1,vague,fa,final,چند روزه حس می‌کنم یه جوریم، نمی‌دونم چمه.
+S1,vague,en,final,For a few days I've just felt off. I don't know what's wrong with me.
+S2,vague,fa,final,چند روزه کلّه‌م خرابه، حال هیچی رو ندارم، نمی‌دونم چمه.
+S2,vague,en,final,For a few days I've been feeling pretty low and can't be bothered with anything. I don't know what's wrong with me.
+S3,bodily_emotional_idiom,fa,final,چند روزه دلم گرفته، نمی‌دونم چمه.
+S3,bodily_emotional_idiom,en,final,For a few days my heart has felt heavy. I don't know what's wrong with me.
+S3b,emotional_natural_variant,en,final,For a few days I've been feeling really low. I don't know what's wrong with me.
+S4,bodily_emotional_idiom,fa,final,چند روزه دلشوره دارم و دلم آشوبه، نمی‌دونم چمه.
+S4,bodily_emotional_idiom,en,final,For a few days I've had a knot in my stomach. I don't know what's wrong with me.
+S5,metaphor,fa,final,چند روزه انگار یکی زدتم، نمی‌دونم چمه.
+S5,metaphor,en,final,For a few days I've felt like I've been hit by a truck. I don't know what's wrong with me.
+S6,metaphor_self_label,fa,final,چند روزه انگار سگ سیاه افسردگی بغلم کرده، نمی‌دونم چمه.
+S6,metaphor_self_label,en,final,For a few days it feels like depression has got its grip on me. I don't know what's wrong with me.
+S7,literal_bodily,fa,final,چند روزه شقیقه‌هام می‌زنه، نمی‌دونم چمه.
+S7,literal_bodily,en,final,For a few days my temples have been throbbing. I don't know what's wrong with me.
+S8,literal_bodily,fa,final,چند روزه انگار درست نمی‌تونم نفس بکشم، نمی‌دونم چمه.
+S8,literal_bodily,en,final,For a few days it's been hard for me to take a full breath. I don't know what's wrong with me.
